@@ -5,7 +5,7 @@ authors:
 - Emily Kubin
 - Jarret T Crawford
 - brandtmark
-date: "2020-09-14T00:00:00Z"
+date: "2020-03-13T00:00:00Z"
 doi: ""
 featured: false
 projects: [worldviewconflict]
