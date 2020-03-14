@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -19,19 +19,23 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  # filter_default = 0
   
   # [[content.filter_button]]
   #   name = "All"
   #   tag = "*"
-  
+  # 
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
+  #   name = "Political Psychology"
+  #   tag = "Political Psychology"
+  #   
+  # [[content.filter_button]]
+  #   name = "Improving Psych Sci"
+  #   tag = "Improving Psych Sci"
+  # 
   # [[content.filter_button]]
   #   name = "Other"
-  #   tag = "Demo"
+  #   tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -42,7 +46,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 3  
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
