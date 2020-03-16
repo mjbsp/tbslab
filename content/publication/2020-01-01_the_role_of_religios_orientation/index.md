@@ -13,12 +13,12 @@ publication: 'Van Tongeren, D. R., +Kubin, E., Crawford, J. T., & Brandt, M. J. 
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020"
+publishDate: "In Press"
 # slides: example
 title: The role of religious orientation in worldview conflict
-# url_code:
-# url_dataset:
-# url_pdf: https://osf.io/t7vpw/
+url_code: https://osf.io/8bfc2/
+url_dataset: https://osf.io/8bfc2/
+url_pdf: https://osf.io/b3qja/
 # url_poster:
 # url_project:
 # url_slides:
