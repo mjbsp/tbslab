@@ -6,10 +6,10 @@ authors:
 - Branden B Johnson
 - brandtmark
 date: "2020-01-01T00:00:00Z"
-doi: ""
+doi: "10.1177/0146167220916070"
 featured: false
 projects: [beliefsystemnetworks]
-publication: 'Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J. (in press). Conservatives moral foundations are more densely connected than liberals’ moral foundations. Personality and Social Psychology Bulletin.'
+publication: 'Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J. (in press). Conservatives moral foundations are more densely connected than liberals’ moral foundations. *Personality and Social Psychology Bulletin*. http://doi.org/10.1177/0146167220916070'
 publication_short: ""
 publication_types:
 - "2"
