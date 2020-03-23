@@ -8,12 +8,12 @@ light = false
 primary = "#FF6699"
 
 # Menu
-menu_primary = "hsla(231, 0%, 0%, 1)"
-menu_text = "hsl(339, 90%, 68%)"
-menu_text_active = "hsl(339, 90%, 50%)"
-menu_title = "#fff"
+menu_primary = "#000000"
+menu_text = "#FF6699"
+menu_text_active = "#FF0066"
+menu_title = "#FFFFFF"
 
 # Home sections
-background = "hsla(231, 0%, 0%, 1)"
-home_section_odd = "hsla(231, 0%, 0%, 1)"
-home_section_even = "hsla(231, 10%, 10%, 1)"
+background = "#000000"
+home_section_odd = "#000000"
+home_section_even = "#2F4F4F"
