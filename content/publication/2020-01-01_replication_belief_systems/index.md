@@ -2,9 +2,9 @@
 authors:
 - brandtmark
 date: "2020-01-03T00:00:00Z"
-# doi: 
+# doi:
 featured: false
-projects: [beliefsystemnetworks]
+projects: [beliefsystemnetworks, improvingpsychsci]
 publication: 'Brandt, M. J. (in press). Estimating and examining the replicability of belief system networks. *Collabra: Psychology*'
 publication_types:
 - "2"
