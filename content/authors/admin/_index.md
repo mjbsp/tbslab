@@ -3,7 +3,7 @@ authors:
 - The Belief Systems Laboratory
 email: "m.j.brandt@tilburguniversity.edu"
 interests: []
-name: The Belief Systems Laboratory
+name: 
 organizations:
 - name: Tilburg University
   url: "https://www.tilburguniversity.edu"
