@@ -3,7 +3,7 @@ authors:
 - Emily Kubin
 - brandtmark
 date: "2020-01-01T00:00:00Z"
-doi: ""
+doi: "10.1080/23743603.2020.1756242"
 featured: false
 projects: [worldviewconflict]
 publication: 'Kubin, E. & Brandt, M. J. (in press). Identifying the domains of ideological similarities and differences in attitudes. *Comprehensive Results in Social Psychology*.'
