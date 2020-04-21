@@ -2,7 +2,7 @@
 authors:
 - brandtmark
 date: "2020-01-03T00:00:00Z"
-# doi:
+doi: 10.1525/collabra.312
 featured: false
 projects: [beliefsystemnetworks, improvingpsychsci]
 publication: 'Brandt, M. J. (in press). Estimating and examining the replicability of belief system networks. *Collabra: Psychology*'
