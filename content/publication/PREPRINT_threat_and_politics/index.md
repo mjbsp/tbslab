@@ -7,11 +7,11 @@ authors:
 - Michael Bender
 - Yvette van Osch
 - Byron Adams
-date: "2019-10-29T00:00:00Z"
+date: "2020-4-02T00:00:00Z"
 doi: 10.31234/osf.io/e9uk7
 featured: false
 projects: [beliefsystemnetworks]
-publication: 'Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., van Leeuwen, F., Bender, M., van Osch, Y., & Adams, B. G. (2019, October 29). Threat and politics across countries. https://doi.org/10.31234/osf.io/e9uk7'
+publication: 'Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., van Leeuwen, F., Bender, M., van Osch, Y., & Adams, B. G. (2020, April 02). Threat and politics across countries. https://doi.org/10.31234/osf.io/e9uk7'
 publication_types:
 - "3"
 publishDate: "2019"
