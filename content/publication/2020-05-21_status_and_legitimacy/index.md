@@ -80,7 +80,7 @@ date: "2020-05-20T00:00:00Z"
 doi:
 featured: false
 projects: [statuslegit]
-publication: 'Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P., Badea, C., Bae, J., Batruch, A., Becker, J. C., Bocian, K., Bodroža, B., Bourguignon, D., Bukowski, M., Butera, F., Butler, S. E., Chryssochoou, X., Conway, P., Crawford, J. T., Croizet, J-C., de Lemus, S., Degner, J., Dragon, P., Durante, F., Easterbrook, M. J., Essien, I., Forgas, J. P., González, R., Graf, S., Halama, P., Han, G., Hong, R. Y., Houdek, P., Igou, E. R., Inbar, Y., Jetten, J., Jimenez Leal, W., Jiménez-Moya, G., Kumar Karunagharan, J., Kende, A., Korzh, M., Laham, S. M., Lammers, J., Lim, L., Manstead, A. S. R., Medevoić, J., Melton, Z. J., Motyl, M., Ntani, S., Owuamalam, C. J., Peker, M., Platow, M. J., Prims, J., Reyna, C., Rubin, M., Saab, R., Sankaran, S., Shepher, L., Sibley, C. G., Sobkow, A., Spruyt, B., Stroebaek, P., Sümer, N., Sweetman, J., Teizeira, C., Toma, C., Ujhelyi, A., van der Toorn, J., van Hiel, A., Vásquez-Echeverría, A., Vazquez, A., Vianello, M., Vranka, M., Yzerbyt, V., & Zimmerman, J. L. (in press). Subjective status and perceived legitimacy across countries. *European Journal of Social Psychology*.
+publication: 'Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P., Badea, C., Bae, J., Batruch, A., Becker, J. C., Bocian, K., Bodroža, B., Bourguignon, D., Bukowski, M., Butera, F., Butler, S. E., Chryssochoou, X., Conway, P., Crawford, J. T., Croizet, J-C., de Lemus, S., Degner, J., Dragon, P., Durante, F., Easterbrook, M. J., Essien, I., Forgas, J. P., González, R., Graf, S., Halama, P., Han, G., Hong, R. Y., Houdek, P., Igou, E. R., Inbar, Y., Jetten, J., Jimenez Leal, W., Jiménez-Moya, G., Kumar Karunagharan, J., Kende, A., Korzh, M., Laham, S. M., Lammers, J., Lim, L., Manstead, A. S. R., Medevoić, J., Melton, Z. J., Motyl, M., Ntani, S., Owuamalam, C. J., Peker, M., Platow, M. J., Prims, J., Reyna, C., Rubin, M., Saab, R., Sankaran, S., Shepher, L., Sibley, C. G., Sobkow, A., Spruyt, B., Stroebaek, P., Sümer, N., Sweetman, J., Teizeira, C., Toma, C., Ujhelyi, A., van der Toorn, J., van Hiel, A., Vásquez-Echeverría, A., Vazquez, A., Vianello, M., Vranka, M., Yzerbyt, V., & Zimmerman, J. L. (in press). Subjective status and perceived legitimacy across countries. *European Journal of Social Psychology*.'
 publication_short: ""
 publication_types:
 - "2"
@@ -95,4 +95,5 @@ url_pdf: https://osf.io/7knsb/
 # url_slides:
 # url_source:
 # url_video:
+
 ---
