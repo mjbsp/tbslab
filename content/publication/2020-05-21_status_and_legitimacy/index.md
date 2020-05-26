@@ -39,7 +39,7 @@ authors:
 - Jolanda Jetten
 - William Jimenez Leal
 - Gloria Jiménez-Moya
-- Jaya Kumar Karunagharan
+- Jaya K Karunagharan
 - Anna Kende
 - Maria Korzh
 - Simon M Laham
