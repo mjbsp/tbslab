@@ -4,7 +4,7 @@ authors:
 - Mark Alfano
 - brandtmark
 - Christine Pelican
-date: "2020-09-06T00:00:00Z"
+date: "2020-06-09T00:00:00Z"
 doi: 10.31219/osf.io/xnstk
 featured: false
 projects: [moralityandmoralization]
