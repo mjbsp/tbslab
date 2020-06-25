@@ -54,5 +54,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<div style="text-align: left">Click here to learn about ways to [join the lab]({{< ref "/labdocs/join.md" >}})!</div>
