@@ -55,4 +55,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Ways to [join the lab]({{< ref "/labdocs/join.md" >}})!
+<div style="text-align: left">Click here to learn about ways to [join the lab]({{< ref "/labdocs/join.md" >}})!</div>
