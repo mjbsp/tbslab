@@ -8,7 +8,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-The success of the Belief System Lab depends on the work of kind, passionate, and intelligent people. Thank you for considering joining the lab.
+The success of the Belief System Lab depends on the work of kind, passionate, and intelligent people. Thank you for considering joining the lab. A living draft of our lab philosophy is [here]({{< ref "/labdocs/philosophy.md" >}})
 
 ## Undergraduate Research Opportunities
 
