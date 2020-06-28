@@ -12,7 +12,7 @@ The success of the Belief System Lab depends on the work of kind, passionate, an
 
 ## Undergraduate Research Opportunities
 
-- Students at Michigan State University can work with the lab to learn new skills, gain experiences relevant for grad school, and earn course credit. PSY 491 is a pass/no pass option for people interested in work and gaining experiences. PSY 490 is a graded option for more experienced students who are able to do (some) independent work and complete a write-up of the project. 
+- Students at Michigan State University can work with the lab to learn new skills, gain experiences relevant for grad school, and earn course credit. PSY 491 is a pass/no pass option for people interested in work and gaining experiences. PSY 490 is a graded option for more experienced students who are able to do (some) independent work and complete a write-up of the project.
 
 - [Summer Research Opportunities Program](https://grad.msu.edu/srop/): This program provides summer research and professional development opportunities to undergraduates. It aims to to increase the number of underrepresented students in graduate education (including minority students, first-generation college students and students from low-income families) who pursue graduate study and research careers. This opportunity is open to U.S. citizens or permanent residents who are enrolled in a degree-granting program at a college/university in the U.S. The SROP is part of the [Big Ten Academic Alliance](https://www.btaa.org/resources-for/students/srop/introduction) and so SROP can be found at other Big 10 universities.
 
@@ -28,6 +28,6 @@ There is not an ideal person for the lab. Instead, I am looking for people who a
 
 ## Postdoctoral Researchers & Visiting Scholars
 
-If you are interested in working as a postdoc in the lab, please contact Mark  to make arrangements. Unless otherwise specified, postdocs will need to obtain external funding to support their stay. For example, the [NSF SBE Postdoctoral Fellowship](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504810) or the [Marie Skłodowska-Curie Global Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en).
+ - If you are interested in working as a postdoc in the lab, please contact Mark  to make arrangements. Unless otherwise specified, postdocs will need to obtain external funding to support their stay. For example, the [NSF SBE Postdoctoral Fellowship](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504810) or the [Marie Skłodowska-Curie Global Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en).
 
-If you are a PhD student, postdoc, or faculty at another institution and are interested in visiting the lab as a visiting scholar (i.e. hangout and work on some projects), please contact Mark.
+ - If you are a PhD student, postdoc, or faculty at another institution and are interested in visiting the lab as a visiting scholar (i.e. hangout and work on some projects), please contact Mark.
