@@ -14,8 +14,8 @@ publishDate: "2020"
 # slides: example
 tags:
 title: Identifying the domains of ideological similarities and differences in attitudes
-url_code: https://osf.io/v8k9u/
-url_dataset: https://osf.io/v8k9u/
+url_code: https://osf.io/gx3rn/
+url_dataset: https://osf.io/gx3rn/
 url_pdf: https://osf.io/sd87z/
 # url_poster:
 # url_project:
