@@ -4,10 +4,10 @@ authors:
 - brandtmark
 - turnerzwinkelsfelicity
 date: "2020-07-05T00:00:00Z"
-doi:
+doi: 10.1525/collabra.368
 featured: false
 projects: [worldviewconflict]
-publication: 'Brandt, M. J. & Turner-Zwinkels, F. M. (in press). No additional evidence that proximity to the July 4th holiday affects affective polarization. *Collabra: Psychology*'
+publication: 'Brandt, M. J. & Turner-Zwinkels, F. M. (in press). No additional evidence that proximity to the July 4th holiday affects affective polarization. *Collabra: Psychology*, 6, 39'
 publication_short: ""
 publication_types:
 - "2"
