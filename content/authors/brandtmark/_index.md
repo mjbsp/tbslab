@@ -1,19 +1,19 @@
 ---
 authors:
 - admin
-email: "m.j.brandt@tilburguniversity.edu"
+email: "brandt15@msu.edu"
 interests: []
 name: Mark J. Brandt
 organizations:
-- name: Tilburg University
-  url: "https://www.tilburguniversity.edu"
-- name: Department of Social Psychology
-  url: "https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/social-psychology"
+- name: Michigan State University
+  url: "https://msu.edu/"
+- name: Department of Psychology
+  url: "https://psychology.msu.edu/"
 role: Principal Investigator
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:m.j.brandt@tilburguniversity.edu
+  link: mailto:brandt15@msu.edu
 - icon: "cv"
   icon_pack: ai
   link: https://osf.io/vn6bw/
@@ -28,4 +28,4 @@ user_groups:
 - Researchers
 ---
 
-I am an associate professor in the Department of Social Psychology at Tilburg University. The overarching goal of my research program is to understand how ideological and moral beliefs – such as political ideology, religious fundamentalism, and moral conviction – structure attitudes and behaviors and provide people with meaning.
+I am an assistant professor in the Department of Psychology at Michigan State University. The overarching goal of my research program is to understand how ideological and moral beliefs – such as political ideology, religious fundamentalism, and moral conviction – structure attitudes and behaviors and provide people with meaning.
