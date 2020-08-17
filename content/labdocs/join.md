@@ -12,7 +12,7 @@ The success of the Belief System Lab depends on the work of kind, passionate, an
 
 ## Undergraduate Research Opportunities
 
-- Students at Michigan State University can work with the lab to learn new skills, gain experiences relevant for grad school, and earn course credit. PSY 491 is a pass/no pass option for people interested in work and gaining experiences. PSY 490 is a graded option for more experienced students who are able to do (some) independent work and complete a write-up of the project.
+- Students at Michigan State University can work with the lab to learn new skills, gain experiences relevant for grad school, and earn course credit. PSY 491 is a pass/no pass option for people interested in work and gaining experiences. PSY 490 is a graded option for more experienced students who are able to do (some) independent work and complete a write-up of the project. Email [Mark](mailto:brandt15@msu.edu) if you are interested in this option.
 
 - [Summer Research Opportunities Program](https://grad.msu.edu/srop/): This program provides summer research and professional development opportunities to undergraduates. It aims to to increase the number of underrepresented students in graduate education (including minority students, first-generation college students and students from low-income families) who pursue graduate study and research careers. This opportunity is open to U.S. citizens or permanent residents who are enrolled in a degree-granting program at a college/university in the U.S. The SROP is part of the [Big Ten Academic Alliance](https://www.btaa.org/resources-for/students/srop/introduction) and so SROP can be found at other Big 10 universities.
 
