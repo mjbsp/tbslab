@@ -10,8 +10,6 @@ comments: false  # Show comments?
 ---
 The success of the Belief System Lab depends on the work of kind, passionate, and intelligent people. Thank you for considering joining the lab. A living draft of our lab philosophy is [here]({{< ref "/labdocs/philosophy.md" >}}).
 
-*I am accepting a PhD student for Fall 2021. See more below.*
-
 ## Undergraduate Research Opportunities
 
 - Students at Michigan State University can work with the lab to learn new skills, gain experiences relevant for grad school, and earn course credit. PSY 491 is a pass/no pass option for people interested in work and gaining experiences. PSY 490 is a graded option for more experienced students who are able to do (some) independent work and complete a write-up of the project. Email [Mark](mailto:brandt15@msu.edu) if you are interested in this option.
@@ -20,7 +18,7 @@ The success of the Belief System Lab depends on the work of kind, passionate, an
 
 ## PhD Research Opportunities
 
-*I am accepting a PhD student for Fall 2021*. Highly motivated students interested in completing a PhD can apply to [Michigan State University's Psychology PhD program](https://psychology.msu.edu/graduatestudents/prospectivegrad-students.html) (area: Social / Personality). The deadline for applications is December 1st. Students in the program are supported by teaching/research/university fellowships for the first four years of the program. After the fourth year students often receive support by teaching their own classes. The support includes a stipend, tuition, and health care. It is also possible to earn a Concentration in Quantitative Methodology and Evaluation Science.
+*Unfortunately, I am unable to accept a PhD student for Fall 2021*. Highly motivated students interested in completing a PhD can apply to [Michigan State University's Psychology PhD program](https://psychology.msu.edu/graduatestudents/prospectivegrad-students.html) (area: Social / Personality). The deadline for applications is December 1st. Students in the program are supported by teaching/research/university fellowships for the first four years of the program. After the fourth year students often receive support by teaching their own classes. The support includes a stipend, tuition, and health care. It is also possible to earn a Concentration in Quantitative Methodology and Evaluation Science.
 
 In addition to taking courses, students will be able to work in the Belief Systems Lab and with the other faculty in the program. The Belief Systems Lab is also associated with the [Minority Politics Lab](https://polisci.msu.edu/research/minority-politics/index.html), which is a joint research group with people in both social psychology and political science. Lab members will also be able to take advantage of opportunities in the Minority Politics Lab.
 
