@@ -7,7 +7,7 @@ date: "2020-01-01T00:00:00Z"
 doi: 10.1177/2167696818810618
 featured: false
 projects: [worldviewconflict]
-publication: 'Leighton, D. C., Brandt, M. J., & Kennedy, L. (in press). Political extremity, social media use, social support, and well-being for emerging adults during the 2016 presidential election campaign. *Emerging Adulthood*. https://doi.org/10.1177/2167696818810618'
+publication: 'Leighton, D., Brandt, M. J., & Kennedy, L. (2020). Political extremity, social media use, social support, and well-being for emerging adults during the 2016 presidential election campaign. *Emerging Adulthood, 8*, 285-296. https://doi.org/10.1177/2167696818810618'
 publication_short: ""
 publication_types:
 - "2"
