@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: TESTING
-view: 4
+title: Publications
+view: 1
 ---
