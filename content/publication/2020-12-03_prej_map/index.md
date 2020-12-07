@@ -13,7 +13,7 @@ publishDate: "2021"
 title: "Mapping principal dimensions of prejudice in the United States"
 # url_code:
 # url_dataset:
-# url_pdf: 
+url_pdf: https://osf.io/a29my/
 # url_poster:
 # url_project:
 # url_slides:
