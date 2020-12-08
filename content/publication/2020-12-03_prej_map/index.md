@@ -3,7 +3,7 @@ authors:
 - Robin Bergh
 - brandtmark
 date: "2020-12-03T00:00:00Z"
-doi:
+doi: 10.1037/pspi0000360 
 featured: false
 projects: [worldviewconflict]
 publication: 'Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of prejudice in the United States. *Journal of Personality and Social Psychology*.'
