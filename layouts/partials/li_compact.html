@@ -33,9 +33,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Params.publication }}</a>
-    </h3>
+    <h4 class="article-title mb-0 mt-0">
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Params.publication | markdownify}}</a>
+    </h4>
 
     {{ with $summary }}
     <div class="article-style">
