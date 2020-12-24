@@ -34,7 +34,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Params.publication | markdownify}}</a>
+      {{ $item.Params.publication | markdownify}}
     </h3>
 
     {{ with $summary }}
