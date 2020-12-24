@@ -13,7 +13,7 @@
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
 {{ else if eq $item.Type "publication" }}
-  {{ $show_authors_only = false }}
+  {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
 {{ else if eq $item.Type "project" }}
   {{ $show_authors_only = true }}
@@ -57,14 +57,7 @@
       </div>
       {{ end }}
 
-      {{ if and $show_authors_only $item.Params.authors }}
-      <div>
-        {{ partial "page_metadata_authors" $item }}
-      </div>
-      {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-      {{ end }}
-    </div>
+  
 
     {{ if $show_buttons }}
     <div class="btn-links">
