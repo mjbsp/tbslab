@@ -10,7 +10,7 @@ publication: 'Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions
 publication_types:
 - "2"
 publishDate: "2021"
-title: "Mapping principal dimensions of prejudice in the United States. Journal of Personality and Social Psychology"
+title: "Mapping principal dimensions of prejudice in the United States"
 # url_code:
 # url_dataset:
 url_pdf: https://osf.io/a29my/

@@ -13,7 +13,7 @@ publication_types:
 publishDate: "2020"
 # slides: example
 tags:
-title: Identifying the domains of ideological similarities and differences in attitudes. Comprehensive Results in Social Psychology
+title: Identifying the domains of ideological similarities and differences in attitudes
 url_code: https://osf.io/gx3rn/
 url_dataset: https://osf.io/gx3rn/
 url_pdf: https://osf.io/sd87z/

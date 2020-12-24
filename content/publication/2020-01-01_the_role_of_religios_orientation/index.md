@@ -15,7 +15,7 @@ publication_types:
 - "2"
 publishDate: "2020"
 # slides: example
-title: The role of religious orientation in worldview conflict. International Journal for the Psychology of Religion
+title: The role of religious orientation in worldview conflict
 url_code: https://osf.io/8bfc2/
 url_dataset: https://osf.io/8bfc2/
 url_pdf: https://osf.io/b3qja/
