@@ -7,7 +7,7 @@ date: "2019-07-12T00:00:00Z"
 doi: 10.31234/osf.io/37t2r
 featured: false
 projects: [moralityandmoralization]
-publication: 'Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, July 12). The effects of decision time on perceptions of decisions and decision makers in (moral) trade-off scenarios. https://doi.org/10.31234/osf.io/37t2r'
+publication: 'Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, July 12). The effects of decision time on perceptions of decisions and decision makers in (moral) trade-off scenarios. (preprint)'
 publication_types:
 - "3"
 publishDate: "2019"

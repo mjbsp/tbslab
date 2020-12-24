@@ -16,7 +16,7 @@ date: "2020-09-02T00:00:00Z"
 doi: 10.31222/osf.io/2gurz
 featured: false
 projects: [improvingpsychsci]
-publication: 'Isager, P. M., van Aert, R. C. M., Bahník, Š., Brandt, M. J., DeSoto, K. A., Giner-Sorolla, R., … Lakens, D. (2020, September 2). Deciding what to replicate: A formal definition of “replication value” and a decision model for replication study selection. https://doi.org/10.31222/osf.io/2gurz'
+publication: 'Isager, P. M., van Aert, R. C. M., Bahník, Š., Brandt, M. J., DeSoto, K. A., Giner-Sorolla, R., … Lakens, D. (2020, September 2). Deciding what to replicate: A formal definition of “replication value” and a decision model for replication study selection. (preprint)'
 publication_types:
 - "3"
 publishDate: "2020"

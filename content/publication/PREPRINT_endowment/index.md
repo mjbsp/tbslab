@@ -7,7 +7,7 @@ date: "2019-07-22T00:00:00Z"
 doi: 10.31234/osf.io/gqv72
 featured: false
 projects: []
-publication: 'Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, July 6). Endowment vs. previous preferences: Which cue drives consumer decision-making? https://doi.org/10.31234/osf.io/gqv72'
+publication: 'Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, July 6). Endowment vs. previous preferences: Which cue drives consumer decision-making? (preprint)'
 publication_types:
 - "3"
 publishDate: "2019"

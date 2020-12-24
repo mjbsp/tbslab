@@ -7,7 +7,7 @@ date: "2020-02-02T00:00:00Z"
 doi: 10.31234/osf.io/dxwpu
 featured: false
 projects: [worldviewconflict]
-publication: 'Voelkel, J. G., Ren, D., & Brandt, M. J. (2020, Feb 2). Political inclusion reduces political prejudice. https://doi.org/10.31234/osf.io/dxwpu'
+publication: 'Voelkel, J. G., Ren, D., & Brandt, M. J. (2020, Feb 2). Political inclusion reduces political prejudice. (preprint)'
 publication_types:
 - "3"
 publishDate: "2020"

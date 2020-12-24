@@ -6,7 +6,7 @@ date: "2020-12-01T00:00:00Z"
 doi: https://doi.org/10.31234/osf.io/b8hfa
 featured: false
 projects: [beliefsystemnetworks]
-publication: 'Brandt, M. J., & Sleegers, W. (2020, July 12). Evaluating belief system networks as a theory of political belief system dynamics. https://doi.org/10.31234/osf.io/b8hfa'
+publication: 'Brandt, M. J., & Sleegers, W. (2020, July 12). Evaluating belief system networks as a theory of political belief system dynamics. (preprint)'
 publication_types:
 - "3"
 publishDate: "2020"

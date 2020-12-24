@@ -7,7 +7,7 @@ date: "2018-07-02T00:00:00Z"
 doi: 10.31234/osf.io/c5h42
 featured: false
 projects: [moralityandmoralization]
-publication: 'Wagemans, F. M. A., Brandt, M. J., & Zeelenberg, M. (2018, July 2). Disgust sensitivity and moral judgments of purity: The role of transgression weirdness. https://doi.org/10.31234/osf.io/c5h42'
+publication: 'Wagemans, F. M. A., Brandt, M. J., & Zeelenberg, M. (2018, July 2). Disgust sensitivity and moral judgments of purity: The role of transgression weirdness. (preprint)'
 publication_types:
 - "3"
 publishDate: "2019"

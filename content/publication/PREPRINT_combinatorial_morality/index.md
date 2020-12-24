@@ -8,7 +8,7 @@ date: "2020-06-09T00:00:00Z"
 doi: 10.31219/osf.io/xnstk
 featured: false
 projects: [moralityandmoralization]
-publication: 'Curry, O. S., Alfano, M., Brandt, M. J., & Pelican, C. (2020, June 9). Moral Molecules: Morality as a combinatorial system. https://doi.org/10.31219/osf.io/xnstk'
+publication: 'Curry, O. S., Alfano, M., Brandt, M. J., & Pelican, C. (2020, June 9). Moral Molecules: Morality as a combinatorial system. (preprint)'
 publication_types:
 - "3"
 publishDate: "2020"

@@ -8,7 +8,7 @@ date: "2019-07-15T00:00:00Z"
 doi: 10.31234/osf.io/k53ec
 featured: false
 projects: [moralityandmoralization]
-publication: 'Wagemans, F. M. A., Sleegers, W., Brandt, M. J., & Zeelenberg, M. (2019, July 15). Attentional biases associated with individual differences in disgust sensitivity: An eye tracking study. https://doi.org/10.31234/osf.io/k53ec'
+publication: 'Wagemans, F. M. A., Sleegers, W., Brandt, M. J., & Zeelenberg, M. (2019, July 15). Attentional biases associated with individual differences in disgust sensitivity: An eye tracking study. (preprint)'
 publication_types:
 - "3"
 publishDate: "2019"
