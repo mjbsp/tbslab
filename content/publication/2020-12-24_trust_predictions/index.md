@@ -11,7 +11,7 @@ publication: 'Stavrova, O., Evans, A. M., & Brandt, M. J. (in press). Ecological
 publication_types:
 - "2"
 publishDate: "2021"
-title: Ecological dimensions explain the past, but do not predict future changes in trust. American Psychologist
+title: "Ecological dimensions explain the past, but do not predict future changes in trust. /American Psychologist/"
 # url_code:
 # url_dataset:
 # url_pdf:
