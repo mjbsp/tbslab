@@ -1,5 +1,5 @@
 +++
-title = "Ideological (a)symmetries in prejudice and intergroup bias"
+title = "Ideological (a)symmetries in prejudice and intergroup bias. Current Opinion in Behavioral Sciences"
 date = "2020-01-01"
 authors = ["Jarret T Crawford", "brandtmark"]
 publication_types = ["2"]

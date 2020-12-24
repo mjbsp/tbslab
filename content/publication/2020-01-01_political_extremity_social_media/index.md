@@ -14,7 +14,7 @@ publication_types:
 publishDate: "2020"
 # slides: example
 tags:
-title: Political extremity, social media use, social support, and well-being for emerging adults during the 2016 presidential election campaign
+title: Political extremity, social media use, social support, and well-being for emerging adults during the 2016 presidential election campaign. Emerging Adulthood
 url_code: https://osf.io/tyn5q/
 url_dataset: https://osf.io/y5azv/
 url_pdf: https://osf.io/fzym7/

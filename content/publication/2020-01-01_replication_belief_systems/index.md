@@ -9,7 +9,7 @@ publication: 'Brandt, M. J. (2020). Estimating and Examining the Replicability o
 publication_types:
 - "2"
 publishDate: "2020"
-title: "Estimating and examining the replicability of belief system networks"
+title: "Estimating and examining the replicability of belief system networks. Collabra: Psychology"
 url_code: https://osf.io/csx2g/
 # url_dataset:
 url_pdf: https://osf.io/53uts/
