@@ -11,7 +11,7 @@ publication: 'Brandt, M. J., He, J., & Bender, M. (in press). Registered report:
 publication_types:
 - "2"
 publishDate: "2021"
-title: "Registered report: Testing ideological asymmetries in measurement invariance"
+title: "Registered report: Testing ideological asymmetries in measurement invariance. Assessment"
 url_code: https://osf.io/eypfh/
 # url_dataset:
 url_pdf: https://osf.io/k6rnj/

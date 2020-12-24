@@ -1,6 +1,6 @@
 +++
 featured = true
-title = "Worldview conflict and prejudice"
+title = "Worldview conflict and prejudice. Advances in Experimental Social Psychology"
 date = "2020-01-01"
 authors = ["brandtmark", "Jarret T Crawford"]
 publication_types = ["2"]

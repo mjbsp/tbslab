@@ -13,7 +13,7 @@ publication_types:
 - "2"
 publishDate: "2020"
 # slides: example
-title: No additional evidence that proximity to the July 4th holiday affects affective polarization
+title: No additional evidence that proximity to the July 4th holiday affects affective polarization. Collabra: Psychology
 url_code: https://osf.io/26bua/
 url_dataset: https://osf.io/26bua/
 url_pdf: https://osf.io/u4bas/

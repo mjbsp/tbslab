@@ -86,7 +86,7 @@ publication_types:
 - "2"
 publishDate: "2020"
 # slides: example
-title: Subjective status and perceived legitimacy across countries
+title: Subjective status and perceived legitimacy across countries. European Journal of Social Psychology
 url_code: https://osf.io/5uxc7/
 url_dataset: https://osf.io/5uxc7/
 url_pdf: https://osf.io/7knsb/

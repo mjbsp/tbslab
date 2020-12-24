@@ -16,7 +16,7 @@ publication_types:
 - "2"
 publishDate: "2020"
 # slides: example
-title: Intellectually humble, but prejudiced people. A paradox of intellectual virtue
+title: Intellectually humble, but prejudiced people. A paradox of intellectual virtue. Review of Philosophy and Psychology
 url_code: https://osf.io/k5qmw/
 url_dataset: https://osf.io/k5qmw/
 url_pdf: https://osf.io/6veam/

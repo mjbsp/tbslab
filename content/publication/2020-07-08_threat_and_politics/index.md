@@ -15,7 +15,7 @@ publication: 'Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., van Leeuw
 publication_types:
 - "2"
 publishDate: "2020"
-title: "The association between threat and politics simultaneously depends on the type of threat, the political domain, and the country"
+title: "The association between threat and politics simultaneously depends on the type of threat, the political domain, and the country. Personality and Social Psychology Bulletin"
 url_code: https://osf.io/8zafp/
 url_dataset: https://osf.io/8zafp/
 url_pdf: https://osf.io/5x2sa/
