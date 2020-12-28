@@ -1,7 +1,7 @@
 +++
 title = "Blame it on hip-hop: Anti-rap attitudes as a proxy for prejudice"
 date = "2009-01-01"
-publishDate = "2021"
+publishDate = "2020"
 authors = ["Christine Reyna", "brandtmark", "G Tendayi Viki"]
 publication_types = ["2"]
 publication = "Reyna, C., Brandt, M., & Viki, G. T. (2009). Blame it on hip-hop: Anti-rap attitudes as a proxy for prejudice. *Group Processes and Intergroup Relations, 12*, 361-380. https://doi.org/10.1177/1368430209102848"
