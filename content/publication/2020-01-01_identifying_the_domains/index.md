@@ -2,7 +2,7 @@
 authors:
 - Emily Kubin
 - brandtmark
-date: "2020-01-01T00:00:00Z"
+date: "2020-01-02"
 doi: "10.1080/23743603.2020.1756242"
 featured: false
 projects: [worldviewconflict]

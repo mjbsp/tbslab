@@ -5,7 +5,7 @@ authors:
 - Chris G Sibley
 - Branden B Johnson
 - brandtmark
-date: "2020-01-01T00:00:00Z"
+date: "2020-01-02"
 doi: "10.1177/0146167220916070"
 featured: true
 projects: [beliefsystemnetworks]

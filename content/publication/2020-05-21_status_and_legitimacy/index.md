@@ -76,7 +76,7 @@ authors:
 - Marek Vranka
 - Vincent Yzerbyt
 - Jennifer L Zimmerman
-date: "2020-05-20T00:00:00Z"
+date: "2020-01-01"
 doi: 10.1002/ejsp.2694
 featured: false
 projects: [statuslegit]

@@ -6,7 +6,7 @@ authors:
 - Lieke Houkes
 - Zhasmina Kostadinova
 - brandtmark
-date: "2020-06-30T00:00:00Z"
+date: "2020-01-01"
 doi: 10.1007/s13164-020-00496-4
 featured: false
 projects: [worldviewconflict]
