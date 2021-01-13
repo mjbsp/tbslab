@@ -4,7 +4,7 @@ authors:
 - Willem Sleegers
 date: "2020-01-02"
 doi:
-featured: false
+featured: true
 projects: [beliefsystemnetworks]
 publication: 'Brandt, M. J., & Sleegers, W. W. A. (in press). Evaluating belief system networks as a theory of political belief system dynamics. *Personality and Social Psychology Review*.'
 publication_types:
