@@ -3,7 +3,7 @@ authors:
 - Olga Stavrova
 - Anthony M Evans
 - brandtmark
-date: "2020-01-02"
+date: "2021-01-02"
 doi:
 featured: false
 projects: [worldviewconflict]
