@@ -7,14 +7,14 @@ authors:
 - Michael Bender
 - Yvette van Osch
 - Byron Adams
-date: "2020-01-02"
+date: "2021-01-02"
 doi: 10.1177/0146167220946187
 featured: false
 projects: [beliefsystemnetworks]
 publication: 'Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., van Leeuwen, F., Bender, M., van Osch, Y., & Adams, B. G. (in press). The association between threat and politics depends on the type of threat, the political domain, and the country. *Personality and Social Psychology Bulletin*.'
 publication_types:
 - "2"
-publishDate: "2020"
+publishDate: "2021"
 title: "The association between threat and politics simultaneously depends on the type of threat, the political domain, and the country"
 url_code: https://osf.io/8zafp/
 url_dataset: https://osf.io/8zafp/

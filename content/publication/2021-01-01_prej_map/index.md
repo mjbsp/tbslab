@@ -2,7 +2,7 @@
 authors:
 - Robin Bergh
 - brandtmark
-date: "2020-01-02"
+date: "2021-01-02"
 doi: 10.1037/pspi0000360
 featured: false
 projects: [worldviewconflict]

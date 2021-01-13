@@ -5,7 +5,7 @@ authors:
 - Chris G Sibley
 - Branden B Johnson
 - brandtmark
-date: "2020-01-02"
+date: "2021-01-02"
 doi: "10.1177/0146167220916070"
 featured: true
 projects: [beliefsystemnetworks]
@@ -13,7 +13,7 @@ publication: 'Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020"
+publishDate: "2021"
 # slides: example
 title: Conservatives moral foundations are more densely connected than liberals’ moral foundations
 # url_code:
