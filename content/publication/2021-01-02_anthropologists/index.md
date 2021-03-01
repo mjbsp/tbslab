@@ -13,7 +13,8 @@ publication_types:
 publishDate: "2021"
 title: "An emerging consensus in palaeoanthropology: demography was the main factor responsible for the disappearance of Neanderthals"
 url_code: https://osf.io/z9rd3/?view_only=ac4fe309454447bab8337ab2e8664f54
-url_dataset: https://osf.io/z9rd3/?view_only=ac4fe309454447bab8337ab2e8664f54url_pdf: https://osf.io/35ube/
+url_dataset: https://osf.io/z9rd3/?view_only=ac4fe309454447bab8337ab2e8664f54
+url_pdf: https://osf.io/35ube/
 # url_poster:
 # url_project:
 # url_slides:
