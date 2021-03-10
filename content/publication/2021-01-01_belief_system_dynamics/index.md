@@ -2,7 +2,7 @@
 authors:
 - brandtmark
 - Willem Sleegers
-date: "2021-01-02"
+date: "2021-01-15"
 doi: 10.1177/1088868321993751
 featured: true
 projects: [beliefsystemnetworks]

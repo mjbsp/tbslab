@@ -3,7 +3,7 @@ authors:
 - brandtmark
 - Jia He
 - Michael Bender
-date: "2021-01-03"
+date: "2021-01-10"
 doi: 10.1177/1073191120983891
 featured: false
 projects: [beliefsystemnetworks]
