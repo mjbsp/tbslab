@@ -1,7 +1,7 @@
 +++
 featured = true
 title = "Worldview conflict and prejudice"
-date = "2020-01-01"
+date = "2020-01-10"
 authors = ["brandtmark", "Jarret T Crawford"]
 publication_types = ["2"]
 publication = "Brandt, M. J. & Crawford, J. T. (2020). Worldview conflict and prejudice. In B. Gawronski (Ed.) *Advances in Experimental Social Psychology, 61*, 1-66."

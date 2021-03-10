@@ -3,7 +3,7 @@ authors:
 - Dana C Leighton
 - brandtmark
 - Lindsay S Kennedy
-date: "2020-01-01"
+date: "2020-01-03"
 doi: 10.1177/2167696818810618
 featured: false
 projects: [worldviewconflict]

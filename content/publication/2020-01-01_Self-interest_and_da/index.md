@@ -1,6 +1,6 @@
 +++
 title = "Self-interest and data protection drive the adoption and moral acceptability of big data technologies: A conjoint analysis approach."
-date = "2020-01-01"
+date = "2020-01-05"
 authors = ["kodapanakkalrabia", "brandtmark", "Christoph Kogler", "Ilja van Beest"]
 publication_types = ["2"]
 publication = "Kodapanakkal, R.I., Brandt, M.J., Kogler, C., & van Beest, I. (2020). Self-interest and data protection drive the adoption and moral acceptability of big data technologies: A conjoint analysis approach. *Computers in Human Behavior, 108*, 106303."

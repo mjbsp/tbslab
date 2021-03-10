@@ -1,7 +1,7 @@
 ---
 authors:
 - brandtmark
-date: "2020-01-01"
+date: "2020-01-11"
 doi: 10.1525/collabra.312
 featured: false
 projects: [beliefsystemnetworks, improvingpsychsci]

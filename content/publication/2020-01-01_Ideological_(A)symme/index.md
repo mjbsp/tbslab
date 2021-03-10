@@ -1,6 +1,6 @@
 +++
 title = "Ideological (a)symmetries in prejudice and intergroup bias"
-date = "2020-01-01"
+date = "2020-01-06"
 authors = ["Jarret T Crawford", "brandtmark"]
 publication_types = ["2"]
 publication = "Crawford, J. T. & Brandt, M. J. (2020). Ideological (a)symmetries in prejudice and intergroup bias. *Current Opinion in Behavioral Sciences, 34*, 40-45."

@@ -3,7 +3,7 @@ abstract: ""
 authors:
 - brandtmark
 - turnerzwinkelsfelicity
-date: "2020-01-01"
+date: "2020-01-08"
 doi: 10.1525/collabra.368
 featured: false
 projects: [worldviewconflict]

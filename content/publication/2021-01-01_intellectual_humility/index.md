@@ -6,11 +6,11 @@ authors:
 - Lieke Houkes
 - Zhasmina Kostadinova
 - brandtmark
-date: "2020-01-01"
+date: "2021-01-15"
 doi: 10.1007/s13164-020-00496-4
 featured: false
 projects: [worldviewconflict]
-publication: 'Colombo, M., Strangmann, K., Houkes, L., Kostadinova, Z. & Brandt, M. J. (2020). Intellectually humble, but prejudiced people. A paradox of intellectual virtue. *Review of Philosophy and Psychology*.'
+publication: 'Colombo, M., Strangmann, K., Houkes, L., Kostadinova, Z. & Brandt, M. J. (in press). Intellectually humble, but prejudiced people. A paradox of intellectual virtue. *Review of Philosophy and Psychology*.'
 publication_short: ""
 publication_types:
 - "2"
