@@ -3,11 +3,11 @@ authors:
 - brandtmark
 - Jia He
 - Michael Bender
-date: "2021-01-02"
+date: "2021-01-03"
 doi: 10.1177/1073191120983891
 featured: false
 projects: [beliefsystemnetworks]
-publication: 'Brandt, M. J., He, J., & Bender, M. (in press). Registered report: Testing ideological asymmetries in measurement invariance. *Assessment*.'
+publication: 'Brandt, M. J., He, J., & Bender, M. (in press). Registered report: Testing ideological asymmetries in measurement invariance. *Assessment, 28*, 687-708'
 publication_types:
 - "2"
 publishDate: "2021"
