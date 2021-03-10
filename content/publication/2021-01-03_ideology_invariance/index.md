@@ -7,7 +7,7 @@ date: "2021-01-03"
 doi: 10.1177/1073191120983891
 featured: false
 projects: [beliefsystemnetworks]
-publication: 'Brandt, M. J., He, J., & Bender, M. (in press). Registered report: Testing ideological asymmetries in measurement invariance. *Assessment, 28*, 687-708'
+publication: 'Brandt, M. J., He, J., & Bender, M. (2021). Registered report: Testing ideological asymmetries in measurement invariance. *Assessment, 28*, 687-708'
 publication_types:
 - "2"
 publishDate: "2021"
