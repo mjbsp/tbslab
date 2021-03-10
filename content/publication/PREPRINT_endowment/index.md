@@ -3,7 +3,7 @@ authors:
 - spaeltinina
 - brandtmark
 - Marcel Zeelenberg
-date: "2019-07-22T00:00:00Z"
+date: "1990-07-22T00:00:00Z"
 doi: 10.31234/osf.io/gqv72
 featured: false
 projects: []

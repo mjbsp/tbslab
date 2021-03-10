@@ -4,7 +4,7 @@ authors:
 - Willem Sleegers
 - brandtmark
 - Marcel Zeelenberg
-date: "2019-07-15T00:00:00Z"
+date: "1990-07-15T00:00:00Z"
 doi: 10.31234/osf.io/k53ec
 featured: false
 projects: [moralityandmoralization]

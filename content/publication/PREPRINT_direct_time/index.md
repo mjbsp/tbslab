@@ -3,7 +3,7 @@ authors:
 - spaeltinina
 - brandtmark
 - Marcel Zeelenberg
-date: "2019-11-10T00:00:00Z"
+date: "1990-11-10T00:00:00Z"
 doi: 10.31234/osf.io/6vezd
 featured: false
 projects: [moralityandmoralization]

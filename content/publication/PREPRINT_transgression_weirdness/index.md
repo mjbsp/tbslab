@@ -3,7 +3,7 @@ authors:
 - wagemansfieke
 - brandtmark
 - Marcel Zeelenberg
-date: "2018-07-02T00:00:00Z"
+date: "1990-07-02T00:00:00Z"
 doi: 10.31234/osf.io/c5h42
 featured: false
 projects: [moralityandmoralization]

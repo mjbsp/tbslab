@@ -12,7 +12,7 @@ authors:
 - Anna E. van ‘t Veer
 - Marek Vranka
 - Daniël Lakens
-date: "2020-01-01"
+date: "1990-01-01"
 doi: 10.31222/osf.io/2gurz
 featured: false
 projects: [improvingpsychsci]

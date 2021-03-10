@@ -3,7 +3,7 @@ authors:
 - Jan Voelkel
 - Dongning Ren
 - brandtmark
-date: "2020-01-01"
+date: "1990-01-01"
 doi: 10.31234/osf.io/dxwpu
 featured: false
 projects: [worldviewconflict]
