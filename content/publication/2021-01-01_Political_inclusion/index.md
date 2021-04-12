@@ -9,7 +9,7 @@ featured: false
 projects: [worldviewconflict]
 publication: 'Voelkel, J. G., Ren, D., & Brandt, M. J. (in press). Political inclusion reduces political prejudice. *Journal of Experimental Social Psychology*'
 publication_types:
-- "3"
+- "2"
 publishDate: "2020"
 title: "Political inclusion reduces political prejudice (preprint)"
 url_code: https://osf.io/jcmmp/
