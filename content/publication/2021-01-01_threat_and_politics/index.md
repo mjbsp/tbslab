@@ -7,7 +7,7 @@ authors:
 - Michael Bender
 - Yvette van Osch
 - Byron Adams
-date: "2021-01-09"
+date: "2021-01-08"
 doi: 10.1177/0146167220946187
 featured: false
 projects: [beliefsystemnetworks]
