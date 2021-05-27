@@ -12,9 +12,9 @@ publication_types:
 - "2"
 publishDate: "2021"
 title: "Ecological dimensions explain the past, but do not predict future changes in trust"
-# url_code:
-# url_dataset:
-# url_pdf:
+url_code: https://osf.io/fx9eb/
+url_dataset: https://osf.io/fx9eb/
+url_pdf: https://osf.io/a8jkd/
 # url_poster:
 # url_project:
 # url_slides:
