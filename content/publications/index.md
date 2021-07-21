@@ -16,8 +16,8 @@ share: no
 <ul>
 <li>
 Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of
-prejudice in the United States. *Journal of Personality and Social
-Psychology*. | <a href=" https://osf.io/a29my/ ">PDF</a>
+prejudice in the United States. <i>Journal of Personality and Social
+Psychology</i>. | <a href=" https://osf.io/a29my/ ">PDF</a>
 <li>
 Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
 molecules: Morality as a combinatorial system. *Review of Philosophy and
