@@ -27,7 +27,7 @@ years <- unique(my_data$year)
 
 ```{r publications, echo = FALSE, results = "asis"}
 for(year in years){
-  cat(paste("\n","## ",year,sep=""))
+  cat(paste("\n", "## ", year ,sep=""))
   thisyear <- my_data[my_data$year == year,]
   if(dim(thisyear)[1] > 0){
     cat("\n<ul>")
@@ -35,19 +35,26 @@ for(year in years){
       cat(paste("\n<li>",sep = ""))
       cat(paste(thisyear$content[i]))
       
-  
-      if(!is.na(thisyear$pdf[i])){
-        cat(" | <a href=\"",thisyear$pdf[i],"\">PDF</a>")  
+      infodrop <- as_tibble(t(thisyear[i, c("pdf", "code", "data")]), rownames = "info", .name_repair = ~ c("V1")) %>%
+        drop_na()
+      
+      if(nrow(infodrop) == 1){
+        cat("[<a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a>]", sep = "")  
       }
       
-      if(!is.na(thisyear$code[i])){
-        cat(" | <a href=\"",thisyear$code[i],"\">Code</a>")  
+      if(nrow(infodrop) == 2){
+        cat("[<a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a>|", 
+            "<a href=\"",infodrop$V1[2],"\">",infodrop$info[2],"</a>]", 
+            sep = "")  
       }
       
-      if(!is.na(thisyear$data[i])){
-        cat(" | <a href=\"",thisyear$data[i],"\">Data</a>")  
+      if(nrow(infodrop) == 3){
+        cat("[<a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a>|", 
+            "<a href=\"",infodrop$V1[2],"\">",infodrop$info[2],"</a>|", 
+            "<a href=\"",infodrop$V1[3],"\">",infodrop$info[3],"</a>]", 
+            sep = "")  
       }
-     
+      
     }
     cat("\n</ul>")
   }
