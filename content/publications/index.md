@@ -1,3 +1,16 @@
+---
+title: "Publications Test"
+date: '2020-06-25T00:00:00Z'
+reading_time: no
+output:
+  md_document:
+    variant: markdown_strict
+    preserve_yaml: true
+profile: no
+comments: no
+share: no
+---
+
 ## In Press
 
 <ul>
