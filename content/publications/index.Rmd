@@ -35,7 +35,7 @@ for(year in years){
       cat(paste("\n<li>",sep = ""))
       cat(paste(thisyear$content[i]))
       
-      infodrop <- as_tibble(t(thisyear[i, c("pdf", "code", "data")]), rownames = "info", .name_repair = ~ c("V1")) %>%
+      infodrop <- as_tibble(t(thisyear[i, c("doi", "pdf", "code", "data")]), rownames = "info", .name_repair = ~ c("V1")) %>%
         drop_na()
       
       if(nrow(infodrop) == 1){

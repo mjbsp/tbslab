@@ -17,7 +17,8 @@ share: no
 <li>
 Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of
 prejudice in the United States. <i>Journal of Personality and Social
-Psychology</i>. <a href="https://osf.io/a29my/">pdf</a>
+Psychology</i>. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
+<a href="https://osf.io/a29my/">pdf</a>
 <li>
 Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
 molecules: Morality as a combinatorial system. <i>Review of Philosophy
@@ -44,12 +45,15 @@ dimensions explain the past, but do not predict future changes in trust.
 <li>
 Brandt, M. J., He, J., & Bender, M. (2021). Registered report: Testing
 ideological asymmetries in measurement invariance. <i>Assessment,
-28</i>, 687-708. <a href="https://osf.io/k6rnj/">pdf</a> |
+28</i>, 687-708.
+<a href="https://doi.org/10.1177%2F1073191120983891">doi</a> |
+<a href="https://osf.io/k6rnj/">pdf</a> |
 <a href="https://osf.io/eypfh/">code</a>
 <li>
 Brandt, M. J., & Sleegers, W. W. A. (2021). Evaluating belief system
 networks as a theory of political belief system dynamics. <i>Personality
 and Social Psychology Review, 25</i>, 159-185.
+<a href="https://doi.org/10.1177%2F1088868321993751">doi</a> |
 <a href="https://osf.io/q5y9c/">pdf</a> |
 <a href="https://osf.io/aswy8/">code</a>
 <li>
@@ -57,13 +61,16 @@ Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., van Leeuwen,
 F., Bender, M., van Osch, Y., & Adams, B. G. (2021). The association
 between threat and politics depends on the type of threat, the political
 domain, and the country. <i>Personality and Social Psychology Bulletin,
-47</i>, 324-343. <a href="https://osf.io/5x2sa/">pdf</a> |
+47</i>, 324-343.
+<a href="https://doi.org/10.1177%2F0146167220946187">doi</a> |
+<a href="https://osf.io/5x2sa/">pdf</a> |
 <a href="https://osf.io/8zafp/">code</a> |
 <a href="https://osf.io/8zafp/">data</a>
 <li>
 Brandt, M. J., Turner-Zwinkels, F. M., & Kubin, E. (2021). Political
 psychology data from a 26-wave yearlong longitudinal study (2019-2020).
 <i>Journal of Open Psychology Data, 9</i>, 1-12
+<a href="http://doi.org/10.5334/jopd.54">doi</a> |
 <a href="https://osf.io/j8m94/">pdf</a> |
 <a href="https://osf.io/3pwvb/">code</a> |
 <a href="https://osf.io/3pwvb/">data</a>
@@ -71,32 +78,40 @@ psychology data from a 26-wave yearlong longitudinal study (2019-2020).
 Colombo, M., Strangmann, K., Houkes, L., Kostadinova, Z. & Brandt, M. J.
 (2021). Intellectually humble, but prejudiced people. A paradox of
 intellectual virtue. <i>Review of Philosophy and Psychology, 12</i>,
-353-371. <a href="https://osf.io/6veam/">pdf</a> |
+353-371. <a href="https://doi.org/10.1007/s13164-020-00496-4">doi</a> |
+<a href="https://osf.io/6veam/">pdf</a> |
 <a href="https://osf.io/k5qmw/">code</a> |
 <a href="https://osf.io/k5qmw/">data</a>
 <li>
 Jones, B., DeBruine, L., Flake, J., Aczel, B., Adamkovic, M., Alaei, R.,
 …Brandt, M. J. … & Vásquez-Amézquita, M. (2021). To which world regions
 does the valence-dominance model of social perception apply? <i>Nature
-Human Behaviour, 5</i>, 159-169. <a href="https://osf.io/9upz2/">pdf</a>
-| <a href="https://osf.io/87rbg/">code</a> |
+Human Behaviour, 5</i>, 159-169.
+<a href="https://doi.org/10.1038/s41562-020-01007-2">doi</a> |
+<a href="https://osf.io/9upz2/">pdf</a> |
+<a href="https://osf.io/87rbg/">code</a> |
 <a href="https://osf.io/87rbg/">data</a>
 <li>
 Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
 (2021). Conservatives moral foundations are more densely connected than
 liberals’ moral foundations. <i>Personality and Social Psychology
-Bulletin, 47</i>, 167-184. <a href="https://osf.io/m4kzy/">pdf</a>
+Bulletin, 47</i>, 167-184.
+<a href="https://doi.org/10.1177%2F0146167220916070">doi</a> |
+<a href="https://osf.io/m4kzy/">pdf</a>
 <li>
 Vaesen, K., Dusseldorp, G. L., & Brandt, M. J. (2021). An emerging
 consensus in palaeoanthropology: Demography was the main factor
 responsible for the disappearance of Neanderthals. <i>Scientific
-Reports, 11</i>, 4925. <a href="https://osf.io/35ube/">pdf</a> |
+Reports, 11</i>, 4925.
+<a href="https://doi.org/10.1038/s41598-021-84410-7">doi</a> |
+<a href="https://osf.io/35ube/">pdf</a> |
 <a href="https://osf.io/z9rd3/?view_only=ac4fe309454447bab8337ab2e8664f54">code</a>
 |
 <a href="https://osf.io/z9rd3/?view_only=ac4fe309454447bab8337ab2e8664f54">data</a>
 <li>
 Voelkel, J. G., Ren, D., & Brandt, M. J. (in press). Inclusion reduces
 political prejudice. <i>Journal of Experimental Social Psychology</i>.
+<a href="https://doi.org/10.1016/j.jesp.2021.104149">doi</a> |
 <a href="https://osf.io/7muny/">pdf</a> |
 <a href="https://osf.io/jcmmp/">code</a> |
 <a href="https://osf.io/jcmmp/">data</a>
