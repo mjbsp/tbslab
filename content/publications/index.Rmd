@@ -1,12 +1,10 @@
 ---
-title: Publications Test
-date: "2020-06-25T00:00:00Z"
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
+title: "Publications Test"
+date: '2020-06-25T00:00:00Z'
+reading_time: no
+share: no
+profile: no
+comments: no
 ---
 
 ```{r setup, include = FALSE}
@@ -20,7 +18,7 @@ cv <- read_csv(here("static", "data", "pubs.csv"))
 
 # Load custom function
 create_cv_section <- function(x, include_section = TRUE,
-    include_subsection = TRUE, include_year = TRUE) {
+    include_year = TRUE) {
 
   # Start CV section div
   cat(paste0("<div class='cv-",
@@ -33,14 +31,6 @@ create_cv_section <- function(x, include_section = TRUE,
     cat("<div class='cv-section'>")
     cat(x$section[1])
     cat("</div>")
-  }
-
-  if (include_subsection) {
-    if (!is.na(x$subsection[1])) {
-      cat("<div class='cv-subsection'>")
-      cat(x$subsection[1])
-      cat("</div>")
-    }  
   }
 
   # Loop over the rows and extract the relevant information
