@@ -55,6 +55,14 @@ for(year in years){
             sep = "")  
       }
       
+      if(nrow(infodrop) == 4){
+        cat(" <a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a> | ", 
+            "<a href=\"",infodrop$V1[2],"\">",infodrop$info[2],"</a> | ", 
+            "<a href=\"",infodrop$V1[3],"\">",infodrop$info[3],"</a> | ", 
+            "<a href=\"",infodrop$V1[4],"\">",infodrop$info[4],"</a>", 
+            sep = "")  
+      }
+      
     }
     cat("\n</ul>")
   }

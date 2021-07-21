@@ -36,12 +36,6 @@ dimensions explain the past, but do not predict future changes in trust.
 <i>American Psychologist</i>. <a href="https://osf.io/a8jkd/">pdf</a> |
 <a href="https://osf.io/fx9eb/">code</a> |
 <a href="https://osf.io/fx9eb/">data</a>
-<li>
-Voelkel, J. G., Ren, D., & Brandt, M. J. (in press). Political inclusion
-reduces political prejudice. <i>Journal of Experimental Social
-Psychology</i>. <a href="https://osf.io/7muny/">pdf</a> |
-<a href="https://osf.io/jcmmp/">code</a> |
-<a href="https://osf.io/jcmmp/">data</a>
 </ul>
 
 ## 2021
@@ -94,12 +88,18 @@ liberals’ moral foundations. <i>Personality and Social Psychology
 Bulletin, 47</i>, 167-184. <a href="https://osf.io/m4kzy/">pdf</a>
 <li>
 Vaesen, K., Dusseldorp, G. L., & Brandt, M. J. (2021). An emerging
-consensus in palaeoanthropology: demography was the main factor
+consensus in palaeoanthropology: Demography was the main factor
 responsible for the disappearance of Neanderthals. <i>Scientific
 Reports, 11</i>, 4925. <a href="https://osf.io/35ube/">pdf</a> |
 <a href="https://osf.io/z9rd3/?view_only=ac4fe309454447bab8337ab2e8664f54">code</a>
 |
 <a href="https://osf.io/z9rd3/?view_only=ac4fe309454447bab8337ab2e8664f54">data</a>
+<li>
+Voelkel, J. G., Ren, D., & Brandt, M. J. (in press). Inclusion reduces
+political prejudice. <i>Journal of Experimental Social Psychology</i>.
+<a href="https://osf.io/7muny/">pdf</a> |
+<a href="https://osf.io/jcmmp/">code</a> |
+<a href="https://osf.io/jcmmp/">data</a>
 </ul>
 
 ## 2020
