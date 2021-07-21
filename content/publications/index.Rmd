@@ -35,6 +35,7 @@ for(year in years){
       cat(paste("\n<li>",sep = ""))
       cat(paste(thisyear$content[i]))
       
+  
       if(!is.na(thisyear$pdf[i])){
         cat(" | <a href=\"",thisyear$pdf[i],"\">PDF</a>")  
       }
@@ -46,6 +47,7 @@ for(year in years){
       if(!is.na(thisyear$data[i])){
         cat(" | <a href=\"",thisyear$data[i],"\">Data</a>")  
       }
+     
     }
     cat("\n</ul>")
   }
