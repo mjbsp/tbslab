@@ -4,7 +4,7 @@ date: '2020-06-25T00:00:00Z'
 reading_time: no
 output:
   md_document:
-    variant: markdown_strict
+    variant: commonmark
     preserve_yaml: true
 profile: no
 comments: no
@@ -39,19 +39,19 @@ for(year in years){
         drop_na()
       
       if(nrow(infodrop) == 1){
-        cat("[<a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a>]", sep = "")  
+        cat(" <a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a>", sep = "")  
       }
       
       if(nrow(infodrop) == 2){
-        cat("[<a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a>|", 
-            "<a href=\"",infodrop$V1[2],"\">",infodrop$info[2],"</a>]", 
+        cat(" <a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a> | ", 
+            "<a href=\"",infodrop$V1[2],"\">",infodrop$info[2],"</a>", 
             sep = "")  
       }
       
       if(nrow(infodrop) == 3){
-        cat("[<a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a>|", 
-            "<a href=\"",infodrop$V1[2],"\">",infodrop$info[2],"</a>|", 
-            "<a href=\"",infodrop$V1[3],"\">",infodrop$info[3],"</a>]", 
+        cat(" <a href=\"",infodrop$V1[1],"\">",infodrop$info[1],"</a> | ", 
+            "<a href=\"",infodrop$V1[2],"\">",infodrop$info[2],"</a> | ", 
+            "<a href=\"",infodrop$V1[3],"\">",infodrop$info[3],"</a>", 
             sep = "")  
       }
       
