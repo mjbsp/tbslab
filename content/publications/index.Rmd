@@ -2,9 +2,10 @@
 title: "Publications Test"
 date: '2020-06-25T00:00:00Z'
 reading_time: no
-share: no
+output: md_document
 profile: no
 comments: no
+share: no
 ---
 
 ```{r setup, include = FALSE}
@@ -14,51 +15,36 @@ library(tidyverse)
 library(here)
 
 # Load cv data  
-cv <- read_csv(here("static", "data", "pubs.csv"))
+my_data <- read_csv(here("static", "data", "pubs.csv"))
 
-# Load custom function
-create_cv_section <- function(x, include_section = TRUE,
-    include_year = TRUE) {
+years <- unique(my_data$year)
 
-  # Start CV section div
-  cat(paste0("<div class='cv-",
-    str_replace_all(tolower(x$section[1]), " ", "-"),
-    "'>"))
-  cat("\n")
-
-  # Create section headers
-  if (include_section) {
-    cat("<div class='cv-section'>")
-    cat(x$section[1])
-    cat("</div>")
-  }
-
-  # Loop over the rows and extract the relevant information
-  for (i in 1:nrow(x)) {
-    cat("<div class='cv-item'>")
-    # Add year
-    if (include_year & !is.na(x$year[i])) {
-      cat(paste0("<p class='cv-year'>", x$year[i], "</p>"))
-    }
-
-    # Check if it is a link
-    if (!is.na(x$link[i])) {
-      cat(paste0("<a class='cv-content' href=", x$link[i], ">", x$content[i], "</a>"))
-    } else {
-      cat(paste0("<p class='cv-content'>", x$content[i], "</p>"))
-    }
-
-    cat("</div>")
-  }
-
-  # End CV section div
-  cat("</div>")
-}
 ```
 
 
 ```{r publications, echo = FALSE, results = "asis"}
-cv %>%
-  filter(section == "Publications") %>%
-  create_cv_section(include_section = FALSE, include_year = FALSE)
+for(year in years){
+  cat(paste("\n","## ",year,sep=""))
+  thisyear <- my_data[my_data$year == year,]
+  if(dim(thisyear)[1] > 0){
+    cat("\n<ul>")
+    for(i in 1:(dim(thisyear)[1])){
+      cat(paste("\n<li>",sep = ""))
+      cat(paste(thisyear$content[i]))
+      
+      if(!is.na(thisyear$pdf[i])){
+        cat(" | <a href=\"",thisyear$pdf[i],"\">PDF</a>")  
+      }
+      
+      if(!is.na(thisyear$code[i])){
+        cat(" | <a href=\"",thisyear$code[i],"\">Code</a>")  
+      }
+      
+      if(!is.na(thisyear$data[i])){
+        cat(" | <a href=\"",thisyear$data[i],"\">Data</a>")  
+      }
+    }
+    cat("\n</ul>")
+  }
+}
 ```
