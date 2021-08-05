@@ -8,7 +8,6 @@ authors:
 date: "2021-01-15"
 doi: "10.1177/0146167220916070"
 featured: true
-projects: [beliefsystemnetworks]
 publication: 'Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J. (in press). Conservatives moral foundations are more densely connected than liberals’ moral foundations. *Personality and Social Psychology Bulletin*.'
 publication_short: ""
 publication_types:
