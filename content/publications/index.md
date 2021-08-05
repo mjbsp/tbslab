@@ -303,41 +303,59 @@ Brandt, M. J. & Spälti, A. K. (2018). Norms and explanations in social
 and political psychology. In J. T. Crawford & L. Jussim (Eds.)
 <i>Frontiers of Social Psychology Series: Politics of Social
 Psychology</i> (pp 26-43). Psychology Press.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.4324/9781315112619-3">doi</a> |
+<a href="https://osf.io/sp6b3/">pdf</a>
 <li>
 Hofmann, W., Brandt, M. J., Wisneski, D. C., Rockenbach, B., & Skitka,
 L. J. (2018). Moral punishment in everyday life. <i>Personality and
 Social Psychology Bulletin, 44</i>, 1697-1711.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/0146167218775075">doi</a> |
+<a href="https://osf.io/xn74z/">pdf</a> |
+<a href="https://osf.io/2jqhm/">code</a> |
+<a href="https://osf.io/2jqhm/">data</a>
 <li>
 IJzerman, H., Grahe, J., & Brandt, M. J. (2018). How to make
 replications mainstream. <i>Behavioral and Brain Sciences, 41</i>,
-e136 Commentary on Zwaan et al.  <a href="https://doi.org/">doi</a>
+e136 Commentary on Zwaan et al. 
+<a href="https://doi.org/10.1017/S0140525X18000717">doi</a> |
+<a href="https://osf.io/7xyfz/">pdf</a>
 <li>
 Klein, R. A., Vianello, M., Hasselman, F., Adams B. G., Adams, R. B.,
 Alper, S….Brandt, M. J. …Nosek, B. A. (2018). Many labs 2: Investigating
 variation in replicability across sample and setting. <i>Advances in
 Methods and Practices in Psychological Science, 1</i>, 443-490.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/2515245918810225">doi</a> |
+<a href="https://osf.io/y5krc/">pdf</a> |
+<a href="https://osf.io/8cd4r/wiki/home/">code</a> |
+<a href="https://osf.io/8cd4r/wiki/home/">data</a>
 <li>
 Rutjens, B. T., & Brandt, M. J. (Eds.). (2018). <i>Belief systems and
 the perception of reality</i>. Abington, UK: Routledge.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.4324/9781315114903">doi</a> |
+<a href="https://osf.io/5x3fa/">pdf</a>
 <li>
 Skitka, L. J., Wisneski, D. C., & Brandt, M. J. (2018). Attitude
 moralization: Probably not intuitive or rooted in perceptions of harm.
 <i>Current Directions in Psychological Science, 27</i>, 9-13.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/0963721417727861">doi</a> |
+<a href="https://osf.io/7xyfz/">pdf</a>
 <li>
 Voelkel, J. G., Brandt, M. J. & Colombo, M. (2018). I know that I know
 nothing: Can puncturing the illusion of explanatory depth overcome the
 relationship between attitudinal dissimilarity and prejudice?
 <i>Comprehensive Results in Social Psychology, 3</i>, 56-78.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1080/23743603.2018.1464881">doi</a> |
+<a href="https://osf.io/egtfr/">pdf</a> |
+<a href="https://osf.io/awr8v/">code</a> |
+<a href="https://osf.io/awr8v/">data</a>
 <li>
 Wagemans, F. M. A., Brandt, M. J., & Zeelenberg, M. (2018). Disgust
 sensitivity is primarily associated with purity-based moral judgments.
-<i>Emotion, 18</i>, 277-289. <a href="https://doi.org/">doi</a>
+<i>Emotion, 18</i>, 277-289.
+<a href="https://doi.org/10.1037/emo0000359">doi</a> |
+<a href="https://osf.io/cvm7q/">pdf</a> |
+<a href="https://osf.io/dspvr/">code</a> |
+<a href="https://osf.io/dspvr/">data</a>
 </ul>
 
 ## 2017
@@ -345,55 +363,80 @@ sensitivity is primarily associated with purity-based moral judgments.
 <ul>
 <li>
 Brandt, M. J. (2017). Predicting ideological prejudice. <i>Psychological
-Science, 28</i>, 713-722. <a href="https://doi.org/">doi</a>
+Science, 28</i>, 713-722.
+<a href="https://doi.org/10.1177/0956797617693004">doi</a> |
+<a href="https://osf.io/z83cb/">pdf</a> |
+<a href="https://osf.io/3xgtk/">code</a> |
+<a href="https://osf.io/3xgtk/">data</a>
 <li>
 Brandt, M. J. & Reyna, C. (2017). Individual differences in the
 resistance to social change and acceptance of inequality predict system
 legitimacy differently depending on the social structure. <i>European
 Journal of Personality, 31</i>, 266-278.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1002/per.2100">doi</a> |
+<a href="https://osf.io/5ajr3/">pdf</a> |
+<a href="https://osf.io/f54qe/">code</a> |
+<a href="https://osf.io/f54qe/">data</a>
 <li>
 Brandt, M. J. & van Tongeren, D. R. (2017). People both high and low on
 religious fundamentalism are prejudiced towards dissimilar groups.
 <i>Journal of Personality and Social Psychology, 112</i>, 76-97.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1037/pspp0000076">doi</a> |
+<a href="https://osf.io/fn3j7/">pdf</a> |
+<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20699&studyListingIndex=0_69f9bfc7cb06c418d35a2e730145">code</a>
+|
+<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20699&studyListingIndex=0_69f9bfc7cb06c418d35a2e730145">data</a>
 <li>
 Brandt, M. J. & Wagemans, F. M. A. (2017). From the political here and
 now to generalizable knowledge. <i>Translational Issues in Psychological
-Science, 3</i>, 317-320. <a href="https://doi.org/">doi</a>
+Science, 3</i>, 317-320.
+<a href="https://doi.org/10.1037/tps0000126">doi</a> |
+<a href="https://osf.io/mbfz5/">pdf</a>
 <li>
 Collins, T. P., Crawford, J. T., & Brandt, M. J. (2017). No evidence for
 ideological asymmetry in dissonance avoidance: Unsuccessful close and
 conceptual replications of Nam, Jost, and van Bavel (2013). <i>Social
-Psychology, 48</i>, 123-134. <a href="https://doi.org/">doi</a>
+Psychology, 48</i>, 123-134.
+<a href="https://doi.org/10.1027/1864-9335/a000300">doi</a> |
+<a href="https://osf.io/4zrkn/">pdf</a>
 <li>
 Crawford, J. T., Brandt, M. J., Inbar, Y., Chambers, J. R., & Motyl, M.
 (2017). Social and economic ideologies differentially predict prejudice
 across the political spectrum, but social issues are most divisive.
 <i>Journal of Personality and Social Psychology, 112</i>, 383-412.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1037/pspa0000074">doi</a> |
+<a href="https://osf.io/3t2yk/">pdf</a>
 <li>
 Lammers, J., Koch, A., Conway, P., & Brandt, M. J. (2017). The political
 domain appears simpler to the politically extreme than to political
 moderates. <i>Social Psychological and Personality Science, 8</i>,
-612-622. <a href="https://doi.org/">doi</a>
+612-622. <a href="https://doi.org/10.1177/1948550616678456">doi</a> |
+<a href="https://osf.io/xg7j6/">pdf</a>
 <li>
 Proulx, T. & Brandt, M. J. (2017). Beyond threat and uncertainty: The
 underpinnings of conservatism. <i>Social Cognition, 35</i>, 313-323
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1521/soco.2017.35.4.313">doi</a> |
+<a href="https://osf.io/dt29g/">pdf</a>
 <li>
 Spälti, A. K., Brandt, M. J., & Zeelenberg, M. (2017). Memory retrieval
 processes help explain the incumbency advantage. <i>Judgment and
-Decision Making, 12</i>, 173-182. <a href="https://doi.org/">doi</a>
+Decision Making, 12</i>, 173-182.
+<a href="http://journal.sjdm.org/16/16920a/jdm16920a.html">doi</a> |
+<a href="https://osf.io/mwb2d/">pdf</a> |
+<a href="https://osf.io/2r93z/">code</a> |
+<a href="https://osf.io/2r93z/">data</a>
 <li>
 Suhay, E., Brandt, M. J., & Proulx, T. (2017). Lay belief in biopolitics
 and political prejudice. <i>Social Psychological and Personality
-Science, 8</i>, 173-182. <a href="https://doi.org/">doi</a>
+Science, 8</i>, 173-182.
+<a href="https://doi.org/10.1177/1948550616667615">doi</a> |
+<a href="https://osf.io/fdzyr/">pdf</a>
 <li>
 van de Ven, N., Bogaert, A., Serlie, A., Brandt, M. J., & Denissen, J.
 J. A. (2017). Personality perception based on LinkedIn profiles.
 <i>Journal of Managerial Psychology, 32</i>, 418-429.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1108/JMP-07-2016-0220">doi</a> |
+<a href="https://osf.io/ts6e5/">pdf</a>
 </ul>
 
 ## 2016
@@ -403,37 +446,52 @@ J. A. (2017). Personality perception based on LinkedIn profiles.
 Brandt, M. J., & Crawford, J. T. (2016). Answering unresolved questions
 about the relationship between cognitive ability and prejudice.
 <i>Social Psychological and Personality Science, 7</i>, 884-892.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/1948550616660592">doi</a> |
+<a href="https://osf.io/tgzha/">pdf</a> |
+<a href="https://osf.io/hvs9t/wiki/home/">code</a>
 <li>
 Brandt, M. J., Crawford, M., & Giner-Sorolla, R. (2016). Editorial:
 Special issue on confirmatory research. <i>Journal of Experimental
-Social Psychology, 67</i>, 1. <a href="https://doi.org/">doi</a>
+Social Psychology, 67</i>, 1.
+<a href="https://doi.org/10.1016/j.jesp.2016.03.003">doi</a> |
+<a href="https://osf.io/nhmb2/">pdf</a>
 <li>
 Brandt, M. J. & Proulx, T. (2016). Conceptual creep as a human (and
 scientific) goal \[Commentary on Haslam’s target article\].
 <i>Psychological Inquiry, 27</i>, 18-23.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1080/1047840X.2016.1109577">doi</a> |
+<a href="https://osf.io/kf8vr/">pdf</a>
 <li>
 Brandt, M. J., Wetherell, G., & Crawford, J. T. (2016). Moralization and
 intolerance of ideological outgroups. In Joseph P. Forgas, Lee Jussim, &
 Paul A. M. van Lange (Eds.) <i>The Social Psychology of
 Morality</i> (pp. 239-256). New York: Routledge.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.4324/9781315644189-14">doi</a> |
+<a href="10.4324/9781315644189-14">pdf</a>
 <li>
 Crawford, J. T., Brandt, M. J., Inbar, Y., & Mallinas, S. (2016).
 Right-wing authoritarianism predicts prejudice equally toward “gay men
 and lesbians” and “homosexuals.” <i>Journal of Personality and Social
-Psychology, 111</i>, e31-e45. <a href="https://doi.org/">doi</a>
+Psychology, 111</i>, e31-e45.
+<a href="https://doi.org/10.1037/pspp0000070">doi</a> |
+<a href="https://osf.io/8x4m5/">pdf</a> |
+<a href="https://osf.io/6x9qu/">code</a> |
+<a href="https://osf.io/6x9qu/">data</a>
 <li>
 Hagger, M. S., Chatzisarantis, N. L. D., Alberts, H., Anggono, C. O.,
 Batailler, C., Birt, A., …Brandt, M. J.,… Zwienenberg, M. (2016). A
 multi-lab pre-registered replication of the ego-depletion
 effect. <i>Perspectives on Psychological Science, 11</i>, 546-573.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/1745691616652873">doi</a> |
+<a href="https://osf.io/6k7c8/">pdf</a> |
+<a href="https://osf.io/jymhe/">code</a> |
+<a href="https://osf.io/jymhe/">data</a>
 <li>
 Kay, A. C. & Brandt, M. J. (2016). Ideology and intergroup inequality:
 Emerging directions and trends. <i>Current Opinion in Psychology,
-11</i>, 110-114. <a href="https://doi.org/">doi</a>
+11</i>, 110-114.
+<a href="https://doi.org/10.1016/j.copsyc.2016.07.007">doi</a> |
+<a href="https://osf.io/7a2uz/">pdf</a>
 </ul>
 
 ## 2015
@@ -444,46 +502,69 @@ Brandt, M. J., Chambers, J. R., Crawford, J. T., Wetherell, G., & Reyna,
 C. (2015). Bounded openness: The effect of openness to experience on
 intolerance is moderated by target group conventionality. <i>Journal of
 Personality and Social Psychology, 109</i>, 549-568.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1037/pspp0000055">doi</a> |
+<a href="https://osf.io/tqnes/">pdf</a> |
+<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20642&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
 <li>
 Brandt, M. J., Evans, A. M., & Crawford, J. T. (2015). The unthinking or
 confident extremist? Political extremists are more likely to reject
 experimenter-generated anchors than moderates. <i>Psychological Science,
-26</i>, 189-202. <a href="https://doi.org/">doi</a>
+26</i>, 189-202.
+<a href="https://doi.org/10.1177/0956797614559730">doi</a> |
+<a href="https://osf.io/u7kwe/">pdf</a> |
+<a href="https://osf.io/9dvr5/">code</a> |
+<a href="https://osf.io/9dvr5/">data</a>
 <li>
 Brandt, M. J., Henry, P. J., & Wetherell, G. (2015). The relationship
 between authoritarianism and life satisfaction changes depending on
 stigmatized status. <i>Social Psychology and Personality Science, 6</i>,
-219-228. <a href="https://doi.org/">doi</a>
+219-228. <a href="https://doi.org/10.1177/1948550614552728">doi</a> |
+<a href="https://osf.io/2fn56/">pdf</a> |
+<a href="https://dataverse.nl/dvn/faces/study/StudyPage.xhtml?globalId=hdl:10411/20430&studyListingIndex=0_aa2637b27d20458c16174c8b7b45">code</a>
 <li>
 Brandt, M. J., & Proulx, T. (2015). QTIPs. Questionable theoretical and
 interpretive practices in social psychology. <i>Behavioral and Brain
-Sciences, 38</i>, 19-20. <a href="https://doi.org/">doi</a>
+Sciences, 38</i>, 19-20.
+<a href="https://doi.org/10.1017/S0140525X14001149">doi</a> |
+<a href="https://osf.io/3m6a8/">pdf</a>
 <li>
 Brandt, M. J., Wetherell, G., & Henry, P.J. (2015). Changes in income
 predict change in social trust: A longitudinal analysis. <i>Political
-Psychology, 36</i>, 761-768. <a href="https://doi.org/">doi</a>
+Psychology, 36</i>, 761-768.
+<a href="https://doi.org/10.1111/pops.12228">doi</a> |
+<a href="https://osf.io/2jkhv/">pdf</a> |
+<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20641&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
 <li>
 Brandt, M. J., Wisneski, D., & Skitka, L. (2015) Moralization and the
 2012 U.S. Presidential Election campaign. <i>Journal of Social and
-Political Psychology, 3</i>, 211-237. <a href="https://doi.org/">doi</a>
+Political Psychology, 3</i>, 211-237.
+<a href="https://doi.org/10.23668/psycharchives.1694">doi</a> |
+<a href="https://osf.io/m754f/">pdf</a> |
+<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20643&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
 <li>
 Henry, P. J., Wetherell, G., & Brandt, M. J. (2015). Democracy as a
 legitimizing ideology. <i>Peace and Conflict: Journal of Peace
-Psychology, 21</i>, 648-664. <a href="https://doi.org/">doi</a>
+Psychology, 21</i>, 648-664.
+<a href="https://doi.org/10.1037/pac0000117">doi</a> |
+<a href="https://osf.io/5kvt6/">pdf</a>
 <li>
 Hoffman, W., Wisneski, D. C., Brandt, M. J., & Skitka, L. J. (2015).
 Response to comment on Morality in everyday life. <i>Science, 348</i>,
-767. <a href="https://doi.org/">doi</a>
+767. <a href="https://doi.org/10.1126/science.aaa3053">doi</a> |
+<a href="https://osf.io/24n3d/">pdf</a>
 <li>
 Open Science Collaboration. (2015). Estimating the reproducibility of
 psychological science. <i>Science, 349</i>, aac4716-1-aac4716-8.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1126/science.aac4716">doi</a> |
+<a href="https://osf.io/yabgh/">pdf</a> |
+<a href="https://osf.io/ezcuj/">code</a> |
+<a href="https://osf.io/ezcuj/">data</a>
 <li>
 Wetherell, G., Benson, O., Reyna, C., & Brandt, M. J. (2015). Perceived
 value congruence and attitudes toward international relations and
 foreign policies. <i>Basic & Applied Social Psychology, 37</i>, 3-18.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1080/01973533.2014.973108">doi</a> |
+<a href="https://osf.io/pe6wk/">pdf</a>
 </ul>
 
 ## 2014
@@ -493,67 +574,94 @@ foreign policies. <i>Basic & Applied Social Psychology, 37</i>, 3-18.
 Brandt, M. J., IJzerman, H., & Blanken, I. (2014). Does recalling moral
 behavior change the perception of brightness? A replication and
 meta-analysis of Banerjee, Chatterjee, & Sinha (2012). <i>Social
-Psychology, 45</i>, 246-252. <a href="https://doi.org/">doi</a>
+Psychology, 45</i>, 246-252.
+<a href="https://doi.org/10.1027/1864-9335/a000191">doi</a> |
+<a href="https://osf.io/5a3wj/">pdf</a> |
+<a href="https://osf.io/seqgd/">code</a> |
+<a href="https://osf.io/seqgd/">data</a>
 <li>
 Brandt, M. J., IJzerman, H., Dijksterhuis, A., Farach, F. J., Geller,
 J., Giner-Sorolla, R., Grange, J., A., Perugini, M., Spies, J. R., & van
 ’t Veer, A. E. (2014). The Replication Recipe: What Makes for a
 Convincing Replication? <i>Journal of Experimental Social Psychology,
-50</i>, 217-224. <a href="https://doi.org/">doi</a>
+50</i>, 217-224.
+<a href="https://doi.org/10.1016/j.jesp.2013.10.005">doi</a> |
+<a href="https://osf.io/f8xjk/">pdf</a>
 <li>
 Brandt, M. J., & Reyna, C. (2014). To love or hate thy neighbor: The
 role of core motives in explaining the link between fundamentalism and
 racial prejudice. <i>Political Psychology, 35</i>, 207-223.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1111/pops.12077">doi</a> |
+<a href="https://osf.io/g65bu/">pdf</a> |
+<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20171&studyListingIndex=1_cab334dfb1c69787adf5fc5dc0cc">code</a>
 <li>
 Brandt, M. J., Reyna, C., Chambers, J., Crawford, J., & Wetherell, G.
 (2014). The ideological-conflict hypothesis: Intolerance among both
 liberals and conservatives. <i>Current Directions in Psychological
-Science, 23</i>, 27-34. <a href="https://doi.org/">doi</a>
+Science, 23</i>, 27-34.
+<a href="https://doi.org/10.1177/0963721413510932">doi</a> |
+<a href="https://osf.io/tqdzj/">pdf</a>
 <li>
 Brandt, M. J., Wetherell, G., & Reyna, C. (2014). Liberals and
 conservatives can show similarities in negativity bias. <i>Behavioral
-and Brain Sciences, 37</i>, 307-308. <a href="https://doi.org/">doi</a>
+and Brain Sciences, 37</i>, 307-308.
+<a href="https://doi.org/10.1017/S0140525X13002513">doi</a> |
+<a href="https://osf.io/2dywb/">pdf</a>
 <li>
 Henry, P. J., Butler, S., & Brandt, M. J. (2014). The influence of
 target group status on the perception of the offensiveness of
 group-based slurs. <i>Journal of Experimental Social Psychology, 53</i>,
-185-192. <a href="https://doi.org/">doi</a>
+185-192. <a href="https://doi.org/10.1016/j.jesp.2014.03.012">doi</a> |
+<a href="https://osf.io/dpycb/">pdf</a>
 <li>
 Hofmann, W., Wisneski, D. C., Brandt, M. J., & Skitka, L. J. (2014)
 Morality in everyday life. <i>Science, 345</i>, 1340-1343.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1126/science.1251560">doi</a> |
+<a href="https://osf.io/8jb9u/">pdf</a> |
+<a href="https://dataverse.harvard.edu/dataset.xhtml;jsessionid=1d0e0cc5c5ee1662c15a4858bcfe?persistentId=doi%3A10.7910/DVN/26910&version=4.0">code</a>
+|
+<a href="https://dataverse.harvard.edu/dataset.xhtml;jsessionid=1d0e0cc5c5ee1662c15a4858bcfe?persistentId=doi%3A10.7910/DVN/26910&version=4.0">data</a>
 <li>
 IJzerman, H., Blanken, I., Brandt, M. J., Oerlemans, J. M., Van den
 Hoogenhof, M. M. W., Franken, S. J. M., & Oerlemans, M. W. G. (2014).
 Sex differences in distress from infidelity in early adulthood and in
 later life: A replication and meta-analysis of Shackelford et
 al. (2004). <i>Social Psychology, 45</i>, 202-208.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1027/1864-9335/a000185">doi</a> |
+<a href="https://osf.io/ctehq/">pdf</a> |
+<a href="https://osf.io/nrbjz/">code</a> |
+<a href="https://osf.io/nrbjz/">data</a>
 <li>
 Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník,
 Š., Bernstein, M. J., … Brandt, M. J., … & Nosek, B. A. (2014). Data
 from investigating variation in replicability: A “many labs” replication
 project. <i>The Journal of Open Psychology Data, 2</i>, e4.
-<a href="https://doi.org/">doi</a>
+<a href="ttps://doi.org/10.5334/jopd.ad">doi</a> |
+<a href="https://osf.io/jmpn4/">pdf</a> |
+<a href="https://osf.io/wx7ck/">code</a>
 <li>
 Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník,
 Š., Bernstein, M. J., … Brandt, M. J., … & Nosek, B. A. (2014).
 Investigating variation in replicability: A “many labs” replication
 project. <i>Social Psychology, 45</i>, 142-152.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1027/1864-9335/a000178">doi</a> |
+<a href="https://osf.io/xkbgv/">pdf</a> |
+<a href="https://osf.io/wx7ck/">code</a> |
+<a href="https://osf.io/wx7ck/">data</a>
 <li>
 Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník,
 Š., Bernstein, M. J., … Brandt, M. J., … & Nosek, B. A. (2014). Theory
 building through iterative replication: Response to commentaries on the
 “Many Labs” replication project. <i>Social Psychology, 45</i>, 307-310.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1027/1864-9335/a000202">doi</a> |
+<a href="https://osf.io/drwns/">pdf</a>
 <li>
 Reyna, C., Wetherell, G. W., Brandt, M. J., & Yantis, C. (2014).
 Attributions for sexual orientation vs. stereotypes: How stereotypes
 about value violations account for attribution effects on anti-gay
 discrimination. <i>Journal of Applied Social Psychology, 44</i>,
-289-302. <a href="https://doi.org/">doi</a>
+289-302. <a href="https://doi.org/10.1111/jasp.12226">doi</a> |
+<a href="https://osf.io/d8a4p/">pdf</a>
 </ul>
 
 ## 2013
@@ -562,22 +670,29 @@ discrimination. <i>Journal of Applied Social Psychology, 44</i>,
 <li>
 Brandt, M. J. (2013). Do the disadvantaged legitimize the social system?
 A large-scale test of the status-legitimacy hypothesis. <i>Journal of
-Personality and Social Psychology, 104</i>, 765-785.
-<a href="https://doi.org/">doi</a>
+Personality and Social Psychology, 104</i>, 765-785. |
+<a href = "https://osf.io/vdprg/">Footnote 7 Results</a>|
+<a href = "https://osf.io/bsxaq/">Footnote 9 Results</a>
+<a href="https://doi.org/10.1037/a0031751">doi</a> |
+<a href="https://osf.io/bcnuy/">pdf</a> |
+<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20057&studyListingIndex=1_cab334dfb1c69787adf5fc5dc0cc">code</a>
 <li>
 Brandt, M, J. (2013). Onset and offset deservingness: The case of home
 foreclosures. <i>Political Psychology, 34</i>, 221-238.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1111/j.1467-9221.2012.00931.x">doi</a> |
+<a href="https://osf.io/5erxs/">pdf</a> |
+<a href="http://www.tessexperiments.org/study/brandt708">data</a>
 <li>
-IJzerman, H., Brandt, M. J., & Van Wolferen, J.\* (2013). Rejoice! In
+IJzerman, H., Brandt, M. J., & Van Wolferen, J. (2013). Rejoice! In
 replication. <i>European Journal of Personality, 27</i>, 128-129.
-<a href="https://doi.org/">doi</a>
+<a href="https://osf.io/wv3jc/">pdf</a>
 <li>
 Wetherell, G., Brandt, M. J., & Reyna, C. (2013) Discrimination across
 the ideological divide: The role of perceptions of value violations and
 abstract values in discrimination by liberals and conservatives.
 <i>Social Psychological and Personality Science, 4</i>, 658-667.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/1948550613476096">doi</a> |
+<a href="https://osf.io/xn3qa/">pdf</a>
 </ul>
 
 ## 2012
@@ -586,30 +701,38 @@ abstract values in discrimination by liberals and conservatives.
 <li>
 Brandt, M. J. (2012). Nasty data can still be real: A reply to Ullrich
 and Schlüter. <i>Psychological Science, 23</i>, 826-827.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/0956797612441610">doi</a> |
+<a href="https://osf.io/mj8he/">pdf</a>
 <li>
 Brandt, M. J. & Henry, P. J. (2012a). Gender inequality and gender
 differences in authoritarianism. <i>Personality and Social Psychology
-Bulletin, 38</i>, 1301-1315. <a href="https://doi.org/">doi</a>
+Bulletin, 38</i>, 1301-1315.
+<a href="ttps://doi.org/10.1177/0146167212449871">doi</a> |
+<a href="https://osf.io/h2gka/">pdf</a>
 <li>
 Brandt, M. J., & Henry, P. J. (2012b). Psychological defensiveness as a
 mechanism explaining the relationship between low socioeconomic status
 and religiosity. <i>International Journal for the Psychology of
-Religion, 22</i>, 321-332. <a href="https://doi.org/">doi</a>
+Religion, 22</i>, 321-332.
+<a href="https://doi.org/10.1080/10508619.2011.646565">doi</a> |
+<a href="https://osf.io/y5dvz/">pdf</a>
 <li>
 Brandt, M. J., & Reyna, C. (2012). The functions of symbolic racism.
 <i>Social Justice Research, 25</i>, 41-60.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1007/s11211-012-0146-y">doi</a> |
+<a href="https://osf.io/s2u43">pdf</a>
 <li>
 Brandt, M. J. & Wetherell, G. (2012). What attitudes are moral
 attitudes? The case of attitude heritability. <i>Social Psychological
 and Personality Science, 3</i>, 172-179.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/1948550611412793">doi</a> |
+<a href="https://osf.io/jmtac/">pdf</a>
 <li>
 Open Science Collaboration. (2012). An open, large-scale, collaborative
 effort to estimate the reproducibility of psychological
 science. <i>Perspectives on Psychological Science, 7</i>, 652-655. 
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/1745691612462588">doi</a> |
+<a href="https://osf.io/en7gz/">pdf</a>
 </ul>
 
 ## 2011 and Earlier
@@ -618,24 +741,29 @@ science. <i>Perspectives on Psychological Science, 7</i>, 652-655. 
 <li>
 Brandt, M. J. (2011). Sexism and gender inequality across 57 societies.
 <i>Psychological Science, 22</i>, 1413 - 1418.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/0956797611420445">doi</a> |
+<a href="https://osf.io/bc8pe/">pdf</a>
 <li>
 Brandt, M. J., & Reyna, C. (2011). The chain of being: A hierarchy of
 morality. <i>Perspectives on Psychological Science, 6</i>, 428-446.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/1745691611414587">doi</a> |
+<a href="https://osf.io/cfs5n/">pdf</a>
 <li>
 Brandt, M. J., & Reyna, C. (2011). Stereotypes as attributions. In E. L.
 Simon (Ed.) <i>Psychology of Stereotypes</i> (pp. 47-80). Hauppauge, NY:
-Nova Science Publishers <a href="https://doi.org/">doi</a>
+Nova Science Publishers <a href="https://osf.io/s9qzt/">pdf</a>
 <li>
 Brandt, M. J., & Reyna, C. (2010). The role of prejudice and the need
 for closure in religious fundamentalism. <i>Personality and Social
-Psychology Bulletin, 36</i>, 715-725. <a href="https://doi.org/">doi</a>
+Psychology Bulletin, 36</i>, 715-725.
+<a href="https://doi.org/10.1177/0146167210366306">doi</a> |
+<a href="https://osf.io/dj7b3/">pdf</a>
 <li>
 Reyna, C., Brandt, M., & Viki, G. T. (2009). Blame it on hip-hop:
 Anti-rap attitudes as a proxy for prejudice. <i>Group Processes and
 Intergroup Relations, 12</i>, 361-380.
-<a href="https://doi.org/">doi</a>
+<a href="https://doi.org/10.1177/1368430209102848">doi</a> |
+<a href="https://osf.io/ndw5k/">pdf</a>
 </ul>
 
 ## Preprints
@@ -644,7 +772,7 @@ Intergroup Relations, 12</i>, 361-380.
 <li>
 Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, November 10).
 Comparing the Effects of Decision Time and Direct Decision Processing
-Information on (Moral) Character Evaluations. <i>PsyArXiv</i>
+Information on (Moral) Character Evaluations. <i>PsyArXiv</i>.
 <a href="https://doi.org/10.31234/osf.io/6vezd">doi</a> |
 <a href="https://psyarxiv.com/6vezd/download">pdf</a> |
 <a href="https://osf.io/abexc/">code</a> |
@@ -652,7 +780,7 @@ Information on (Moral) Character Evaluations. <i>PsyArXiv</i>
 <li>
 Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, July 12). The effects
 of decision time on perceptions of decisions and decision makers in
-(moral) trade-off scenarios. <i>PsyArXiv</i>
+(moral) trade-off scenarios. <i>PsyArXiv</i>.
 <a href="https://doi.org/10.31234/osf.io/37t2r">doi</a> |
 <a href="https://psyarxiv.com/37t2r/download">pdf</a> |
 <a href="https://osf.io/wg395/">code</a> |
@@ -660,14 +788,14 @@ of decision time on perceptions of decisions and decision makers in
 <li>
 Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, July 6). Endowment
 vs. previous preferences: Which cue drives consumer decision-making?
-<i>PsyArXiv</i> <a href="https://doi.org/10.31234/osf.io/gqv72">doi</a>
+<i>PsyArXiv</i>. <a href="https://doi.org/10.31234/osf.io/gqv72">doi</a>
 | <a href="https://psyarxiv.com/gqv72/download">pdf</a> |
 <a href="https://osf.io/k5cq9/">code</a> |
 <a href="https://osf.io/k5cq9/">data</a>
 <li>
 Wagemans, F. M. A., Brandt, M. J., & Zeelenberg, M. (2018, July 2).
 Disgust sensitivity and moral judgments of purity: The role of
-transgression weirdness. <i>PsyArXiv</i>
+transgression weirdness. <i>PsyArXiv</i>.
 <a href="https://doi.org/10.31234/osf.io/c5h42">doi</a> |
 <a href="https://psyarxiv.com/c5h42/download">pdf</a> |
 <a href="https://osf.io/v89t3/">code</a> |
@@ -675,7 +803,7 @@ transgression weirdness. <i>PsyArXiv</i>
 <li>
 Wagemans, F. M. A., Sleegers, W., Brandt, M. J., & Zeelenberg, M. (2019,
 July 15). Attentional biases associated with individual differences in
-disgust sensitivity: An eye tracking study. <i>PsyArXiv</i>
+disgust sensitivity: An eye tracking study. <i>PsyArXiv</i>.
 <a href="https://doi.org/10.31234/osf.io/k53ec">doi</a> |
 <a href="https://psyarxiv.com/k53ec/download">pdf</a>
 </ul>
