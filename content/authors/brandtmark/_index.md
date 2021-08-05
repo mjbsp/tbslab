@@ -29,3 +29,5 @@ user_groups:
 ---
 
 I am an assistant professor in the Department of Psychology at Michigan State University. The overarching goal of my research program is to understand how ideological and moral beliefs – such as political ideology, religious fundamentalism, and moral conviction – structure attitudes and behaviors and provide people with meaning.
+
+My publications are <a href="https://tbslaboratory.com/publications/index.html">here</a>.
