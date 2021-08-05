@@ -64,5 +64,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Check out all of our [publications]({{< ref "/publications/index.md" >}})!
+Check out all of our [publications]({{< ref "/publications/_index.md" >}})!
 {{% /alert %}}
