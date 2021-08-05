@@ -457,7 +457,7 @@ Social Psychology, 67</i>, 1.
 <a href="https://osf.io/nhmb2/">pdf</a>
 <li>
 Brandt, M. J. & Proulx, T. (2016). Conceptual creep as a human (and
-scientific) goal \[Commentary on Haslam’s target article\].
+scientific) goal.
 <i>Psychological Inquiry, 27</i>, 18-23.
 <a href="https://doi.org/10.1080/1047840X.2016.1109577">doi</a> |
 <a href="https://osf.io/kf8vr/">pdf</a>
