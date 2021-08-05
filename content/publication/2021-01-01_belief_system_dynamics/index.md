@@ -1,7 +1,5 @@
 ---
-authors:
-- brandtmark
-- Willem Sleegers
+
 date: "2021-01-09"
 doi: 10.1177/1088868321993751
 featured: true

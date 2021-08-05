@@ -109,10 +109,10 @@ Reports, 11</i>, 4925.
 |
 <a href="https://osf.io/z9rd3/?view_only=ac4fe309454447bab8337ab2e8664f54">data</a>
 <li>
-Voelkel, J. G., Ren, D., & Brandt, M. J. (in press). Inclusion reduces
-political prejudice. <i>Journal of Experimental Social Psychology</i>.
-<a href="https://doi.org/10.1016/j.jesp.2021.104149">doi</a> |
-<a href="https://osf.io/7muny/">pdf</a> |
+Voelkel, J. G., Ren, D., & Brandt, M. J. (2021). Inclusion reduces
+political prejudice. <i>Journal of Experimental Social Psychology</i>,
+95, 104149. <a href="https://doi.org/10.1016/j.jesp.2021.104149">doi</a>
+| <a href="https://osf.io/7muny/">pdf</a> |
 <a href="https://osf.io/jcmmp/">code</a> |
 <a href="https://osf.io/jcmmp/">data</a>
 </ul>
@@ -315,8 +315,7 @@ Social Psychology Bulletin, 44</i>, 1697-1711.
 <a href="https://osf.io/2jqhm/">data</a>
 <li>
 IJzerman, H., Grahe, J., & Brandt, M. J. (2018). How to make
-replications mainstream. <i>Behavioral and Brain Sciences, 41</i>,
-e136 Commentary on Zwaan et al. 
+replications mainstream. <i>Behavioral and Brain Sciences, 41</i>, e136.
 <a href="https://doi.org/10.1017/S0140525X18000717">doi</a> |
 <a href="https://osf.io/7xyfz/">pdf</a>
 <li>
@@ -457,8 +456,7 @@ Social Psychology, 67</i>, 1.
 <a href="https://osf.io/nhmb2/">pdf</a>
 <li>
 Brandt, M. J. & Proulx, T. (2016). Conceptual creep as a human (and
-scientific) goal.
-<i>Psychological Inquiry, 27</i>, 18-23.
+scientific) goal. <i>Psychological Inquiry, 27</i>, 18-23.
 <a href="https://doi.org/10.1080/1047840X.2016.1109577">doi</a> |
 <a href="https://osf.io/kf8vr/">pdf</a>
 <li>
