@@ -20,6 +20,12 @@ prejudice in the United States. <i>Journal of Personality and Social
 Psychology</i>. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
 <a href="https://osf.io/a29my/">pdf</a>
 <li>
+Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
+press). Leftists possess more national consensus in Europe in one of two
+datasets. Social Psychological and Personality Science.
+<a href="https://osf.io/2fqhb/">pdf</a> |
+<a href="https://osf.io/yktze/?view_only=None">code</a>
+<li>
 Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
 molecules: Morality as a combinatorial system. <i>Review of Philosophy
 and Psychology</i>. <a href="https://osf.io/cyg3h/">pdf</a>

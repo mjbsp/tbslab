@@ -31,14 +31,14 @@ Together with my supervisors, Mark Brandt, Christoph Kogler, and Ilja van Beest,
 
 <ul>
 <li>
+Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
+press). Moral frame persuade and moralize, non-moral frames persuade and
+demoralize. <i>Psychological Science</i>.
+<li>
 Kodapanakkal, R.I., Brandt, M.J., Kogler, C., & van Beest, I., (2020).
 Self-interest and data protection drive the adoption and moral
 acceptability of big data technologies: A conjoint analysis
 approach. <i>Computers in Human Behavior, 108</i>, 106303.
 <a href="https://doi.org/10.1016/j.chb.2020.106303">doi</a> |
 <a href="https://osf.io/8rz9q/">pdf</a>
-<li>
-Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
-press). Moral frame persuade and moralize, non-moral frames persuade and
-demoralize. <i>Psychological Science</i>.
 </ul>
