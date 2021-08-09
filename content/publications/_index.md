@@ -26,6 +26,11 @@ datasets. Social Psychological and Personality Science.
 <a href="https://osf.io/2fqhb/">pdf</a> |
 <a href="https://osf.io/yktze/?view_only=None">code</a>
 <li>
+Brandt, M. J. & Kubin, E. (in press). Ratings of reasons for
+disagreement about 95 attitude object pairs and 190 attitude
+objects. Journal of Open Psychology Data.
+<a href="https://osf.io/ja7pv/">pdf</a>
+<li>
 Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
 molecules: Morality as a combinatorial system. <i>Review of Philosophy
 and Psychology</i>. <a href="https://osf.io/cyg3h/">pdf</a>
