@@ -26,18 +26,13 @@ datasets. Social Psychological and Personality Science.
 <a href="https://osf.io/2fqhb/">pdf</a> |
 <a href="https://osf.io/yktze/?view_only=None">code</a>
 <li>
-Brandt, M. J. & Kubin, E. (in press). Ratings of reasons for
-disagreement about 95 attitude object pairs and 190 attitude
-objects. Journal of Open Psychology Data.
-<a href="https://osf.io/ja7pv/">pdf</a>
-<li>
 Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
 molecules: Morality as a combinatorial system. <i>Review of Philosophy
 and Psychology</i>. <a href="https://osf.io/cyg3h/">pdf</a>
 <li>
 Evans., A. M., Stavrova, O., Rosenbusch, H., & Brandt, M. J. (in press).
 Expressions of doubt in online news discussions. <i>Social Science
-Computer Review</i>.
+Computer Review</i>. <a href="https://osf.io/9vcyh/">pdf</a>
 <li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
 press). Moral frame persuade and moralize, non-moral frames persuade and
@@ -61,6 +56,13 @@ ideological asymmetries in measurement invariance. <i>Assessment,
 <a href="https://osf.io/k6rnj/">pdf</a> |
 <a href="https://osf.io/eypfh/">code</a>
 <li>
+Brandt, M. J. & Kubin, E. (2021). Ratings of reasons for disagreement
+about 95 attitude object pairs and 190 attitude objects. Journal of Open
+Psychology Data, 9, 4. <a href="https://doi.org/10.5334/jopd.53">doi</a>
+| <a href="https://osf.io/ja7pv/">pdf</a> |
+<a href="https://osf.io/p253v/">code</a> |
+<a href="https://osf.io/p253v/">data</a>
+<li>
 Brandt, M. J., & Sleegers, W. W. A. (2021). Evaluating belief system
 networks as a theory of political belief system dynamics. <i>Personality
 and Social Psychology Review, 25</i>, 159-185.
@@ -80,7 +82,7 @@ domain, and the country. <i>Personality and Social Psychology Bulletin,
 <li>
 Brandt, M. J., Turner-Zwinkels, F. M., & Kubin, E. (2021). Political
 psychology data from a 26-wave yearlong longitudinal study (2019-2020).
-<i>Journal of Open Psychology Data, 9</i>, 1-12
+<i>Journal of Open Psychology Data, 9</i>, 1-12.
 <a href="http://doi.org/10.5334/jopd.54">doi</a> |
 <a href="https://osf.io/j8m94/">pdf</a> |
 <a href="https://osf.io/3pwvb/">code</a> |
