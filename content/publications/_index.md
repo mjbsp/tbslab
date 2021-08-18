@@ -22,7 +22,7 @@ Psychology</i>. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
 <li>
 Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
 press). Leftists possess more national consensus in Europe in one of two
-datasets. Social Psychological and Personality Science.
+datasets. <i>Social Psychological and Personality Science</i>.
 <a href="https://osf.io/2fqhb/">pdf</a> |
 <a href="https://osf.io/yktze/?view_only=None">code</a>
 <li>
@@ -32,7 +32,9 @@ and Psychology</i>. <a href="https://osf.io/cyg3h/">pdf</a>
 <li>
 Evans., A. M., Stavrova, O., Rosenbusch, H., & Brandt, M. J. (in press).
 Expressions of doubt in online news discussions. <i>Social Science
-Computer Review</i>. <a href="https://osf.io/9vcyh/">pdf</a>
+Computer Review</i>.
+<a href="https://doi.org/10.1177/08944393211034163">doi</a> |
+<a href="https://osf.io/9vcyh/">pdf</a>
 <li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
 press). Moral frame persuade and moralize, non-moral frames persuade and
@@ -57,9 +59,10 @@ ideological asymmetries in measurement invariance. <i>Assessment,
 <a href="https://osf.io/eypfh/">code</a>
 <li>
 Brandt, M. J. & Kubin, E. (2021). Ratings of reasons for disagreement
-about 95 attitude object pairs and 190 attitude objects. Journal of Open
-Psychology Data, 9, 4. <a href="https://doi.org/10.5334/jopd.53">doi</a>
-| <a href="https://osf.io/ja7pv/">pdf</a> |
+about 95 attitude object pairs and 190 attitude objects. <i>Journal of
+Open Psychology Data, 9</i>, 4.
+<a href="https://doi.org/10.5334/jopd.53">doi</a> |
+<a href="https://osf.io/ja7pv/">pdf</a> |
 <a href="https://osf.io/p253v/">code</a> |
 <a href="https://osf.io/p253v/">data</a>
 <li>
@@ -82,7 +85,7 @@ domain, and the country. <i>Personality and Social Psychology Bulletin,
 <li>
 Brandt, M. J., Turner-Zwinkels, F. M., & Kubin, E. (2021). Political
 psychology data from a 26-wave yearlong longitudinal study (2019-2020).
-<i>Journal of Open Psychology Data, 9</i>, 1-12.
+<i>Journal of Open Psychology Data, 9</i>, 2.
 <a href="http://doi.org/10.5334/jopd.54">doi</a> |
 <a href="https://osf.io/j8m94/">pdf</a> |
 <a href="https://osf.io/3pwvb/">code</a> |
