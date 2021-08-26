@@ -17,6 +17,11 @@ Psychological science, and social psychology in particular, has faced a number o
 ## Key Project Publications
 
 <ul>
+Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
+A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
+what to replicate: A decision model for replication study selection
+under resource and knowledge constraints. <i>Psychological Methods</i>
+<a href="https://osf.io/duawg/">pdf</a>
 <li>
 Brandt, M. J. (2020). Estimating and examining the replicability of
 belief system networks. <i>Collabra: Psychology, 6</i>, 24.

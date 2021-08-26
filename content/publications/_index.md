@@ -36,6 +36,12 @@ Computer Review</i>.
 <a href="https://doi.org/10.1177/08944393211034163">doi</a> |
 <a href="https://osf.io/9vcyh/">pdf</a>
 <li>
+Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
+A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
+what to replicate: A decision model for replication study selection
+under resource and knowledge constraints. <i>Psychological Methods</i>
+<a href="https://osf.io/duawg/">pdf</a>
+<li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
 press). Moral frame persuade and moralize, non-moral frames persuade and
 demoralize. <i>Psychological Science</i>.
