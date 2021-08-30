@@ -17,6 +17,7 @@ Psychological science, and social psychology in particular, has faced a number o
 ## Key Project Publications
 
 <ul>
+<li>
 Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
 A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
 what to replicate: A decision model for replication study selection
