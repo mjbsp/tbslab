@@ -45,6 +45,10 @@ under resource and knowledge constraints. <i>Psychological Methods</i>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
 press). Moral frame persuade and moralize, non-moral frames persuade and
 demoralize. <i>Psychological Science</i>.
+<a href="https://osf.io/gjup5/">pdf</a> |
+<a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">code</a>
+|
+<a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
 <li>
 Stavrova, O., Evans, A. M., & Brandt, M. J. (in press). Ecological
 dimensions explain the past, but do not predict future changes in trust.
