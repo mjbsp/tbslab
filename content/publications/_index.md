@@ -23,6 +23,7 @@ Psychology</i>. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
 Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
 press). Leftists possess more national consensus in Europe in one of two
 datasets. <i>Social Psychological and Personality Science</i>.
+<a href="https://doi.org/10.1177/19485506211041825">doi</a> |
 <a href="https://osf.io/2fqhb/">pdf</a> |
 <a href="https://osf.io/yktze/?view_only=None">code</a>
 <li>
@@ -49,6 +50,16 @@ demoralize. <i>Psychological Science</i>.
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">code</a>
 |
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
+<li>
+Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
+press). Moral relevance varies due to inter-individual and
+intra-individual differences across big data technology domains.
+<i>European Journal of Social Psychology</i>.
+<a href="https://doi.org/10.1002/ejsp.2814">doi</a> |
+<a href="https://osf.io/5kfeg/">pdf</a> |
+<a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">code</a>
+|
+<a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">data</a>
 <li>
 Stavrova, O., Evans, A. M., & Brandt, M. J. (in press). Ecological
 dimensions explain the past, but do not predict future changes in trust.
