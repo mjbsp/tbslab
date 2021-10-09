@@ -30,22 +30,6 @@ Together with my supervisors, Mark Brandt, Christoph Kogler, and Ilja van Beest,
 ## Lab Publications
 
 <ul>
----
-title: "Publications"
-date: '2020-06-25T00:00:00Z'
-reading_time: no
-output:
-  md_document:
-    variant: commonmark
-    preserve_yaml: true
-profile: no
-comments: no
-share: no
----
-
-## In Press
-
-<ul>
 <li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
 press). Moral frame persuade and moralize, non-moral frames persuade and
