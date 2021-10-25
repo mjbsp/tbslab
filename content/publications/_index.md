@@ -66,6 +66,11 @@ dimensions explain the past, but do not predict future changes in trust.
 <i>American Psychologist</i>. <a href="https://osf.io/a8jkd/">pdf</a> |
 <a href="https://osf.io/fx9eb/">code</a> |
 <a href="https://osf.io/fx9eb/">data</a>
+<li>
+Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (in press). Not every
+dissatisfaction is the same: The impact of electoral regret,
+disappointment, and anger on subsequent electoral behavior.
+<i>Emotion</i>.
 </ul>
 
 ## 2021

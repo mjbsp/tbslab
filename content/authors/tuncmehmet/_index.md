@@ -23,3 +23,13 @@ user_groups:
 ---
 
 My research interests mainly focus on the underlying emotional processes in political decision making. Currently I am working with my supervisors Mark Brandt and Marcel Zeelenberg on how negative emotions resulting from previous political events might be related to subsequent political behaviour.
+
+## Lab Publications
+
+<ul>
+<li>
+Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (in press). Not every
+dissatisfaction is the same: The impact of electoral regret,
+disappointment, and anger on subsequent electoral behavior.
+<i>Emotion</i>.
+</ul>
