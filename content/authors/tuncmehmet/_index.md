@@ -31,5 +31,7 @@ My research interests mainly focus on the underlying emotional processes in poli
 Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (in press). Not every
 dissatisfaction is the same: The impact of electoral regret,
 disappointment, and anger on subsequent electoral behavior.
-<i>Emotion</i>.
+<i>Emotion</i>. <a href="https://osf.io/6gu4h/">pdf</a> |
+<a href="https://osf.io/pmexb/">code</a> |
+<a href="https://osf.io/pmexb/">data</a>
 </ul>
