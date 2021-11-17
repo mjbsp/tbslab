@@ -30,6 +30,9 @@ datasets. <i>Social Psychological and Personality Science</i>.
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
 Personality and Social Psychology</i>. 
+<a href="https://osf.io/4yg7t/">pdf</a> |
+<a href="https://osf.io/htc8a/">code</a> |
+<a href="https://osf.io/htc8a/">data</a>
 <li>
 Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
 molecules: Morality as a combinatorial system. <i>Review of Philosophy
