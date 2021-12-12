@@ -20,6 +20,10 @@ prejudice in the United States. <i>Journal of Personality and Social
 Psychology</i>. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
 <a href="https://osf.io/a29my/">pdf</a>
 <li>
+Bracic, A., Brandt, M. J., & Lajevardi, N. (in press). Minority politics
+online seminar series. <i>PS: Political Science & Politics</i>.
+<a href="https://osf.io/f6gqa/">pdf</a>
+<li>
 Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
 press). Leftists possess more national consensus in Europe in one of two
 datasets. <i>Social Psychological and Personality Science</i>.
@@ -721,7 +725,7 @@ Brandt, M. J. (2013). Do the disadvantaged legitimize the social system?
 A large-scale test of the status-legitimacy hypothesis. <i>Journal of
 Personality and Social Psychology, 104</i>, 765-785.
 <a href = "https://osf.io/vdprg/">Footnote 7 Results</a>|
-<a href = "https://osf.io/bsxaq/">Footnote 9 Results</a>
+<a href = "https://osf.io/bsxaq/">Footnote 9 Results</a> |
 <a href="https://doi.org/10.1037/a0031751">doi</a> |
 <a href="https://osf.io/bcnuy/">pdf</a> |
 <a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20057&studyListingIndex=1_cab334dfb1c69787adf5fc5dc0cc">code</a>
