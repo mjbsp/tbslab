@@ -49,6 +49,10 @@ psychology data from a 26-wave yearlong longitudinal study (2019-2020).
 <a href="https://osf.io/3pwvb/">code</a> |
 <a href="https://osf.io/3pwvb/">data</a>
 <li>
+Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Belief system
+networks can be used to predict where to expect dynamic constraint.
+<i>Journal of Experimental Social Psychology</i>.
+<li>
 Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
 (2021). Conservatives moral foundations are more densely connected than
 liberals’ moral foundations. <i>Personality and Social Psychology

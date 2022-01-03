@@ -78,6 +78,10 @@ disappointment, and anger on subsequent electoral behavior.
 <i>Emotion</i>. <a href="https://osf.io/6gu4h/">pdf</a> |
 <a href="https://osf.io/pmexb/">code</a> |
 <a href="https://osf.io/pmexb/">data</a>
+<li>
+Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Belief system
+networks can be used to predict where to expect dynamic constraint.
+<i>Journal of Experimental Social Psychology</i>.
 </ul>
 
 ## 2021
