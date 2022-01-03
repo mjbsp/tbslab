@@ -72,12 +72,6 @@ intra-individual differences across big data technology domains.
 |
 <a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">data</a>
 <li>
-Stavrova, O., Evans, A. M., & Brandt, M. J. (in press). Ecological
-dimensions explain the past, but do not predict future changes in trust.
-<i>American Psychologist</i>. <a href="https://osf.io/a8jkd/">pdf</a> |
-<a href="https://osf.io/fx9eb/">code</a> |
-<a href="https://osf.io/fx9eb/">data</a>
-<li>
 Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (in press). Not every
 dissatisfaction is the same: The impact of electoral regret,
 disappointment, and anger on subsequent electoral behavior.
@@ -146,6 +140,14 @@ Human Behaviour, 5</i>, 159-169.
 <a href="https://osf.io/9upz2/">pdf</a> |
 <a href="https://osf.io/87rbg/">code</a> |
 <a href="https://osf.io/87rbg/">data</a>
+<li>
+Stavrova, O., Evans, A. M., & Brandt, M. J. (2021). Ecological
+dimensions explain the past, but do not predict future changes in trust.
+<i>American Psychologist, 76</i>, 983-996.
+<a href="https://doi.org/10.1037/amp0000815">doi</a> |
+<a href="https://osf.io/3zmj5/">pdf</a> |
+<a href="https://osf.io/fx9eb/">code</a> |
+<a href="https://osf.io/fx9eb/">data</a>
 <li>
 Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
 (2021). Conservatives moral foundations are more densely connected than
