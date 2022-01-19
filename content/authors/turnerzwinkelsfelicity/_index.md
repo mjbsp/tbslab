@@ -52,6 +52,7 @@ psychology data from a 26-wave yearlong longitudinal study (2019-2020).
 Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Belief system
 networks can be used to predict where to expect dynamic constraint.
 <i>Journal of Experimental Social Psychology</i>.
+<a href="https://osf.io/s2hdc/">pdf</a>
 <li>
 Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
 (2021). Conservatives moral foundations are more densely connected than

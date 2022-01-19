@@ -34,6 +34,7 @@ datasets. <i>Social Psychological and Personality Science</i>.
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
 Personality and Social Psychology</i>. 
+<a href="https://doi.org/10.1037/pspp0000404">doi</a> |
 <a href="https://osf.io/4yg7t/">pdf</a> |
 <a href="https://osf.io/htc8a/">code</a> |
 <a href="https://osf.io/htc8a/">data</a>
@@ -75,13 +76,21 @@ intra-individual differences across big data technology domains.
 Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (in press). Not every
 dissatisfaction is the same: The impact of electoral regret,
 disappointment, and anger on subsequent electoral behavior.
-<i>Emotion</i>. <a href="https://osf.io/6gu4h/">pdf</a> |
+<i>Emotion</i>.
+<a href="https://doi.org/10.1016/j.jesp.2021.104279">doi</a> |
+<a href="https://osf.io/6gu4h/">pdf</a> |
 <a href="https://osf.io/pmexb/">code</a> |
 <a href="https://osf.io/pmexb/">data</a>
+</ul>
+
+## 2022
+
+<ul>
 <li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Belief system
 networks can be used to predict where to expect dynamic constraint.
 <i>Journal of Experimental Social Psychology</i>.
+<a href="https://osf.io/s2hdc/">pdf</a>
 </ul>
 
 ## 2021
