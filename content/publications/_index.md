@@ -87,9 +87,9 @@ disappointment, and anger on subsequent electoral behavior.
 
 <ul>
 <li>
-Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Belief system
-networks can be used to predict where to expect dynamic constraint.
-<i>Journal of Experimental Social Psychology</i>.
+Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
+can be used to predict where to expect dynamic constraint. <i>Journal of
+Experimental Social Psychology, 100</i>, 104279.
 <a href="https://osf.io/s2hdc/">pdf</a>
 </ul>
 

@@ -49,9 +49,9 @@ psychology data from a 26-wave yearlong longitudinal study (2019-2020).
 <a href="https://osf.io/3pwvb/">code</a> |
 <a href="https://osf.io/3pwvb/">data</a>
 <li>
-Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Belief system
-networks can be used to predict where to expect dynamic constraint.
-<i>Journal of Experimental Social Psychology</i>.
+Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
+can be used to predict where to expect dynamic constraint. <i>Journal of
+Experimental Social Psychology, 100</i>, 104279.
 <a href="https://osf.io/s2hdc/">pdf</a>
 <li>
 Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
