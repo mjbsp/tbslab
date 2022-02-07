@@ -36,10 +36,10 @@ intellectual virtue. <i>Review of Philosophy and Psychology, 12</i>,
 <a href="https://osf.io/k5qmw/">code</a> |
 <a href="https://osf.io/k5qmw/">data</a>
 <li>
-Voelkel, J. G., Ren, D., & Brandt, M. J. (in press). Inclusion reduces
-political prejudice. <i>Journal of Experimental Social Psychology</i>.
-<a href="https://doi.org/10.1016/j.jesp.2021.104149">doi</a> |
-<a href="https://osf.io/7muny/">pdf</a> |
+Voelkel, J. G., Ren, D., & Brandt, M. J. (2021). Inclusion reduces
+political prejudice. <i>Journal of Experimental Social Psychology</i>,
+95, 104149. <a href="https://doi.org/10.1016/j.jesp.2021.104149">doi</a>
+| <a href="https://osf.io/7muny/">pdf</a> |
 <a href="https://osf.io/jcmmp/">code</a> |
 <a href="https://osf.io/jcmmp/">data</a>
 <li>
