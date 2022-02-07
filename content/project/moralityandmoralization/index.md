@@ -19,13 +19,27 @@ Moral and immoral events are common and play an important role in people’s emo
 
 <ul>
 <li>
-Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
-molecules: Morality as a combinatorial system. <i>Review of Philosophy
-and Psychology</i>. <a href="https://osf.io/cyg3h/">pdf</a>
-<li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
 press). Moral frame persuade and moralize, non-moral frames persuade and
 demoralize. <i>Psychological Science</i>.
+<a href="https://osf.io/gjup5/">pdf</a> |
+<a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">code</a>
+|
+<a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
+<li>
+Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
+press). Moral relevance varies due to inter-individual and
+intra-individual differences across big data technology domains.
+<i>European Journal of Social Psychology</i>.
+<a href="https://doi.org/10.1002/ejsp.2814">doi</a> |
+<a href="https://osf.io/5kfeg/">pdf</a> |
+<a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">code</a>
+|
+<a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">data</a>
+<li>
+Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
+molecules: Morality as a combinatorial system. <i>Review of Philosophy
+and Psychology</i>. <a href="https://osf.io/cyg3h/">pdf</a>
 <li>
 Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
 (2021). Conservatives moral foundations are more densely connected than

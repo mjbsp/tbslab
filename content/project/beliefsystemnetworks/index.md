@@ -19,6 +19,19 @@ We are testing the idea that belief systems can be understood and studied as sys
 
 <ul>
 <li>
+Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
+limited insight about within-person belief systems. <i>Journal of
+Personality and Social Psychology</i>. 
+<a href="https://doi.org/10.1037/pspp0000404">doi</a> |
+<a href="https://osf.io/4yg7t/">pdf</a> |
+<a href="https://osf.io/htc8a/">code</a> |
+<a href="https://osf.io/htc8a/">data</a>
+<li>
+Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
+can be used to predict where to expect dynamic constraint. <i>Journal of
+Experimental Social Psychology, 100</i>, 104279.
+<a href="https://osf.io/s2hdc/">pdf</a>
+<li>
 Brandt, M. J., & Sleegers, W. W. A. (2021). Evaluating belief system
 networks as a theory of political belief system dynamics. <i>Personality
 and Social Psychology Review, 25</i>, 159-185.

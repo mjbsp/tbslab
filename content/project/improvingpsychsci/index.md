@@ -18,6 +18,10 @@ Psychological science, and social psychology in particular, has faced a number o
 
 <ul>
 <li>
+Bracic, A., Brandt, M. J., & Lajevardi, N. (in press). Minority politics
+online seminar series. <i>PS: Political Science & Politics</i>.
+<a href="https://osf.io/f6gqa/">pdf</a>
+<li>
 Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
 A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
 what to replicate: A decision model for replication study selection
