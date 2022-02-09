@@ -19,6 +19,13 @@ We are testing the idea that belief systems can be understood and studied as sys
 
 <ul>
 <li>
+Brandt, M. J. (in press). Measuring the belief system of a person.
+<i>Journal of Personality and Social Psychology</i>.
+<a href="https://osf.io/bxd7m/">pdf</a> |
+<a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">code</a>
+|
+<a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">data</a>
+<li>
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
 Personality and Social Psychology</i>. 

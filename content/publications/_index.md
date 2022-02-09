@@ -29,6 +29,13 @@ Bracic, A., Brandt, M. J., & Lajevardi, N. (in press). Minority politics
 online seminar series. <i>PS: Political Science & Politics</i>.
 <a href="https://osf.io/f6gqa/">pdf</a>
 <li>
+Brandt, M. J. (in press). Measuring the belief system of a person.
+<i>Journal of Personality and Social Psychology</i>.
+<a href="https://osf.io/bxd7m/">pdf</a> |
+<a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">code</a>
+|
+<a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">data</a>
+<li>
 Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
 press). Leftists possess more national consensus in Europe in one of two
 datasets. <i>Social Psychological and Personality Science</i>.
