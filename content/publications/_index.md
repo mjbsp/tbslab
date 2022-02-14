@@ -45,7 +45,7 @@ datasets. <i>Social Psychological and Personality Science</i>.
 <a href="https://osf.io/yktze/?view_only=None">code</a>
 <li>
 Brandt, M. J. & Bakker, B. N. (in press). The complicated but solvable
-threat-politics relationship. Trends in Cognitive Science.
+threat-politics relationship. <i>Trends in Cognitive Science</i>.
 <li>
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
