@@ -44,9 +44,6 @@ datasets. <i>Social Psychological and Personality Science</i>.
 <a href="https://osf.io/2fqhb/">pdf</a> |
 <a href="https://osf.io/yktze/?view_only=None">code</a>
 <li>
-Brandt, M. J. & Bakker, B. N. (in press). The complicated but solvable
-threat-politics relationship. <i>Trends in Cognitive Science</i>.
-<li>
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
 Personality and Social Psychology</i>. 
