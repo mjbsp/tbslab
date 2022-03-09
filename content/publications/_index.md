@@ -44,6 +44,11 @@ datasets. <i>Social Psychological and Personality Science</i>.
 <a href="https://osf.io/2fqhb/">pdf</a> |
 <a href="https://osf.io/yktze/?view_only=None">code</a>
 <li>
+Brandt, M. J. & Bakker, B. N. (in press). The complicated but solvable
+threat–politics relationship. <i>Trends in Cognitive Sciences</i>.
+<a href="https://doi.org/10.1016/j.tics.2022.02.005">doi</a> |
+<a href="https://osf.io/9anvg/">pdf</a>
+<li>
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
 Personality and Social Psychology</i>. 
@@ -69,9 +74,9 @@ under resource and knowledge constraints. <i>Psychological Methods</i>
 <a href="https://osf.io/duawg/">pdf</a>
 <li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
-press). Moral frame persuade and moralize, non-moral frames persuade and
-demoralize. <i>Psychological Science</i>.
-<a href="https://osf.io/gjup5/">pdf</a> |
+press). Moral Frames Are Persuasive and Moralize Attitudes; Nonmoral
+Frames Are Persuasive and De-Moralize Attitudes. <i>Psychological
+Science</i>. <a href="https://osf.io/gjup5/">pdf</a> |
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">code</a>
 |
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
