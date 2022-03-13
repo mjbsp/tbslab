@@ -21,7 +21,8 @@ If we take psychological findings about political and religious belief systems a
 Bergh, R. & Brandt, M. J. (in press). Generalized prejudice: Lessons
 about social power, ideological conflict, and levels of abstraction.
 <i>European Review of Social Psychology</i>.
-<a href="https://doi.org/10.1080/10463283.2022.2040140">doi</a>
+<a href="https://doi.org/10.1080/10463283.2022.2040140">doi</a> |
+<a href="https://osf.io/nv48f/">pdf</a>
 <li>
 Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of
 prejudice in the United States. <i>Journal of Personality and Social
