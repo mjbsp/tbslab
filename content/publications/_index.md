@@ -60,7 +60,9 @@ Personality and Social Psychology</i>. 
 <li>
 Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
 molecules: Morality as a combinatorial system. <i>Review of Philosophy
-and Psychology</i>. <a href="https://osf.io/cyg3h/">pdf</a>
+and Psychology</i>.
+<a href="https://doi.org/10.1007/s13164-021-00540-x">doi</a> |
+<a href="https://osf.io/cyg3h/">pdf</a>
 <li>
 Evans., A. M., Stavrova, O., Rosenbusch, H., & Brandt, M. J. (in press).
 Expressions of doubt in online news discussions. <i>Social Science
@@ -72,15 +74,8 @@ Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
 A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
 what to replicate: A decision model for replication study selection
 under resource and knowledge constraints. <i>Psychological Methods</i>
+<a href="https://doi.org/10.1037/met0000438">doi</a> |
 <a href="https://osf.io/duawg/">pdf</a>
-<li>
-Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
-press). Moral Frames Are Persuasive and Moralize Attitudes; Nonmoral
-Frames Are Persuasive and De-Moralize Attitudes. <i>Psychological
-Science</i>. <a href="https://osf.io/gjup5/">pdf</a> |
-<a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">code</a>
-|
-<a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
 <li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
 press). Moral relevance varies due to inter-individual and
@@ -105,6 +100,15 @@ disappointment, and anger on subsequent electoral behavior.
 ## 2022
 
 <ul>
+<li>
+Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (2022).
+Moral frames are persuasive and moralize attitudes; nonmoral frames are
+persuasive and de-moralize attitudes. <i>Psychological Science, 33</i>,
+433-449. <a href="https://doi.org/10.1177/09567976211040803">doi</a> |
+<a href="https://osf.io/gjup5/">pdf</a> |
+<a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">code</a>
+|
+<a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
 <li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
 can be used to predict where to expect dynamic constraint. <i>Journal of
