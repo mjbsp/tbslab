@@ -19,9 +19,10 @@ Moral and immoral events are common and play an important role in people’s emo
 
 <ul>
 <li>
-Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
-press). Moral frame persuade and moralize, non-moral frames persuade and
-demoralize. <i>Psychological Science</i>.
+Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (2022).
+Moral frames are persuasive and moralize attitudes; nonmoral frames are
+persuasive and de-moralize attitudes. <i>Psychological Science, 33</i>,
+433-449. <a href="https://doi.org/10.1177/09567976211040803">doi</a> |
 <a href="https://osf.io/gjup5/">pdf</a> |
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">code</a>
 |
