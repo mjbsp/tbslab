@@ -85,8 +85,7 @@ intra-individual differences across big data technology domains.
 Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (in press). Not every
 dissatisfaction is the same: The impact of electoral regret,
 disappointment, and anger on subsequent electoral behavior.
-<i>Emotion</i>.
-<a href="https://doi.org/10.1016/j.jesp.2021.104279">doi</a> |
+<i>Emotion</i>. <a href="https://doi.org/10.1037/emo0001064">doi</a> |
 <a href="https://osf.io/6gu4h/">pdf</a> |
 <a href="https://osf.io/pmexb/">code</a> |
 <a href="https://osf.io/pmexb/">data</a>
