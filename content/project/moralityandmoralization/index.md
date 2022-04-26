@@ -28,10 +28,10 @@ persuasive and de-moralize attitudes. <i>Psychological Science, 33</i>,
 |
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
 <li>
-Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
-press). Moral relevance varies due to inter-individual and
-intra-individual differences across big data technology domains.
-<i>European Journal of Social Psychology</i>.
+Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (2022).
+Moral relevance varies due to inter-individual and intra-individual
+differences across big data technology domains. <i>European Journal of
+Social Psychology, 52</i>, 46-70.
 <a href="https://doi.org/10.1002/ejsp.2814">doi</a> |
 <a href="https://osf.io/5kfeg/">pdf</a> |
 <a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">code</a>

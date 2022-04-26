@@ -72,16 +72,6 @@ under resource and knowledge constraints. <i>Psychological Methods</i>
 <a href="https://doi.org/10.1037/met0000438">doi</a> |
 <a href="https://osf.io/duawg/">pdf</a>
 <li>
-Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (in
-press). Moral relevance varies due to inter-individual and
-intra-individual differences across big data technology domains.
-<i>European Journal of Social Psychology</i>.
-<a href="https://doi.org/10.1002/ejsp.2814">doi</a> |
-<a href="https://osf.io/5kfeg/">pdf</a> |
-<a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">code</a>
-|
-<a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">data</a>
-<li>
 Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (in press). Not every
 dissatisfaction is the same: The impact of electoral regret,
 disappointment, and anger on subsequent electoral behavior.
@@ -108,6 +98,16 @@ persuasive and de-moralize attitudes. <i>Psychological Science, 33</i>,
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">code</a>
 |
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
+<li>
+Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (2022).
+Moral relevance varies due to inter-individual and intra-individual
+differences across big data technology domains. <i>European Journal of
+Social Psychology, 52</i>, 46-70.
+<a href="https://doi.org/10.1002/ejsp.2814">doi</a> |
+<a href="https://osf.io/5kfeg/">pdf</a> |
+<a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">code</a>
+|
+<a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">data</a>
 <li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
 can be used to predict where to expect dynamic constraint. <i>Journal of
