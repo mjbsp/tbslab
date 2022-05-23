@@ -71,6 +71,13 @@ conflict in daily life. <i>Social Psychological and Personality Science,
 |
 <a href="https://dataverse.nl/dataset.xhtml?persistentId=hdl:10411/APY9ZO">data</a>
 <li>
+Brandt, M. J. (2017). Predicting ideological prejudice. <i>Psychological
+Science, 28</i>, 713-722.
+<a href="https://doi.org/10.1177/0956797617693004">doi</a> |
+<a href="https://osf.io/z83cb/">pdf</a> |
+<a href="https://osf.io/3xgtk/">code</a> |
+<a href="https://osf.io/3xgtk/">data</a>
+<li>
 Crawford, J. T., Brandt, M. J., Inbar, Y., Chambers, J. R., & Motyl, M.
 (2017). Social and economic ideologies differentially predict prejudice
 across the political spectrum, but social issues are most divisive.
