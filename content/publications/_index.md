@@ -38,13 +38,6 @@ Brandt, M. J. (in press). Measuring the belief system of a person.
 |
 <a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">data</a>
 <li>
-Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
-press). Leftists possess more national consensus in Europe in one of two
-datasets. <i>Social Psychological and Personality Science</i>.
-<a href="https://doi.org/10.1177/19485506211041825">doi</a> |
-<a href="https://osf.io/2fqhb/">pdf</a> |
-<a href="https://osf.io/yktze/?view_only=None">code</a>
-<li>
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
 Personality and Social Psychology</i>. 
@@ -89,6 +82,13 @@ their courses? <i>Psychology Learning and Teaching</i>.
 ## 2022
 
 <ul>
+<li>
+Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
+press). Leftists possess more national consensus in Europe in one of two
+datasets. <i>Social Psychological and Personality Science, 13</i>,
+862-874. <a href="https://doi.org/10.1177/19485506211041825">doi</a> |
+<a href="https://osf.io/2fqhb/">pdf</a> |
+<a href="https://osf.io/yktze/?view_only=None">code</a>
 <li>
 Brandt, M. J. & Bakker, B. N. (2022). The complicated but solvable
 threat–politics relationship. <i>Trends in Cognitive Sciences, 26</i>,
