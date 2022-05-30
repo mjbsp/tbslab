@@ -18,6 +18,13 @@ Psychological science, and social psychology in particular, has faced a number o
 
 <ul>
 <li>
+Wagge, J. R., Hurst, M. A., Brandt, M. J., Lazarvic, L. B., Legate, N.,
+& Grahe, J. E. (in press). Teaching research in principle and in
+practice: What do psychology instructors think of research projects in
+their courses? <i>Psychology Learning and Teaching</i>.
+<a href="https://doi.org/10.1177/14757257221101942">doi</a> |
+<a href="https://osf.io/x7mwr/">pdf</a>
+<li>
 Bracic, A., Brandt, M. J., & Lajevardi, N. (in press). Minority politics
 online seminar series. <i>PS: Political Science & Politics</i>.
 <a href="https://osf.io/f6gqa/">pdf</a>
