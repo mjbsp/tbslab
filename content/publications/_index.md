@@ -38,6 +38,10 @@ Brandt, M. J. (in press). Measuring the belief system of a person.
 |
 <a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">data</a>
 <li>
+Brandt, M. J. & Bakker, B. N. (in press). Threat-politics perceptions
+are intertwined with emotional processes. <i>Trends in Cognitive
+Sciences</i>.
+<li>
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
 Personality and Social Psychology</i>. 
