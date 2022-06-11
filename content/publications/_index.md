@@ -21,11 +21,6 @@ about social power, ideological conflict, and levels of abstraction.
 <a href="https://doi.org/10.1080/10463283.2022.2040140">doi</a> |
 <a href="https://osf.io/nv48f/">pdf</a>
 <li>
-Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of
-prejudice in the United States. <i>Journal of Personality and Social
-Psychology</i>. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
-<a href="https://osf.io/a29my/">pdf</a>
-<li>
 Bracic, A., Brandt, M. J., & Lajevardi, N. (in press). Minority politics
 online seminar series. <i>PS: Political Science & Politics</i>.
 <a href="https://osf.io/f6gqa/">pdf</a>
@@ -88,6 +83,12 @@ their courses? <i>Psychology Learning and Teaching</i>.
 ## 2022
 
 <ul>
+<li>
+Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of
+prejudice in the United States. <i>Journal of Personality and Social
+Psychology, 123</i>, 154–173.
+<a href="https://doi.org/10.1037/pspi0000360">doi</a> |
+<a href="https://osf.io/a29my/">pdf</a>
 <li>
 Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
 press). Leftists possess more national consensus in Europe in one of two

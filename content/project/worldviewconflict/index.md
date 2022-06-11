@@ -26,7 +26,7 @@ about social power, ideological conflict, and levels of abstraction.
 <li>
 Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of
 prejudice in the United States. <i>Journal of Personality and Social
-Psychology</i>. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
+Psychology, 123</i>, 154–173. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
 <a href="https://osf.io/a29my/">pdf</a>
 <li>
 Colombo, M., Strangmann, K., Houkes, L., Kostadinova, Z. & Brandt, M. J.
