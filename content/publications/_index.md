@@ -1,16 +1,3 @@
----
-title: "Publications"
-date: '2020-06-25T00:00:00Z'
-reading_time: no
-output:
-  md_document:
-    variant: commonmark
-    preserve_yaml: true
-profile: no
-comments: no
-share: no
----
-
 ## In Press
 
 <ul>
@@ -32,6 +19,8 @@ Brandt, M. J. (in press). Measuring the belief system of a person.
 Brandt, M. J. & Bakker, B. N. (in press). Threat-politics perceptions
 are intertwined with emotional processes. <i>Trends in Cognitive
 Sciences</i>.
+<a href="https://doi.org/10.1016/j.tics.2022.05.009">doi</a> |
+<a href="https://osf.io/x2m96">pdf</a>
 <li>
 Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of

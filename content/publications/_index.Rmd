@@ -12,7 +12,7 @@ share: no
 ---
 
 ```{r setup, include = FALSE}
-
+# rmarkdown::render("content/publications/_index.Rmd", rmarkdown::md_document(variant = "commonmark"))
 # Load packages
 library(tidyverse)
 library(here)
@@ -23,7 +23,6 @@ my_data <- read_csv(here("static", "data", "pubs.csv"))
 years <- unique(my_data$year)
 
 ```
-
 
 ```{r publications, echo = FALSE, results = "asis"}
 for(year in years){
