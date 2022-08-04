@@ -69,19 +69,19 @@ their courses? <i>Psychology Learning and Teaching</i>.
 
 <ul>
 <li>
-Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of
+Bergh, R. & Brandt, M. J. (2022). Mapping principal dimensions of
 prejudice in the United States. <i>Journal of Personality and Social
 Psychology, 123</i>, 154–173.
 <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
 <a href="https://osf.io/a29my/">pdf</a>
 <li>
-Bracic, A., Brandt, M. J., & Lajevardi, N. (in press). Minority politics
+Bracic, A., Brandt, M. J., & Lajevardi, N. (2022). Minority politics
 online seminar series. <i>PS: Political Science & Politics, 55</i>,
 557-558. <a href="https://doi.org/10.1017/S1049096522000294">doi</a> |
 <a href="https://osf.io/f6gqa/">pdf</a>
 <li>
-Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (in
-press). Leftists possess more national consensus in Europe in one of two
+Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (2022).
+Leftists possess more national consensus in Europe in one of two
 datasets. <i>Social Psychological and Personality Science, 13</i>,
 862-874. <a href="https://doi.org/10.1177/19485506211041825">doi</a> |
 <a href="https://osf.io/2fqhb/">pdf</a> |
