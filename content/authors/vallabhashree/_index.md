@@ -15,8 +15,8 @@ social:
   icon_pack: fas
   link: mailto:vallabh9@msu.edu
 - icon: "cv"
-   icon_pack: ai
-   link: https://osf.io/v7xg2
+  icon_pack: ai
+  link: https://osf.io/v7xg2
 superuser: true
 user_groups:
 - Grad Students
