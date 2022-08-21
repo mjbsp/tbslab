@@ -26,9 +26,9 @@ Brandt, M. J. (in press). Measuring the belief system of a person.
 |
 <a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">data</a>
 <li>
-Brandt, M. J. & Morgan, G. S. (in press). Between-person methods provide
+Brandt, M. J. & Morgan, G. S. (2022). Between-person methods provide
 limited insight about within-person belief systems. <i>Journal of
-Personality and Social Psychology</i>. 
+Personality and Social Psychology, 123</i>, 621-635. 
 <a href="https://doi.org/10.1037/pspp0000404">doi</a> |
 <a href="https://osf.io/4yg7t/">pdf</a> |
 <a href="https://osf.io/htc8a/">code</a> |
