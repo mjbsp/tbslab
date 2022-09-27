@@ -8,14 +8,6 @@ about social power, ideological conflict, and levels of abstraction.
 <a href="https://doi.org/10.1080/10463283.2022.2040140">doi</a> |
 <a href="https://osf.io/nv48f/">pdf</a>
 <li>
-Brandt, M. J. (in press). Measuring the belief system of a person.
-<i>Journal of Personality and Social Psychology</i>.
-<a href="https://doi.org/10.1037/pspp0000416">doi</a> |
-<a href="https://osf.io/bxd7m/">pdf</a> |
-<a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">code</a>
-|
-<a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">data</a>
-<li>
 Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
 molecules: Morality as a combinatorial system. <i>Review of Philosophy
 and Psychology</i>.
@@ -65,6 +57,14 @@ Bracic, A., Brandt, M. J., & Lajevardi, N. (2022). Minority politics
 online seminar series. <i>PS: Political Science & Politics, 55</i>,
 557-558. <a href="https://doi.org/10.1017/S1049096522000294">doi</a> |
 <a href="https://osf.io/f6gqa/">pdf</a>
+<li>
+Brandt, M. J. (2022). Measuring the belief system of a person.
+<i>Journal of Personality and Social Psychology, 123</i>, 830-853.
+<a href="https://doi.org/10.1037/pspp0000416">doi</a> |
+<a href="https://osf.io/bxd7m/">pdf</a> |
+<a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">code</a>
+|
+<a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">data</a>
 <li>
 Brandt, M. J., Aron, A., Parker, M., Rodas, C., & Shaffer, M. (2022).
 Leftists possess more national consensus in Europe in one of two
