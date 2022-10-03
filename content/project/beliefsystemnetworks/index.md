@@ -19,8 +19,9 @@ We are testing the idea that belief systems can be understood and studied as sys
 
 <ul>
 <li>
-Brandt, M. J. (in press). Measuring the belief system of a person.
-<i>Journal of Personality and Social Psychology</i>.
+Brandt, M. J. (2022). Measuring the belief system of a person.
+<i>Journal of Personality and Social Psychology, 123</i>, 830-853.
+<a href="https://doi.org/10.1037/pspp0000416">doi</a> |
 <a href="https://osf.io/bxd7m/">pdf</a> |
 <a href="https://osf.io/u9bew/?view_only=5d0bbefcb9434147a8c953f06cfc41dd">code</a>
 |
