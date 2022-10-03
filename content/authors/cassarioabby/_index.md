@@ -14,9 +14,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:cassario@msu.edu
-  - icon: "cv"
-    icon_pack: ai
-    link: https://osf.io/rb6he
+- icon: "cv"
+   icon_pack: ai
+   link: https://osf.io/rb6he
 superuser: true
 user_groups:
 - Grad Students
