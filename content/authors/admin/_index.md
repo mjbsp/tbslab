@@ -30,4 +30,5 @@ Interested in political psychology and intergroup relations? Join the [Minority 
 Click here to learn about ways to [join the lab]({{< ref "/labdocs/join.md" >}})!
 
 <a rel="me" href="https://mastodon.social/@mjbtbs" style=”display:none”></a>
+
 <a rel="me" href="https://sciences.social/@mjb" style=”display:none”></a>
