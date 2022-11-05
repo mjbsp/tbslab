@@ -19,7 +19,7 @@ social:
   link: https://twitter.com/mjbsp
 - icon: mastodon
   icon_pack: fab
-  link: https://mastodon.social/@mjbtbs
+  link: https://sciences.social/@mjb
 superuser: true
 ---
 
