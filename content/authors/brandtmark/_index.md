@@ -22,7 +22,7 @@ social:
   link: https://twitter.com/mjbsp
 - icon: mastodon
   icon_pack: fab
-  link: https://mastodon.social/@mjbtbs
+  link: https://sciences.social/@mjb
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_qHgIbAAAAAJ&hl=en
