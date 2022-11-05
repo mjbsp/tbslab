@@ -27,8 +27,4 @@ We are primarily located in the Department of Psychology at Michigan State Unive
 
 Interested in political psychology and intergroup relations? Join the [Minority Politics Online Seminar Series](https://minoritypolitics.netlify.app/)!
 
-Click here to learn about ways to [join the lab]({{< ref "/labdocs/join.md" >}})!
-
-<a rel="me" href="https://mastodon.social/@mjbtbs" style=”display:none”></a>
-
-<a rel="me" href="https://sciences.social/@mjb" style=”display:none”></a>
+Click here to learn about ways to [join the lab]({{< ref "/labdocs/join.md" >}})! <a rel="me" href="https://sciences.social/@mjb" style=”display:none”></a>
