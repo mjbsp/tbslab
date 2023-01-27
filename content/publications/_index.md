@@ -8,18 +8,6 @@ about social power, ideological conflict, and levels of abstraction.
 <a href="https://doi.org/10.1080/10463283.2022.2040140">doi</a> |
 <a href="https://osf.io/nv48f/">pdf</a>
 <li>
-Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (in press). Moral
-molecules: Morality as a combinatorial system. <i>Review of Philosophy
-and Psychology</i>.
-<a href="https://doi.org/10.1007/s13164-021-00540-x">doi</a> |
-<a href="https://osf.io/cyg3h/">pdf</a>
-<li>
-Evans., A. M., Stavrova, O., Rosenbusch, H., & Brandt, M. J. (in press).
-Expressions of doubt in online news discussions. <i>Social Science
-Computer Review</i>.
-<a href="https://doi.org/10.1177/08944393211034163">doi</a> |
-<a href="https://osf.io/9vcyh/">pdf</a>
-<li>
 Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
 A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
 what to replicate: A decision model for replication study selection
@@ -41,6 +29,17 @@ practice: What do psychology instructors think of research projects in
 their courses? <i>Psychology Learning and Teaching</i>.
 <a href="https://doi.org/10.1177/14757257221101942">doi</a> |
 <a href="https://osf.io/x7mwr/">pdf</a>
+</ul>
+
+## 2023
+
+<ul>
+<li>
+Evans., A. M., Stavrova, O., Rosenbusch, H., & Brandt, M. J. (2023).
+Expressions of doubt in online news discussions. <i>Social Science
+Computer Review, 41</i>, 163-180.
+<a href="https://doi.org/10.1177/08944393211034163">doi</a> |
+<a href="https://osf.io/9vcyh/">pdf</a>
 </ul>
 
 ## 2022
@@ -91,6 +90,12 @@ Personality and Social Psychology, 123</i>, 621-635. 
 <a href="https://osf.io/4yg7t/">pdf</a> |
 <a href="https://osf.io/htc8a/">code</a> |
 <a href="https://osf.io/htc8a/">data</a>
+<li>
+Curry, O. S. Alfano, M., Brandt, M. J., & Pelican, C. (2022). Moral
+molecules: Morality as a combinatorial system. <i>Review of Philosophy
+and Psychology, 13</i>, 1039-1058.
+<a href="https://doi.org/10.1007/s13164-021-00540-x">doi</a> |
+<a href="https://osf.io/cyg3h/">pdf</a>
 <li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (2022).
 Moral frames are persuasive and moralize attitudes; nonmoral frames are

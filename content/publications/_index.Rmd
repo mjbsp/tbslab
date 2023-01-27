@@ -12,7 +12,7 @@ share: no
 ---
 
 ```{r setup, include = FALSE}
-# rmarkdown::render("content/publications/_index.Rmd", rmarkdown::md_document(variant = "commonmark"))
+# rmarkdown::render(input = "content/publications/_index.Rmd", rmarkdown::md_document(variant = "commonmark"))
 # Load packages
 library(tidyverse)
 library(here)
