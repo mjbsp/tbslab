@@ -2,12 +2,6 @@
 
 <ul>
 <li>
-Bergh, R. & Brandt, M. J. (in press). Generalized prejudice: Lessons
-about social power, ideological conflict, and levels of abstraction.
-<i>European Review of Social Psychology</i>.
-<a href="https://doi.org/10.1080/10463283.2022.2040140">doi</a> |
-<a href="https://osf.io/nv48f/">pdf</a>
-<li>
 Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
 A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
 what to replicate: A decision model for replication study selection
@@ -34,6 +28,12 @@ their courses? <i>Psychology Learning and Teaching</i>.
 ## 2023
 
 <ul>
+<li>
+Bergh, R. & Brandt, M. J. (2023). Generalized prejudice: Lessons about
+social power, ideological conflict, and levels of abstraction.
+<i>European Review of Social Psychology, 34</i>, 92-126.
+<a href="https://doi.org/10.1080/10463283.2022.2040140">doi</a> |
+<a href="https://osf.io/nv48f/">pdf</a>
 <li>
 Evans., A. M., Stavrova, O., Rosenbusch, H., & Brandt, M. J. (2023).
 Expressions of doubt in online news discussions. <i>Social Science
