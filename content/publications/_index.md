@@ -8,21 +8,6 @@ what to replicate: A decision model for replication study selection
 under resource and knowledge constraints. <i>Psychological Methods</i>
 <a href="https://doi.org/10.1037/met0000438">doi</a> |
 <a href="https://osf.io/duawg/">pdf</a>
-<li>
-Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (in press). Not every
-dissatisfaction is the same: The impact of electoral regret,
-disappointment, and anger on subsequent electoral behavior.
-<i>Emotion</i>. <a href="https://doi.org/10.1037/emo0001064">doi</a> |
-<a href="https://osf.io/6gu4h/">pdf</a> |
-<a href="https://osf.io/pmexb/">code</a> |
-<a href="https://osf.io/pmexb/">data</a>
-<li>
-Wagge, J. R., Hurst, M. A., Brandt, M. J., Lazarvic, L. B., Legate, N.,
-& Grahe, J. E. (in press). Teaching research in principle and in
-practice: What do psychology instructors think of research projects in
-their courses? <i>Psychology Learning and Teaching</i>.
-<a href="https://doi.org/10.1177/14757257221101942">doi</a> |
-<a href="https://osf.io/x7mwr/">pdf</a>
 </ul>
 
 ## 2023
@@ -40,6 +25,21 @@ Expressions of doubt in online news discussions. <i>Social Science
 Computer Review, 41</i>, 163-180.
 <a href="https://doi.org/10.1177/08944393211034163">doi</a> |
 <a href="https://osf.io/9vcyh/">pdf</a>
+<li>
+Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (2023). Not every
+dissatisfaction is the same: The impact of electoral regret,
+disappointment, and anger on subsequent electoral behavior. <i>Emotion,
+23</i>, 554–568. <a href="https://doi.org/10.1037/emo0001064">doi</a> |
+<a href="https://osf.io/6gu4h/">pdf</a> |
+<a href="https://osf.io/pmexb/">code</a> |
+<a href="https://osf.io/pmexb/">data</a>
+<li>
+Wagge, J. R., Hurst, M. A., Brandt, M. J., Lazarvic, L. B., Legate, N.,
+& Grahe, J. E. (2023). Teaching research in principle and in practice:
+What do psychology instructors think of research projects in their
+courses? <i>Psychology Learning and Teaching, 22</i>, 4-19.
+<a href="https://doi.org/10.1177/14757257221101942">doi</a> |
+<a href="https://osf.io/x7mwr/">pdf</a>
 </ul>
 
 ## 2022
