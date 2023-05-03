@@ -2,6 +2,11 @@
 
 <ul>
 <li>
+Brandt, M. J. & Cassario, A. (in press). Distinguishing between
+worldview conflict and shared alliances: Commentary on Pinsof, Sears,
+and Haselton. <i>Psychological Inquiry</i>.
+<a href="https://osf.io/5p7rm">pdf</a>
+<li>
 Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
 A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
 what to replicate: A decision model for replication study selection
