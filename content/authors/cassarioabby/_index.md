@@ -23,3 +23,13 @@ user_groups:
 ---
 
 I am interested in how conceptualizing political belief systems as networks can help us understand when factors such as harm perception and emotion lead to attitude moralization and when they do not. I also have secondary interests in person perception and moral character, and how institutional and psychological factors combine to explain the emergence of political polarization in the U.S.
+
+## Lab Publications
+
+<ul>
+<li>
+Brandt, M. J. & Cassario, A. (in press). Distinguishing between
+worldview conflict and shared alliances: Commentary on Pinsof, Sears,
+and Haselton. <i>Psychological Inquiry</i>.
+<a href="https://osf.io/5p7rm">pdf</a>
+</ul>
