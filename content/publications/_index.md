@@ -6,13 +6,6 @@ Brandt, M. J. & Cassario, A. (in press). Distinguishing between
 worldview conflict and shared alliances: Commentary on Pinsof, Sears,
 and Haselton. <i>Psychological Inquiry</i>.
 <a href="https://osf.io/5p7rm">pdf</a>
-<li>
-Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
-A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
-what to replicate: A decision model for replication study selection
-under resource and knowledge constraints. <i>Psychological Methods</i>
-<a href="https://doi.org/10.1037/met0000438">doi</a> |
-<a href="https://osf.io/duawg/">pdf</a>
 </ul>
 
 ## 2023
@@ -30,6 +23,13 @@ Expressions of doubt in online news discussions. <i>Social Science
 Computer Review, 41</i>, 163-180.
 <a href="https://doi.org/10.1177/08944393211034163">doi</a> |
 <a href="https://osf.io/9vcyh/">pdf</a>
+<li>
+Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
+A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
+what to replicate: A decision model for replication study selection
+under resource and knowledge constraints. <i>Psychological Methods,
+28</i>, 438-451. <a href="https://doi.org/10.1037/met0000438">doi</a> |
+<a href="https://osf.io/duawg/">pdf</a>
 <li>
 Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (2023). Not every
 dissatisfaction is the same: The impact of electoral regret,
