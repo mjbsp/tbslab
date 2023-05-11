@@ -25,7 +25,7 @@ Computer Review, 41</i>, 163-180.
 <a href="https://osf.io/9vcyh/">pdf</a>
 <li>
 Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
-A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
+A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (2023). Deciding
 what to replicate: A decision model for replication study selection
 under resource and knowledge constraints. <i>Psychological Methods,
 28</i>, 438-451. <a href="https://doi.org/10.1037/met0000438">doi</a> |

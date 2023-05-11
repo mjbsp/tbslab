@@ -18,27 +18,24 @@ Psychological science, and social psychology in particular, has faced a number o
 
 <ul>
 <li>
-Bracic, A., Brandt, M. J., & Lajevardi, N. (in press). Minority politics
-online seminar series. <i>PS: Political Science & Politics, 55</i>,
-557-558. <a href="https://doi.org/10.1017/S1049096522000294">doi</a> |
-<a href="https://osf.io/f6gqa/">pdf</a>
+Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
+A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (2023). Deciding
+what to replicate: A decision model for replication study selection
+under resource and knowledge constraints. <i>Psychological Methods,
+28</i>, 438-451. <a href="https://doi.org/10.1037/met0000438">doi</a> |
+<a href="https://osf.io/duawg/">pdf</a>
 <li>
 Wagge, J. R., Hurst, M. A., Brandt, M. J., Lazarvic, L. B., Legate, N.,
-& Grahe, J. E. (in press). Teaching research in principle and in
-practice: What do psychology instructors think of research projects in
-their courses? <i>Psychology Learning and Teaching</i>.
+& Grahe, J. E. (2023). Teaching research in principle and in practice:
+What do psychology instructors think of research projects in their
+courses? <i>Psychology Learning and Teaching, 22</i>, 4-19.
 <a href="https://doi.org/10.1177/14757257221101942">doi</a> |
 <a href="https://osf.io/x7mwr/">pdf</a>
 <li>
-Bracic, A., Brandt, M. J., & Lajevardi, N. (in press). Minority politics
-online seminar series. <i>PS: Political Science & Politics</i>.
+Bracic, A., Brandt, M. J., & Lajevardi, N. (2022). Minority politics
+online seminar series. <i>PS: Political Science & Politics, 55</i>,
+557-558. <a href="https://doi.org/10.1017/S1049096522000294">doi</a> |
 <a href="https://osf.io/f6gqa/">pdf</a>
-<li>
-Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
-A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (in press). Deciding
-what to replicate: A decision model for replication study selection
-under resource and knowledge constraints. <i>Psychological Methods</i>
-<a href="https://osf.io/duawg/">pdf</a>
 <li>
 Brandt, M. J. (2020). Estimating and examining the replicability of
 belief system networks. <i>Collabra: Psychology, 6</i>, 24.
