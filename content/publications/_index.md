@@ -6,6 +6,12 @@ Brandt, M. J. & Cassario, A. (in press). Distinguishing between
 worldview conflict and shared alliances: Commentary on Pinsof, Sears,
 and Haselton. <i>Psychological Inquiry</i>.
 <a href="https://osf.io/5p7rm">pdf</a>
+<li>
+Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
+vs. party identity strength: Ideology strength is the key predictor of
+attitude stability. <i>Personality and Social Psychology Bulletin</i>.
+<a href="https://osf.io/et73p">pdf</a> |
+<a href="https://osf.io/gbvyk/?view_only=fc7b3022d9f0401cadac524c1dc44ad1">code</a>
 </ul>
 
 ## 2023
@@ -25,10 +31,10 @@ Computer Review, 41</i>, 163-180.
 <a href="https://osf.io/9vcyh/">pdf</a>
 <li>
 Isager, P. M., van Aert, R. C. M., Bahník, Š, Brandt, M. J., DeSoto, K.
-A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (2023). Deciding
-what to replicate: A decision model for replication study selection
-under resource and knowledge constraints. <i>Psychological Methods,
-28</i>, 438-451. <a href="https://doi.org/10.1037/met0000438">doi</a> |
+A., Giner-Sorolla, R., Krueger, J. I….Lakens, D. (2023). Deciding what
+to replicate: A decision model for replication study selection under
+resource and knowledge constraints. <i>Psychological Methods, 28</i>,
+438-451. <a href="https://doi.org/10.1037/met0000438">doi</a> |
 <a href="https://osf.io/duawg/">pdf</a>
 <li>
 Tunc, M . N., Brandt, M. J., & Zeelenberg, M. (2023). Not every
