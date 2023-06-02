@@ -18,6 +18,18 @@ We are testing the idea that belief systems can be understood and studied as sys
 ## Key Project Publications
 
 <ul>
+Brandt, M. J., Sibley, C., & Osborne, D. (2019). What is central to
+belief system networks. <i>Personality and Social Psychology Bulletin,
+45</i>, 1352-1364. 
+<a href="https://doi.org/10.1177/0146167218824354">doi</a> |
+<a href="https://osf.io/6kgp5/">pdf</a> |
+<a href="https://osf.io/mj5nh/">code</a>
+<li>
+Brandt, M. J. (2020). Estimating and examining the replicability of
+belief system networks. <i>Collabra: Psychology, 6</i>, 24.
+<a href="https://doi.org/10.1525/collabra.312">doi</a> |
+<a href="https://osf.io/53uts/">pdf</a> |
+<a href="https://osf.io/csx2g/">code</a>
 <li>
 Brandt, M. J. (2022). Measuring the belief system of a person.
 <i>Journal of Personality and Social Psychology, 123</i>, 830-853.
@@ -35,18 +47,24 @@ Personality and Social Psychology, 123</i>, 621-635. 
 <a href="https://osf.io/htc8a/">code</a> |
 <a href="https://osf.io/htc8a/">data</a>
 <li>
-Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
-can be used to predict where to expect dynamic constraint. <i>Journal of
-Experimental Social Psychology, 100</i>, 104279.
-<a href="https://doi.org/10.1016/j.jesp.2021.104279">doi</a> |
-<a href="https://osf.io/s2hdc/">pdf</a>
-<li>
 Brandt, M. J., & Sleegers, W. W. A. (2021). Evaluating belief system
 networks as a theory of political belief system dynamics. <i>Personality
 and Social Psychology Review, 25</i>, 159-185.
 <a href="https://doi.org/10.1177%2F1088868321993751">doi</a> |
 <a href="https://osf.io/q5y9c/">pdf</a> |
 <a href="https://osf.io/aswy8/">code</a>
+<li>
+Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
+vs. party identity strength: Ideology strength is the key predictor of
+attitude stability. <i>Personality and Social Psychology Bulletin</i>.
+<a href="https://osf.io/et73p">pdf</a> |
+<a href="https://osf.io/gbvyk/?view_only=fc7b3022d9f0401cadac524c1dc44ad1">code</a>
+<li>
+Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
+can be used to predict where to expect dynamic constraint. <i>Journal of
+Experimental Social Psychology, 100</i>, 104279.
+<a href="https://doi.org/10.1016/j.jesp.2021.104279">doi</a> |
+<a href="https://osf.io/s2hdc/">pdf</a>
 <li>
 Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
 (2021). Conservatives moral foundations are more densely connected than
@@ -55,16 +73,4 @@ Bulletin, 47</i>, 167-184.
 <a href="https://doi.org/10.1177%2F0146167220916070">doi</a> |
 <a href="https://osf.io/m4kzy/">pdf</a>
 <li>
-Brandt, M. J. (2020). Estimating and examining the replicability of
-belief system networks. <i>Collabra: Psychology, 6</i>, 24.
-<a href="https://doi.org/10.1525/collabra.312">doi</a> |
-<a href="https://osf.io/53uts/">pdf</a> |
-<a href="https://osf.io/csx2g/">code</a>
-<li>
-Brandt, M. J., Sibley, C., & Osborne, D. (2019). What is central to
-belief system networks. <i>Personality and Social Psychology Bulletin,
-45</i>, 1352-1364. 
-<a href="https://doi.org/10.1177/0146167218824354">doi</a> |
-<a href="https://osf.io/6kgp5/">pdf</a> |
-<a href="https://osf.io/mj5nh/">code</a>
 </ul>
