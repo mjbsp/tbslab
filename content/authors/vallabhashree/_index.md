@@ -23,3 +23,14 @@ user_groups:
 ---
 
 I am interested in investigating the processes that underpin moralization i.e. the change of non-moral preference to a moral conviction. With my advisor Dr Mark Brandt, I am currently working on moral reframing as a persuasion technique within the framework of belief systems as networks.  Through my work I aim to deepen the understanding of how morality differs and changes across individuals, political groups, cultures, and time. Through my work, I also attempt to inform ways of reducing moral, political, and ideological conflicts and intolerance.
+
+## Lab Publications
+
+<ul>
+<li>
+Brandt, M. J. & Vallabha, S. (in press). Inter-attitude centrality does
+not appear to reduce persuasion for political attitudes. <i>European
+Journal of Social Psychology</i>. <a href="https://osf.io/cqkvt">pdf</a>
+| <a href="https://osf.io/64zad/">code</a> |
+<a href="https://osf.io/64zad/">data</a>
+</ul>

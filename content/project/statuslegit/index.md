@@ -13,11 +13,20 @@ url_slides: ""
 url_video: ""
 ---
 
-People have a pervasive tendency to support the status quo, a finding that is consistent across psychological subdisciplines including judgment and decision making, social psychology, and political psychology. In the lab, we are interested in this from two directions. First, we are interested in how power and social status predict support for the status quo (Brandt, 2013). Second, we are interested in the cognitive processes that bolster such status quo biases. One approach looks at how how memory retrieval processes might underly support for the status quo (Spälti et al., 2017). In general, the goal is understand the precise processes, so that these biases can be reduced
+People have a pervasive tendency to support the status quo, a finding that is consistent across psychological subdisciplines including judgment and decision making, social psychology, and political psychology. In the lab, we are primarily interested in how power and social status predict support for the status quo across contexts and countries. We have also explored how cognitive processes, such as memory retrieval processes might underly support for the status quo.
 
 ## Key Project Publications
 
 <ul>
+<li>
+Brandt, M. J. (2013). Do the disadvantaged legitimize the social system?
+A large-scale test of the status-legitimacy hypothesis. <i>Journal of
+Personality and Social Psychology, 104</i>, 765-785.
+<a href = "https://osf.io/vdprg/">Footnote 7 Results</a>|
+<a href = "https://osf.io/bsxaq/">Footnote 9 Results</a>
+<a href="https://doi.org/10.1037/a0031751">doi</a> |
+<a href="https://osf.io/bcnuy/">pdf</a> |
+<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20057&studyListingIndex=1_cab334dfb1c69787adf5fc5dc0cc">code</a>
 <li>
 Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F.,
 Babincak, P. … & Zimmerman, J. L. (2020). Subjective status and
@@ -43,14 +52,10 @@ Psychology, 21</i>, 648-664.
 <a href="https://doi.org/10.1037/pac0000117">doi</a> |
 <a href="https://osf.io/5kvt6/">pdf</a>
 <li>
-Brandt, M. J. (2013). Do the disadvantaged legitimize the social system?
-A large-scale test of the status-legitimacy hypothesis. <i>Journal of
-Personality and Social Psychology, 104</i>, 765-785.
-<a href = "https://osf.io/vdprg/">Footnote 7 Results</a>|
-<a href = "https://osf.io/bsxaq/">Footnote 9 Results</a>
-<a href="https://doi.org/10.1037/a0031751">doi</a> |
-<a href="https://osf.io/bcnuy/">pdf</a> |
-<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20057&studyListingIndex=1_cab334dfb1c69787adf5fc5dc0cc">code</a>
+Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
+Turner-Zwinkels, F. (in press). Finding (dis-)advantaged system
+justifiers – A bottom-up approach to explore system justification
+theory. <i>European Journal of Social Psychology</i>.
 <li>
 Spälti, A. K., Brandt, M. J., & Zeelenberg, M. (2017). Memory retrieval
 processes help explain the incumbency advantage. <i>Judgment and

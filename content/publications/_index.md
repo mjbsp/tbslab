@@ -7,6 +7,17 @@ worldview conflict and shared alliances: Commentary on Pinsof, Sears,
 and Haselton. <i>Psychological Inquiry</i>.
 <a href="https://osf.io/5p7rm">pdf</a>
 <li>
+Brandt, M. J. & Vallabha, S. (in press). Inter-attitude centrality does
+not appear to reduce persuasion for political attitudes. <i>European
+Journal of Social Psychology</i>. <a href="https://osf.io/cqkvt">pdf</a>
+| <a href="https://osf.io/64zad/">code</a> |
+<a href="https://osf.io/64zad/">data</a>
+<li>
+Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
+Turner-Zwinkels, F. (in press). Finding (dis-)advantaged system
+justifiers – A bottom-up approach to explore system justification
+theory. <i>European Journal of Social Psychology</i>.
+<li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
 attitude stability. <i>Personality and Social Psychology Bulletin</i>.
@@ -19,6 +30,7 @@ Gorska, P. Marchlewska, M., & Smets, L. (in press). Affective
 polarization and political belief systems: The role of political
 identity, and the content and structure of political beliefs.
 <i>Personality and Social Psychology Bulletin</i>.
+<a href="https://doi.org/10.1177/01461672231183935">doi</a> |
 <a href="https://osf.io/he2ay">pdf</a>
 </ul>
 

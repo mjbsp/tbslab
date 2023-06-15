@@ -69,4 +69,9 @@ that proximity to the July 4th holiday affects affective polarization.
 <a href="https://osf.io/u4bas/">pdf</a> |
 <a href="https://osf.io/26bua/">code</a> |
 <a href="https://osf.io/26bua/">data</a>
+<li>
+Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
+Turner-Zwinkels, F. (in press). Finding (dis-)advantaged system
+justifiers – A bottom-up approach to explore system justification
+theory. <i>European Journal of Social Psychology</i>.
 </ul>
