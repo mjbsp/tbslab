@@ -14,9 +14,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:cassario@msu.edu
+- icon: user
+  icon_pack: fas
+  link: https://alcassario.github.io
 - icon: "cv"
   icon_pack: ai
-  link: https://osf.io/rb6he
+  link: https://alcassario.github.io/Cassario_cv_6_14_23.pdf
 superuser: true
 user_groups:
 - Researchers
