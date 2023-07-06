@@ -9,9 +9,17 @@ and Haselton. <i>Psychological Inquiry</i>.
 <li>
 Brandt, M. J. & Vallabha, S. (in press). Inter-attitude centrality does
 not appear to reduce persuasion for political attitudes. <i>European
-Journal of Social Psychology</i>. <a href="https://osf.io/cqkvt">pdf</a>
-| <a href="https://osf.io/64zad/">code</a> |
+Journal of Social Psychology</i>.
+<a href="https://doi.org/10.1002/ejsp.2980">doi</a> |
+<a href="https://osf.io/cqkvt">pdf</a> |
+<a href="https://osf.io/64zad/">code</a> |
 <a href="https://osf.io/64zad/">data</a>
+<li>
+Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (in press). The onset
+of the COVID-19 pandemic made people feel threatened, but had a limited
+impact on political attitudes in the United States. <i>Personality and
+Social Psychology Bulletin</i>. <a href="https://osf.io/ahtk6">pdf</a> |
+<a href="https://osf.io/279gd/">code</a>
 <li>
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
 Turner-Zwinkels, F. (in press). Finding (dis-)advantaged system
