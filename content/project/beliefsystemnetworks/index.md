@@ -18,6 +18,7 @@ People's attitudes are interdependent. They depend on who we are friends with, t
 ## Key Project Publications
 
 <ul>
+<li>
 Brandt, M. J., Sibley, C., & Osborne, D. (2019). What is central to
 belief system networks. <i>Personality and Social Psychology Bulletin,
 45</i>, 1352-1364. 
