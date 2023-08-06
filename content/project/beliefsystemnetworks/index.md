@@ -13,7 +13,7 @@ url_slides: ""
 url_video: ""
 ---
 
-We are testing the idea that belief systems can be understood and studied as systems. From this perspective, rather than modeling belief systems like latent variables, we should be modeling belief systems as networks of interconnected attitudes and values. This can help us understand the structure of belief systems, how they connect with personality, perceived threats, and prejudice, and connect work on belief systems with other types of dynamic systems.
+People's attitudes are interdependent. They depend on who we are friends with, the information we have access to, and the other attitudes and values that we hold dear. In this project, we are testing how the network of connections between people's attitudes and values affect how attitudes develop and change. Using this approach, we document the structure of people's belief systems, how they connect with personality, perceived threats, and prejudice, and connect work on belief systems with other types of dynamic systems. For example, we find that liberals and conservatives structure their moral values differently, that attitudes closer in the bleief sytem will change when other attitudes are the targets of persuasion, and that people's political identities are particularly central to the organization of their political belief systems
 
 ## Key Project Publications
 
