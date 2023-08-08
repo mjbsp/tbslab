@@ -21,6 +21,7 @@ user_groups:
 Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
 attitude stability. <i>Personality and Social Psychology Bulletin</i>.
+<a href="https://doi.org/10.1177/01461672231189015">doi</a> |
 <a href="https://osf.io/et73p">pdf</a> |
 <a href="https://osf.io/gbvyk/?view_only=fc7b3022d9f0401cadac524c1dc44ad1">code</a>
 <li>
@@ -30,6 +31,7 @@ Gorska, P. Marchlewska, M., & Smets, L. (in press). Affective
 polarization and political belief systems: The role of political
 identity, and the content and structure of political beliefs.
 <i>Personality and Social Psychology Bulletin</i>.
+<a href="https://doi.org/10.1177/01461672231183935">doi</a> |
 <a href="https://osf.io/he2ay">pdf</a>
 <li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
