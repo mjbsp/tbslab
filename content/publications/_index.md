@@ -18,7 +18,9 @@ Journal of Social Psychology</i>.
 Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (in press). The onset
 of the COVID-19 pandemic made people feel threatened, but had a limited
 impact on political attitudes in the United States. <i>Personality and
-Social Psychology Bulletin</i>. <a href="https://osf.io/ahtk6">pdf</a> |
+Social Psychology Bulletin</i>.
+<a href="https://doi.org/10.1177/01461672231190233">doi</a> |
+<a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
 <li>
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
