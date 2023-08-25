@@ -6,16 +6,16 @@ image:
   focal_point: Smart
 summary: Can we understand belief systems as systems?
 tags:
-title: Belief System Networks
+title: Belief System Dynamics
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-People's attitudes are interdependent. They depend on who we are friends with, the information we have access to, and the other attitudes and values that we hold dear. In this project, we are testing how the network of connections between people's attitudes and values affect how attitudes develop and change. Using this approach, we document the structure of people's belief systems, how they connect with personality, perceived threats, and prejudice, and connect work on belief systems with other types of dynamic systems. 
+People’s attitudes and values are interdependent. They depend on who we are friends with, the information we have access to, and the other attitudes and values that we hold dear. In this project, we are testing how the connections between people’s attitudes and values – their belief systems – affect how attitudes develop and change. Using this approach, we document the structure of people’s belief systems, how they connect with personality, perceived threats, and prejudice, and connect work on belief systems with other types of dynamic systems. This work demonstrates that to understand attitude and value change, we need to understand the system in which the attitudes and values are embedded.
 
-For example, we find that liberals and conservatives structure their moral values differently, that attitudes closer in the bleief sytem will change when other attitudes are the targets of persuasion, and that people's political identities are particularly central to the organization of their political belief systems
+For example, we find that our theoretical model of belief systems integrates a wide range of disconnected findings (Brandt & Sleegers, 2021), that liberals and conservatives structure their moral values differently (Turner-Zwinkels et al., 2021), that attitudes closer in the belief sytem will change when other attitudes are the targets of persuasion (Turner-Zwinkels & Brandt, 2022), and that people’s political identities are particularly central to the organization of their political belief systems (Brandt et al., 2019; Turner-Zwinkels & Brandt, in press). Differences in belief system structure are also important for how we see other people: the political outgroups we dislike the most, disagree with us on the issues and have belief system structures that are similar to our own (Turner-Zwinkels et al., in press).
 
 ## Key Project Publications
 
