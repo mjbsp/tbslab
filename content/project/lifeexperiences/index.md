@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: When do people's life experiences change their attitudes and values?
 tags:
-title: Life Experiences and Attitude Change
+title: Experiences and Change
 url_code: ""
 url_pdf: ""
 url_slides: ""
