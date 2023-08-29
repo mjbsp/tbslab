@@ -1,6 +1,6 @@
 ---
 title: Minority Politics
-summary: Interdisciplinary network of faculty and students studying minority politics at Michigan State University
+summary: Interdisciplinary network of faculty & students studying minority politics at MSU
 tags:
 - Demo
 date: "2020-01-01T00:00:00Z"
