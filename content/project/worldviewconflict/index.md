@@ -81,6 +81,14 @@ Science, 23</i>, 27-34.
 <a href="https://doi.org/10.1177/0963721413510932">doi</a> |
 <a href="https://osf.io/tqdzj/">pdf</a>
 <li>
+Brandt, M. J. & +Vallabha, S. (in press). Intraindividual Changes in
+Political Identity Strength (but not Direction) are Associated with
+Political Animosity in the United States and the Netherlands.
+<i>Personality and Social Psychology Bulletin</i>.
+<a href="https://osf.io/xr3pw">pdf</a> |
+<a href="https://osf.io/sefg9/">code</a> |
+<a href="https://osf.io/sefg9/">data</a>
+<li>
 Colombo, M., Strangmann, K., Houkes, L., Kostadinova, Z. & Brandt, M. J.
 (2021). Intellectually humble, but prejudiced people. A paradox of
 intellectual virtue. <i>Review of Philosophy and Psychology, 12</i>,
