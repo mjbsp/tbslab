@@ -15,6 +15,14 @@ Journal of Social Psychology</i>.
 <a href="https://osf.io/64zad/">code</a> |
 <a href="https://osf.io/64zad/">data</a>
 <li>
+Brandt, M. J. & +Vallabha, S. (in press). Intraindividual Changes in
+Political Identity Strength (but not Direction) are Associated with
+Political Animosity in the United States and the Netherlands.
+<i>Personality and Social Psychology Bulletin</i>.
+<a href="https://osf.io/xr3pw">pdf</a> |
+<a href="https://osf.io/sefg9/">code</a> |
+<a href="https://osf.io/sefg9/">data</a>
+<li>
 Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (in press). The onset
 of the COVID-19 pandemic made people feel threatened, but had a limited
 impact on political attitudes in the United States. <i>Personality and
@@ -27,6 +35,11 @@ Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
 Turner-Zwinkels, F. (in press). Finding (dis-)advantaged system
 justifiers – A bottom-up approach to explore system justification
 theory. <i>European Journal of Social Psychology</i>.
+<a href="https://doi.org/10.1002/ejsp.2989">doi</a> |
+<a href="https://osf.io/76cx5">pdf</a> |
+<a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">code</a>
+|
+<a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
 <li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
