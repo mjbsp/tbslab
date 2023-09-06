@@ -25,7 +25,13 @@ user_groups:
 - Researchers
 ---
 
-I am interested in how conceptualizing political belief systems as networks can help us understand when factors such as harm perception and emotion lead to attitude moralization and when they do not. I also have secondary interests in person perception and moral character, and how institutional and psychological factors combine to explain the emergence of political polarization in the U.S.
+I am a second year PhD Student in the Department of Psychology at Michigan State University and a member of the Belief Systems Lab. My research and teaching interests lie in social and political psychology and research methods.
+
+Specifically, I have substantive interests in ideology, ideological development, attitude moralization, and how these processes can help us understand political polarization. My methodological interests concern, among other things, survey research and observational causal inference. I also enjoy R programming, tech-y things, and craft beer! I was also a division one swimmer in a previous life, and still enjoy swimming and weightlifting in my free time.
+
+Before MSU, I received my BA in political science and psychology from the University of North Carolina at Asheville, and my MA in political science from the University of North Carolina at Chapel Hill.
+
+Find more at my [personal website](https://alcassario.github.io).
 
 ## Lab Publications
 
