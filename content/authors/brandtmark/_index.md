@@ -23,6 +23,9 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://sciences.social/@mjb
+- icon: cloud-sun
+  icon_pack: fas
+  link: https://bsky.app/profile/mjbsp.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_qHgIbAAAAAJ&hl=en
@@ -31,6 +34,6 @@ user_groups:
 - Researchers
 ---
 
-I am an associate professor in the Department of Psychology at Michigan State University. The overarching goal of my research program is to understand how ideological and moral beliefs – such as political ideology, religious fundamentalism, and moral conviction – structure attitudes and behaviors and provide people with meaning.
+I am an associate professor in the Department of Psychology at Michigan State University and a member of the Minority Politics Lab in the College of Social Sciences. My goal is to understand the causes and consequences of political, religious, and moral beliefs that can ultimately be leveraged to reduce conflict and promote a more fair, just, and free society. I study ideological and moral beliefs – such as political ideology, racism, religious fundamentalism, and moral conviction – and how they structure attitudes and behaviors, how they become moralized, and why people adopt them in the first place. 
 
 My publications are <a href="https://tbslaboratory.com/publications/index.html">here</a>.
