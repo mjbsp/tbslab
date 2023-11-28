@@ -34,6 +34,11 @@ Finally, I’m also interested in and work on belief systems. This involves unde
 
 <ul>
 <li>
+Vallabha, S., Doriscar, J., & Brandt, M. J. (in press). When the specter
+of the past haunts current groups: Psychological antecedents of
+historical blame. <i>Journal of Personality and Social Psychology</i>.
+<a href="https://osf.io/j3vp9">pdf</a>
+<li>
 Brandt, M. J. & Vallabha, S. (in press). Inter-attitude centrality does
 not appear to reduce persuasion for political attitudes. <i>European
 Journal of Social Psychology</i>. <a href="https://osf.io/cqkvt">pdf</a>
