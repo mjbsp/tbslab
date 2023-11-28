@@ -19,6 +19,7 @@ Brandt, M. J. & Vallabha, S. (in press). Intraindividual changes in
 political identity strength (but not direction) are associated with
 political animosity in the United States and the Netherlands.
 <i>Personality and Social Psychology Bulletin</i>.
+<a href="https://doi.org/10.1177/01461672231203471">doi</a> |
 <a href="https://osf.io/xr3pw">pdf</a> |
 <a href="https://osf.io/sefg9/">code</a> |
 <a href="https://osf.io/sefg9/">data</a>
@@ -56,6 +57,11 @@ identity, and the content and structure of political beliefs.
 <i>Personality and Social Psychology Bulletin</i>.
 <a href="https://doi.org/10.1177/01461672231183935">doi</a> |
 <a href="https://osf.io/he2ay">pdf</a>
+<li>
+Vallabha, S., Doriscar, J., & Brandt, M. J. (in press). When the specter
+of the past haunts current groups: Psychological antecedents of
+historical blame. <i>Journal of Personality and Social Psychology</i>.
+<a href="https://osf.io/j3vp9">pdf</a>
 </ul>
 
 ## 2023
@@ -360,7 +366,7 @@ conflict. <i>International Journal for the Psychology of Religion,
 <li>
 Brandt, M. J. & Crawford, J. T. (2019). Studying a heterogeneous array
 of target groups can help us understand prejudice. <i>Current Directions
-in Psychological Science, 28</i>, 292-298
+in Psychological Science, 28</i>, 292-298.
 <a href="https://doi.org/10.1177/0963721419830382">doi</a> |
 <a href="https://osf.io/2kcdf/">pdf</a>
 <li>
