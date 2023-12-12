@@ -37,8 +37,9 @@ Find more at my [personal website](https://alcassario.github.io).
 
 <ul>
 <li>
-Brandt, M. J. & Cassario, A. (in press). Distinguishing between
-worldview conflict and shared alliances: Commentary on Pinsof, Sears,
-and Haselton. <i>Psychological Inquiry</i>.
+Brandt, M. J. & Cassario, A. (2023). Distinguishing between worldview
+conflict and shared alliances: Commentary on Pinsof, Sears, and
+Haselton. <i>Psychological Inquiry, 34,</i> 168-174.
+<a href="https://doi.org/10.1080/1047840X.2023.2274421">doi</a> |
 <a href="https://osf.io/5p7rm">pdf</a>
 </ul>
