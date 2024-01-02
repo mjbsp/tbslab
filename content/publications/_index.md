@@ -29,6 +29,12 @@ theory. <i>European Journal of Social Psychology</i>.
 |
 <a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
 <li>
+Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (in press).
+Person-specific priorities in solitude. Journal of Personality.
+<a href="https://osf.io/5qwpy">pdf</a> |
+<a href="https://osf.io/qn5zf/">code</a> |
+<a href="https://osf.io/qn5zf/">data</a>
+<li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
 attitude stability. <i>Personality and Social Psychology Bulletin</i>.
@@ -48,6 +54,7 @@ identity, and the content and structure of political beliefs.
 Vallabha, S., Doriscar, J., & Brandt, M. J. (in press). When the specter
 of the past haunts current groups: Psychological antecedents of
 historical blame. <i>Journal of Personality and Social Psychology</i>.
+<a href="https://doi.org/10.1037/pspi0000452">doi</a> |
 <a href="https://osf.io/j3vp9">pdf</a>
 </ul>
 
