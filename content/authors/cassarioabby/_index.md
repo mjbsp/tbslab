@@ -19,7 +19,7 @@ social:
   link: https://alcassario.github.io
 - icon: "cv"
   icon_pack: ai
-  link: https://alcassario.github.io/Cassario_cv_6_14_23.pdf
+  link: https://alcassario.github.io/Cassario_cv_8_14.pdf 
 superuser: true
 user_groups:
 - Researchers

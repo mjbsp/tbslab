@@ -14,6 +14,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:vallabh9@msu.edu
+- icon: user
+  icon_pack: fas
+  link: https://shreevallabha.wixsite.com/shree-vallabha/
 - icon: "cv"
   icon_pack: ai
   link: https://shreevallabha.wixsite.com/shree-vallabha/contact-me 
