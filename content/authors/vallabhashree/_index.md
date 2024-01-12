@@ -16,7 +16,7 @@ social:
   link: mailto:vallabh9@msu.edu
 - icon: "cv"
   icon_pack: ai
-  link: https://osf.io/v7xg2
+  link: https://shreevallabha.wixsite.com/shree-vallabha/contact-me 
 superuser: true
 user_groups:
 - Researchers
