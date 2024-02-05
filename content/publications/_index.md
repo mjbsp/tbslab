@@ -31,6 +31,7 @@ theory. <i>European Journal of Social Psychology</i>.
 <li>
 Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (in press).
 Person-specific priorities in solitude. Journal of Personality.
+<a href="https://doi.org/10.1111/jopy.12916">doi</a> |
 <a href="https://osf.io/5qwpy">pdf</a> |
 <a href="https://osf.io/qn5zf/">code</a> |
 <a href="https://osf.io/qn5zf/">data</a>
@@ -56,6 +57,12 @@ of the past haunts current groups: Psychological antecedents of
 historical blame. <i>Journal of Personality and Social Psychology</i>.
 <a href="https://doi.org/10.1037/pspi0000452">doi</a> |
 <a href="https://osf.io/j3vp9">pdf</a>
+<li>
+Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
+Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
+structure of European belief systems: Exploring the varieties of belief
+systems across 23 European countries. <i>European Sociological
+Review</i>.
 </ul>
 
 ## 2023
