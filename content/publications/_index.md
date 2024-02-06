@@ -19,16 +19,6 @@ Social Psychology Bulletin</i>.
 <a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
 <li>
-Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
-Turner-Zwinkels, F. (in press). Finding (dis-)advantaged system
-justifiers – A bottom-up approach to explore system justification
-theory. <i>European Journal of Social Psychology</i>.
-<a href="https://doi.org/10.1002/ejsp.2989">doi</a> |
-<a href="https://osf.io/76cx5">pdf</a> |
-<a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">code</a>
-|
-<a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
-<li>
 Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (in press).
 Person-specific priorities in solitude. Journal of Personality.
 <a href="https://doi.org/10.1111/jopy.12916">doi</a> |
@@ -63,6 +53,21 @@ Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
 structure of European belief systems: Exploring the varieties of belief
 systems across 23 European countries. <i>European Sociological
 Review</i>.
+</ul>
+
+## 2024
+
+<ul>
+<li>
+Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
+Turner-Zwinkels, F. (2024). Finding (dis-)advantaged system justifiers –
+A bottom-up approach to explore system justification theory. <i>European
+Journal of Social Psychology, 54</i>, 81-96.
+<a href="https://doi.org/10.1002/ejsp.2989">doi</a> |
+<a href="https://osf.io/76cx5">pdf</a> |
+<a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">code</a>
+|
+<a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
 </ul>
 
 ## 2023
