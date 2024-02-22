@@ -28,7 +28,7 @@ Brandt, M. J., Wisneski, D., & Skitka, L. (2015) Moralization and the
 Political Psychology, 3</i>, 211-237.
 <a href="https://doi.org/10.23668/psycharchives.1694">doi</a> |
 <a href="https://osf.io/m754f/">pdf</a> |
-<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20643&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IW67CX">code</a>
 <li>
 Brandt, M. J., & Reyna, C. (2011). The chain of being: A hierarchy of
 morality. <i>Perspectives on Psychological Science, 6</i>, 428-446.

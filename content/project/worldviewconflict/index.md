@@ -31,6 +31,21 @@ prejudice in the United States. <i>Journal of Personality and Social
 Psychology, 123</i>, 154–173. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
 <a href="https://osf.io/a29my/">pdf</a>
 <li>
+Brandt, M. J. (2017). Predicting ideological prejudice. <i>Psychological
+Science, 28</i>, 713-722.
+<a href="https://doi.org/10.1177/0956797617693004">doi</a> |
+<a href="https://osf.io/z83cb/">pdf</a> |
+<a href="https://osf.io/3xgtk/">code</a> |
+<a href="https://osf.io/3xgtk/">data</a>
+<li>
+Brandt, M. J., Chambers, J. R., Crawford, J. T., Wetherell, G., & Reyna,
+C. (2015). Bounded openness: The effect of openness to experience on
+intolerance is moderated by target group conventionality. <i>Journal of
+Personality and Social Psychology, 109</i>, 549-568.
+<a href="https://doi.org/10.1037/pspp0000055">doi</a> |
+<a href="https://osf.io/tqnes/">pdf</a> |
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/LK95TL">code</a>
+<li>
 Brandt, M. J. & Crawford, J. T. (2020). Worldview conflict and
 prejudice. In B. Gawronski (Ed.) <i>Advances in Experimental Social
 Psychology, 61</i>, 1-66.
@@ -52,27 +67,12 @@ conflict in daily life. <i>Social Psychological and Personality Science,
 |
 <a href="https://dataverse.nl/dataset.xhtml?persistentId=hdl:10411/APY9ZO">data</a>
 <li>
-Brandt, M. J. (2017). Predicting ideological prejudice. <i>Psychological
-Science, 28</i>, 713-722.
-<a href="https://doi.org/10.1177/0956797617693004">doi</a> |
-<a href="https://osf.io/z83cb/">pdf</a> |
-<a href="https://osf.io/3xgtk/">code</a> |
-<a href="https://osf.io/3xgtk/">data</a>
-<li>
 Brandt, M. J., & Crawford, J. T. (2016). Answering unresolved questions
 about the relationship between cognitive ability and prejudice.
 <i>Social Psychological and Personality Science, 7</i>, 884-892.
 <a href="https://doi.org/10.1177/1948550616660592">doi</a> |
 <a href="https://osf.io/tgzha/">pdf</a> |
 <a href="https://osf.io/hvs9t/wiki/home/">code</a>
-<li>
-Brandt, M. J., Chambers, J. R., Crawford, J. T., Wetherell, G., & Reyna,
-C. (2015). Bounded openness: The effect of openness to experience on
-intolerance is moderated by target group conventionality. <i>Journal of
-Personality and Social Psychology, 109</i>, 549-568.
-<a href="https://doi.org/10.1037/pspp0000055">doi</a> |
-<a href="https://osf.io/tqnes/">pdf</a> |
-<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20642&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
 <li>
 Brandt, M. J., Reyna, C., Chambers, J., Crawford, J., & Wetherell, G.
 (2014). The ideological-conflict hypothesis: Intolerance among both
@@ -88,6 +88,15 @@ Political Animosity in the United States and the Netherlands.
 <a href="https://osf.io/xr3pw">pdf</a> |
 <a href="https://osf.io/sefg9/">code</a> |
 <a href="https://osf.io/sefg9/">data</a>
+<li>
+Brandt, M. J. & van Tongeren, D. R. (2017). People both high and low on
+religious fundamentalism are prejudiced towards dissimilar groups.
+<i>Journal of Personality and Social Psychology, 112</i>, 76-97.
+<a href="https://doi.org/10.1037/pspp0000076">doi</a> |
+<a href="https://osf.io/fn3j7/">pdf</a> |
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZOIQH">code</a>
+|
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZOIQH">data</a>
 <li>
 Colombo, M., Strangmann, K., Houkes, L., Kostadinova, Z. & Brandt, M. J.
 (2021). Intellectually humble, but prejudiced people. A paradox of

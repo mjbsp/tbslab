@@ -30,7 +30,7 @@ Personality and Social Psychology, 104</i>, 765-785.
 <a href = "https://osf.io/bsxaq/">Footnote 9 Results</a>
 <a href="https://doi.org/10.1037/a0031751">doi</a> |
 <a href="https://osf.io/bcnuy/">pdf</a> |
-<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20057&studyListingIndex=1_cab334dfb1c69787adf5fc5dc0cc">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/QKPDH7">code</a>
 <li>
 Brandt, M. J. & Bakker, B. N. (2022). The complicated but solvable
 threat–politics relationship. <i>Trends in Cognitive Sciences, 26</i>,
@@ -78,7 +78,7 @@ predict change in social trust: A longitudinal analysis. <i>Political
 Psychology, 36</i>, 761-768.
 <a href="https://doi.org/10.1111/pops.12228">doi</a> |
 <a href="https://osf.io/2jkhv/">pdf</a> |
-<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20641&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/CJHN6D">code</a>
 <li>
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
 Turner-Zwinkels, F. (2024). Finding (dis-)advantaged system justifiers –

@@ -278,7 +278,8 @@ Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
 liberals’ moral foundations. <i>Personality and Social Psychology
 Bulletin, 47</i>, 167-184.
 <a href="https://doi.org/10.1177%2F0146167220916070">doi</a> |
-<a href="https://osf.io/m4kzy/">pdf</a>
+<a href="https://osf.io/m4kzy/">pdf</a> |
+<a href="https://osf.io/fqvxy/">code</a>
 <li>
 Vaesen, K., Dusseldorp, G. L., & Brandt, M. J. (2021). An emerging
 consensus in palaeoanthropology: Demography was the main factor
@@ -563,9 +564,9 @@ religious fundamentalism are prejudiced towards dissimilar groups.
 <i>Journal of Personality and Social Psychology, 112</i>, 76-97.
 <a href="https://doi.org/10.1037/pspp0000076">doi</a> |
 <a href="https://osf.io/fn3j7/">pdf</a> |
-<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20699&studyListingIndex=0_69f9bfc7cb06c418d35a2e730145">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZOIQH">code</a>
 |
-<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20699&studyListingIndex=0_69f9bfc7cb06c418d35a2e730145">data</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZOIQH">data</a>
 <li>
 Brandt, M. J. & Wagemans, F. M. A. (2017). From the political here and
 now to generalizable knowledge. <i>Translational Issues in Psychological
@@ -683,7 +684,7 @@ intolerance is moderated by target group conventionality. <i>Journal of
 Personality and Social Psychology, 109</i>, 549-568.
 <a href="https://doi.org/10.1037/pspp0000055">doi</a> |
 <a href="https://osf.io/tqnes/">pdf</a> |
-<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20642&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/LK95TL">code</a>
 <li>
 Brandt, M. J., Evans, A. M., & Crawford, J. T. (2015). The unthinking or
 confident extremist? Political extremists are more likely to reject
@@ -699,7 +700,7 @@ between authoritarianism and life satisfaction changes depending on
 stigmatized status. <i>Social Psychology and Personality Science, 6</i>,
 219-228. <a href="https://doi.org/10.1177/1948550614552728">doi</a> |
 <a href="https://osf.io/2fn56/">pdf</a> |
-<a href="https://dataverse.nl/dvn/faces/study/StudyPage.xhtml?globalId=hdl:10411/20430&studyListingIndex=0_aa2637b27d20458c16174c8b7b45">code</a>
+<a href="https://dataverse.nl/file.xhtml?fileId=2565&datasetVersionId=34">code</a>
 <li>
 Brandt, M. J., & Proulx, T. (2015). QTIPs. Questionable theoretical and
 interpretive practices in social psychology. <i>Behavioral and Brain
@@ -712,14 +713,14 @@ predict change in social trust: A longitudinal analysis. <i>Political
 Psychology, 36</i>, 761-768.
 <a href="https://doi.org/10.1111/pops.12228">doi</a> |
 <a href="https://osf.io/2jkhv/">pdf</a> |
-<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20641&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/CJHN6D">code</a>
 <li>
 Brandt, M. J., Wisneski, D., & Skitka, L. (2015) Moralization and the
 2012 U.S. Presidential Election campaign. <i>Journal of Social and
 Political Psychology, 3</i>, 211-237.
 <a href="https://doi.org/10.23668/psycharchives.1694">doi</a> |
 <a href="https://osf.io/m754f/">pdf</a> |
-<a href="https://www.dataverse.nl/dvn/dv/tilburguniversity/faces/study/StudyPage.xhtml?globalId=hdl:10411/20643&studyListingIndex=2_26fac8bc5d2ccb42b35d9a327692">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IW67CX">code</a>
 <li>
 Henry, P. J., Wetherell, G., & Brandt, M. J. (2015). Democracy as a
 legitimizing ideology. <i>Peace and Conflict: Journal of Peace
@@ -772,7 +773,7 @@ role of core motives in explaining the link between fundamentalism and
 racial prejudice. <i>Political Psychology, 35</i>, 207-223.
 <a href="https://doi.org/10.1111/pops.12077">doi</a> |
 <a href="https://osf.io/g65bu/">pdf</a> |
-<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20171&studyListingIndex=1_cab334dfb1c69787adf5fc5dc0cc">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/PIUB6H">code</a>
 <li>
 Brandt, M. J., Reyna, C., Chambers, J., Crawford, J., & Wetherell, G.
 (2014). The ideological-conflict hypothesis: Intolerance among both
@@ -854,7 +855,7 @@ Personality and Social Psychology, 104</i>, 765-785.
 <a href = "https://osf.io/bsxaq/">Footnote 9 Results</a> |
 <a href="https://doi.org/10.1037/a0031751">doi</a> |
 <a href="https://osf.io/bcnuy/">pdf</a> |
-<a href="https://dataverse.nl/dvn/dv/tsb/faces/study/StudyPage.xhtml?globalId=hdl:10411/20057&studyListingIndex=1_cab334dfb1c69787adf5fc5dc0cc">code</a>
+<a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/QKPDH7">code</a>
 <li>
 Brandt, M, J. (2013). Onset and offset deservingness: The case of home
 foreclosures. <i>Political Psychology, 34</i>, 221-238.
