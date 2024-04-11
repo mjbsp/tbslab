@@ -20,9 +20,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mjbsp
-- icon: mastodon
-  icon_pack: fab
-  link: https://sciences.social/@mjb
 - icon: cloud-sun
   icon_pack: fas
   link: https://bsky.app/profile/mjbsp.bsky.social
