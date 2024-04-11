@@ -52,7 +52,7 @@ Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
 Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
 structure of European belief systems: Exploring the varieties of belief
 systems across 23 European countries. <i>European Sociological
-Review</i>.
+Review</i>. <a href="https://osf.io/9r84f">pdf</a>
 </ul>
 
 ## 2024
