@@ -97,4 +97,9 @@ Bulletin, 47</i>, 167-184.
 <a href="https://doi.org/10.1177%2F0146167220916070">doi</a> |
 <a href="https://osf.io/m4kzy/">pdf</a>
 <li>
+Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
+Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
+structure of European belief systems: Exploring the varieties of belief
+systems across 23 European countries. <i>European Sociological
+Review</i>. <a href="https://osf.io/9r84f">pdf</a>
 </ul>
