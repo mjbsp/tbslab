@@ -13,7 +13,7 @@ role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: mulwaken@msu.edu
+  link: mailto:mulwaken@msu.edu
 - icon: user
   icon_pack: fas
   link: https://kenyamulwa.wordpress.com
