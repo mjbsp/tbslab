@@ -3,7 +3,7 @@ authors:
 - Kenya Mulwa
 email: "mulwaken@msu.edu"
 interests: []
-name: Abby Cassario
+name: Kenya Mulwa
 organizations:
 - name: Michigan State University
   url: "https://msu.edu/"
