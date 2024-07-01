@@ -25,7 +25,16 @@ years <- unique(my_data$year)
 ```
 
 ```{r publications, echo = FALSE, results = "asis"}
+
 for(year in years){
+  if(years[1] == year){
+    cat(paste("---",
+      "\n",
+      "title: Publications",
+      "\n",
+      "---",
+      sep=""))
+  }
   cat(paste("\n", "## ", year ,sep=""))
   thisyear <- my_data[my_data$year == year,]
   if(dim(thisyear)[1] > 0){
