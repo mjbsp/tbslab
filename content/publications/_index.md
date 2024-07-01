@@ -19,9 +19,9 @@ Social Psychology Bulletin</i>.
 <a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
 <li>
-Kteily, N.\* & Brandt, M. J.\* (in press). Ideology: Psychological
+Kteily, N. & Brandt, M. J. (in press). Ideology: Psychological
 similarities and differences across the ideological spectrum
-re-examined. <i>Annual Review of Psychology</i>. \*shared authorship
+re-examined. <i>Annual Review of Psychology</i>. shared authorship
 <li>
 Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (in press).
 Person-specific priorities in solitude. <i>Journal of Personality</i>.
