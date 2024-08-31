@@ -19,9 +19,9 @@ Social Psychology Bulletin</i>.
 <a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
 <li>
-Kteily, N. & Brandt, M. J. (in press). Ideology: Psychological
+Kteily, N. S. & Brandt, M. J. (in press). Ideology: Psychological
 similarities and differences across the ideological spectrum
-re-examined. <i>Annual Review of Psychology</i>. shared authorship
+re-examined. <i>Annual Review of Psychology</i>.
 <li>
 Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (in press).
 Person-specific priorities in solitude. <i>Journal of Personality</i>.
@@ -44,7 +44,8 @@ polarization and political belief systems: The role of political
 identity, and the content and structure of political beliefs.
 <i>Personality and Social Psychology Bulletin</i>.
 <a href="https://doi.org/10.1177/01461672231183935">doi</a> |
-<a href="https://osf.io/he2ay">pdf</a>
+<a href="https://osf.io/he2ay">pdf</a> |
+<a href="https://osf.io/stbpk/">code</a>
 <li>
 Vallabha, S., Doriscar, J., & Brandt, M. J. (in press). When the specter
 of the past haunts current groups: Psychological antecedents of
@@ -62,6 +63,11 @@ Review</i>. <a href="https://osf.io/9r84f">pdf</a>
 ## 2024
 
 <ul>
+<li>
+Brandt, M. J., Vallabha, S., & Cassario, A. L. (2024). Is political
+identification a key for political animosity? In J. P. Forgas (Ed.),
+<i>The Tribal Mind and the Psychology of Collectivism</i>. Routledge.
+<a href="https://osf.io/7v8wg">pdf</a>
 <li>
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
 Turner-Zwinkels, F. (2024). Finding (dis-)advantaged system justifiers –
