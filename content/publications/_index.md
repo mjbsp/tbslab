@@ -19,6 +19,14 @@ Social Psychology Bulletin</i>.
 <a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
 <li>
+Cassario, A. L. & Brandt, M. J. (in press). Testing theories of threat,
+conservatism, and individual difference: Little evidence of personality
+based individual differences in ideological responses to threat.
+<i>Social Psychological and Personality Science</i>.
+<a href="https://osf.io/42tvs">pdf</a> |
+<a href="https://osf.io/7x2ge/">code</a> |
+<a href="https://osf.io/7x2ge/">data</a>
+<li>
 Kteily, N. S. & Brandt, M. J. (in press). Ideology: Psychological
 similarities and differences across the ideological spectrum
 re-examined. <i>Annual Review of Psychology</i>.

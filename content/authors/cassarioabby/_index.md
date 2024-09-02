@@ -25,7 +25,7 @@ user_groups:
 - Researchers
 ---
 
-I am a second year PhD Student in the Department of Psychology at Michigan State University and a member of the Belief Systems Lab. My research and teaching interests lie in social and political psychology and research methods.
+I am a third year PhD Student in the Department of Psychology at Michigan State University and a member of the Belief Systems Lab. My research and teaching interests lie in social and political psychology and research methods.
 
 Specifically, I have substantive interests in ideology, ideological development, attitude moralization, and how these processes can help us understand political polarization. My methodological interests concern, among other things, survey research and observational causal inference. I also enjoy R programming, tech-y things, and craft beer! I was also a division one swimmer in a previous life, and still enjoy swimming and weightlifting in my free time.
 
@@ -36,6 +36,14 @@ Find more at my [personal website](https://alcassario.github.io).
 ## Lab Publications
 
 <ul>
+<li>
+Cassario, A. L. & Brandt, M. J. (in press). Testing theories of threat,
+conservatism, and individual difference: Little evidence of personality
+based individual differences in ideological responses to threat.
+<i>Social Psychological and Personality Science</i>.
+<a href="https://osf.io/42tvs">pdf</a> |
+<a href="https://osf.io/7x2ge/">code</a> |
+<a href="https://osf.io/7x2ge/">data</a>
 <li>
 Brandt, M. J. & Cassario, A. (2023). Distinguishing between worldview
 conflict and shared alliances: Commentary on Pinsof, Sears, and
