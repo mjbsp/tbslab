@@ -55,12 +55,6 @@ identity, and the content and structure of political beliefs.
 <a href="https://osf.io/he2ay">pdf</a> |
 <a href="https://osf.io/stbpk/">code</a>
 <li>
-Vallabha, S., Doriscar, J., & Brandt, M. J. (in press). When the specter
-of the past haunts current groups: Psychological antecedents of
-historical blame. <i>Journal of Personality and Social Psychology</i>.
-<a href="https://doi.org/10.1037/pspi0000452">doi</a> |
-<a href="https://osf.io/j3vp9">pdf</a>
-<li>
 Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
 Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
 structure of European belief systems: Exploring the varieties of belief
@@ -86,6 +80,12 @@ Journal of Social Psychology, 54</i>, 81-96.
 <a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">code</a>
 |
 <a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
+<li>
+Vallabha, S., Doriscar, J. E., & Brandt, M. J. (2024). When the specter
+of the past haunts current groups: Psychological antecedents of
+historical blame. <i>Journal of Personality and Social Psychology,
+127</i>, 638–663. <a href="https://doi.org/10.1037/pspi0000452">doi</a>
+| <a href="https://osf.io/j3vp9">pdf</a>
 </ul>
 
 ## 2023
