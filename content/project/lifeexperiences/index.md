@@ -80,6 +80,14 @@ Psychology, 36</i>, 761-768.
 <a href="https://osf.io/2jkhv/">pdf</a> |
 <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/CJHN6D">code</a>
 <li>
+Cassario, A. L. & Brandt, M. J. (in press). Testing theories of threat,
+conservatism, and individual difference: Little evidence of personality
+based individual differences in ideological responses to threat.
+<i>Social Psychological and Personality Science</i>.
+<a href="https://osf.io/42tvs">pdf</a> |
+<a href="https://osf.io/7x2ge/">code</a> |
+<a href="https://osf.io/7x2ge/">data</a>
+<li>
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
 Turner-Zwinkels, F. (2024). Finding (dis-)advantaged system justifiers –
 A bottom-up approach to explore system justification theory. <i>European

@@ -45,6 +45,14 @@ based individual differences in ideological responses to threat.
 <a href="https://osf.io/7x2ge/">code</a> |
 <a href="https://osf.io/7x2ge/">data</a>
 <li>
+Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki,
+P., Gnall, S., Rice, S., Wetherell, G. A., & Brandt, M. J. (in press).
+Registered report: Cognitive ability, but not cognitive reflection
+predicts expressing greater political animosity and favouritism.
+<i>British Journal of Social Psychology</i>.
+<a href="https://osf.io/9k4yw">pdf</a> |
+<a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
+<li>
 Brandt, M. J. & Cassario, A. (2023). Distinguishing between worldview
 conflict and shared alliances: Commentary on Pinsof, Sears, and
 Haselton. <i>Psychological Inquiry, 34,</i> 168-174.
