@@ -27,6 +27,14 @@ based individual differences in ideological responses to threat.
 <a href="https://osf.io/7x2ge/">code</a> |
 <a href="https://osf.io/7x2ge/">data</a>
 <li>
+Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki,
+P., Gnall, S., Rice, S., Wetherell, G. A., & Brandt, M. J. (in press).
+Registered report: Cognitive ability, but not cognitive reflection
+predicts expressing greater political animosity and favouritism.
+<i>British Journal of Social Psychology</i>.
+<a href="https://osf.io/9k4yw">pdf</a> |
+<a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
+<li>
 Kteily, N. S. & Brandt, M. J. (in press). Ideology: Psychological
 similarities and differences across the ideological spectrum
 re-examined. <i>Annual Review of Psychology</i>.
@@ -59,7 +67,8 @@ Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
 Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
 structure of European belief systems: Exploring the varieties of belief
 systems across 23 European countries. <i>European Sociological
-Review</i>. <a href="https://osf.io/9r84f">pdf</a>
+Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
+<a href="https://osf.io/9r84f">pdf</a>
 </ul>
 
 ## 2024
@@ -69,7 +78,8 @@ Review</i>. <a href="https://osf.io/9r84f">pdf</a>
 Brandt, M. J., Vallabha, S., & Cassario, A. L. (2024). Is political
 identification a key for political animosity? In J. P. Forgas (Ed.),
 <i>The Tribal Mind and the Psychology of Collectivism</i>. Routledge.
-<a href="https://osf.io/7v8wg">pdf</a>
+<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003395836-21/political-identification-key-political-animosity-mark-brandt-shree-vallabha-abigail-cassario">doi</a>
+| <a href="https://osf.io/7v8wg">pdf</a>
 <li>
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
 Turner-Zwinkels, F. (2024). Finding (dis-)advantaged system justifiers –
