@@ -32,8 +32,19 @@ P., Gnall, S., Rice, S., Wetherell, G. A., & Brandt, M. J. (in press).
 Registered report: Cognitive ability, but not cognitive reflection
 predicts expressing greater political animosity and favouritism.
 <i>British Journal of Social Psychology</i>.
+<a href="https://doi.org/10.1111/bjso.12814">doi</a> |
 <a href="https://osf.io/9k4yw">pdf</a> |
 <a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
+<li>
+Hall, B., Schmidt, K., Wagge, J., Lewis, S. C., Weissgerber, S., Kiunke,
+F., Pfuhl, G. … Brandt., M. J. … Buchanan, E. M. (in press). Registered
+replication report: A large multilab cross-cultural conceptual
+replication of Turri et al. (2015). <i>Advances in Methods and Practices
+in Psychological Science</i>.
+<a href="https://doi.org/10.1177/25152459241267902">doi</a> |
+<a href="https://journals.sagepub.com/doi/epdf/10.1177/25152459241267902">pdf</a>
+| <a href="https://osf.io/n5b3w/">code</a> |
+<a href="https://osf.io/n5b3w/">data</a>
 <li>
 Kteily, N. S. & Brandt, M. J. (in press). Ideology: Psychological
 similarities and differences across the ideological spectrum
@@ -69,6 +80,16 @@ structure of European belief systems: Exploring the varieties of belief
 systems across 23 European countries. <i>European Sociological
 Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
 <a href="https://osf.io/9r84f">pdf</a>
+</ul>
+
+## In press
+
+<ul>
+<li>
+Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
+spurious effects in cross-lagged panel models: Triangulation is not a
+valid test. <i>European Journal of Personality</i>.
+<a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 </ul>
 
 ## 2024
