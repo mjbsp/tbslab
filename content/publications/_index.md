@@ -89,6 +89,7 @@ Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
 Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
 spurious effects in cross-lagged panel models: Triangulation is not a
 valid test. <i>European Journal of Personality</i>.
+<a href="https://doi.org/10.1177/08902070241297856">doi</a> |
 <a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 </ul>
 
@@ -111,6 +112,15 @@ Journal of Social Psychology, 54</i>, 81-96.
 <a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">code</a>
 |
 <a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
+<li>
+Kodapanakkala, R. I., Kogler, C., Brandt, M. J., & van Beest, I. (in
+press). Differences in information acquisition and justice sensitivity
+predict adoption of apps affecting own and others’ privacy. <i>Acta
+Psychologica, 251</i>, 104589.
+<a href="https://doi.org/10.1016/j.actpsy.2024.104589">doi</a> |
+<a href="https://osf.io/pqjtv">pdf</a> |
+<a href="https://osf.io/ktwgd/">code</a> |
+<a href="https://osf.io/ktwgd/">data</a>
 <li>
 Vallabha, S., Doriscar, J. E., & Brandt, M. J. (2024). When the specter
 of the past haunts current groups: Psychological antecedents of

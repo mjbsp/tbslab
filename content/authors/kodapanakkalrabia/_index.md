@@ -17,6 +17,15 @@ user_groups:
 
 <ul>
 <li>
+Kodapanakkala, R. I., Kogler, C., Brandt, M. J., & van Beest, I. (in
+press). Differences in information acquisition and justice sensitivity
+predict adoption of apps affecting own and others’ privacy. <i>Acta
+Psychologica, 251</i>, 104589.
+<a href="https://doi.org/10.1016/j.actpsy.2024.104589">doi</a> |
+<a href="https://osf.io/pqjtv">pdf</a> |
+<a href="https://osf.io/ktwgd/">code</a> |
+<a href="https://osf.io/ktwgd/">data</a>
+<li>
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (2022).
 Moral frames are persuasive and moralize attitudes; nonmoral frames are
 persuasive and de-moralize attitudes. <i>Psychological Science, 33</i>,
