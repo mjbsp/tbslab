@@ -36,19 +36,15 @@ predicts expressing greater political animosity and favouritism.
 <a href="https://osf.io/9k4yw">pdf</a> |
 <a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
 <li>
-Hall, B., Schmidt, K., Wagge, J., Lewis, S. C., Weissgerber, S., Kiunke,
-F., Pfuhl, G. … Brandt., M. J. … Buchanan, E. M. (in press). Registered
-replication report: A large multilab cross-cultural conceptual
-replication of Turri et al. (2015). <i>Advances in Methods and Practices
-in Psychological Science</i>.
-<a href="https://doi.org/10.1177/25152459241267902">doi</a> |
-<a href="https://journals.sagepub.com/doi/epdf/10.1177/25152459241267902">pdf</a>
-| <a href="https://osf.io/n5b3w/">code</a> |
-<a href="https://osf.io/n5b3w/">data</a>
-<li>
 Kteily, N. S. & Brandt, M. J. (in press). Ideology: Psychological
 similarities and differences across the ideological spectrum
 re-examined. <i>Annual Review of Psychology</i>.
+<li>
+Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
+spurious effects in cross-lagged panel models: Triangulation is not a
+valid test. <i>European Journal of Personality</i>.
+<a href="https://doi.org/10.1177/08902070241297856">doi</a> |
+<a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 <li>
 Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (in press).
 Person-specific priorities in solitude. <i>Journal of Personality</i>.
@@ -56,13 +52,6 @@ Person-specific priorities in solitude. <i>Journal of Personality</i>.
 <a href="https://osf.io/5qwpy">pdf</a> |
 <a href="https://osf.io/qn5zf/">code</a> |
 <a href="https://osf.io/qn5zf/">data</a>
-<li>
-Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
-vs. party identity strength: Ideology strength is the key predictor of
-attitude stability. <i>Personality and Social Psychology Bulletin</i>.
-<a href="https://doi.org/10.1177/01461672231189015">doi</a> |
-<a href="https://osf.io/et73p">pdf</a> |
-<a href="https://osf.io/gbvyk/?view_only=fc7b3022d9f0401cadac524c1dc44ad1">code</a>
 <li>
 Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,
 Brandt, M. J., Kuppens, T., Easterbrook, M. J., Turner-Zwinkels, T.,
@@ -82,17 +71,6 @@ Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
 <a href="https://osf.io/9r84f">pdf</a>
 </ul>
 
-## In press
-
-<ul>
-<li>
-Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
-spurious effects in cross-lagged panel models: Triangulation is not a
-valid test. <i>European Journal of Personality</i>.
-<a href="https://doi.org/10.1177/08902070241297856">doi</a> |
-<a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
-</ul>
-
 ## 2024
 
 <ul>
@@ -102,6 +80,16 @@ identification a key for political animosity? In J. P. Forgas (Ed.),
 <i>The Tribal Mind and the Psychology of Collectivism</i>. Routledge.
 <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003395836-21/political-identification-key-political-animosity-mark-brandt-shree-vallabha-abigail-cassario">doi</a>
 | <a href="https://osf.io/7v8wg">pdf</a>
+<li>
+Hall, B., Schmidt, K., Wagge, J., Lewis, S. C., Weissgerber, S., Kiunke,
+F., Pfuhl, G. … Brandt., M. J. … Buchanan, E. M. (2024). Registered
+replication report: A large multilab cross-cultural conceptual
+replication of Turri et al. (2015). <i>Advances in Methods and Practices
+in Psychological Science, 7</i>, 1-38.
+<a href="https://doi.org/10.1177/25152459241267902">doi</a> |
+<a href="https://journals.sagepub.com/doi/epdf/10.1177/25152459241267902">pdf</a>
+| <a href="https://osf.io/n5b3w/">code</a> |
+<a href="https://osf.io/n5b3w/">data</a>
 <li>
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
 Turner-Zwinkels, F. (2024). Finding (dis-)advantaged system justifiers –
@@ -113,14 +101,22 @@ Journal of Social Psychology, 54</i>, 81-96.
 |
 <a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
 <li>
-Kodapanakkala, R. I., Kogler, C., Brandt, M. J., & van Beest, I. (in
-press). Differences in information acquisition and justice sensitivity
-predict adoption of apps affecting own and others’ privacy. <i>Acta
+Kodapanakkala, R. I., Kogler, C., Brandt, M. J., & van Beest, I. (2024).
+Differences in information acquisition and justice sensitivity predict
+adoption of apps affecting own and others’ privacy. <i>Acta
 Psychologica, 251</i>, 104589.
 <a href="https://doi.org/10.1016/j.actpsy.2024.104589">doi</a> |
 <a href="https://osf.io/pqjtv">pdf</a> |
 <a href="https://osf.io/ktwgd/">code</a> |
 <a href="https://osf.io/ktwgd/">data</a>
+<li>
+Turner-Zwinkels, F. M. & Brandt, M. J. (2024). Ideology strength
+vs. party identity strength: Ideology strength is the key predictor of
+attitude stability. <i>Personality and Social Psychology Bulletin,
+51</i>, 125-138.
+<a href="https://doi.org/10.1177/01461672231189015">doi</a> |
+<a href="https://osf.io/et73p">pdf</a> |
+<a href="https://osf.io/gbvyk/?view_only=fc7b3022d9f0401cadac524c1dc44ad1">code</a>
 <li>
 Vallabha, S., Doriscar, J. E., & Brandt, M. J. (2024). When the specter
 of the past haunts current groups: Psychological antecedents of
