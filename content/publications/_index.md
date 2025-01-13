@@ -46,12 +46,10 @@ valid test. <i>European Journal of Personality</i>.
 <a href="https://doi.org/10.1177/08902070241297856">doi</a> |
 <a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 <li>
-Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (in press).
-Person-specific priorities in solitude. <i>Journal of Personality</i>.
-<a href="https://doi.org/10.1111/jopy.12916">doi</a> |
-<a href="https://osf.io/5qwpy">pdf</a> |
-<a href="https://osf.io/qn5zf/">code</a> |
-<a href="https://osf.io/qn5zf/">data</a>
+Suhay, E.& Brandt, M. J. (in press). Building community and advancing
+transparency in <i>Political Psychology</i>’s next chapter. <i>Political
+Psychology</i> <a href="https://doi.org/10.1111/pops.13074">doi</a> |
+<a href="https://osf.io/nybxm">pdf</a>
 <li>
 Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,
 Brandt, M. J., Kuppens, T., Easterbrook, M. J., Turner-Zwinkels, T.,
@@ -69,6 +67,18 @@ structure of European belief systems: Exploring the varieties of belief
 systems across 23 European countries. <i>European Sociological
 Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
 <a href="https://osf.io/9r84f">pdf</a>
+</ul>
+
+## 2025
+
+<ul>
+<li>
+Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (2025).
+Person-specific priorities in solitude. <i>Journal of Personality,
+93</i>, 12-30. <a href="https://doi.org/10.1111/jopy.12916">doi</a> |
+<a href="https://osf.io/5qwpy">pdf</a> |
+<a href="https://osf.io/qn5zf/">code</a> |
+<a href="https://osf.io/qn5zf/">data</a>
 </ul>
 
 ## 2024
