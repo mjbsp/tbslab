@@ -46,11 +46,6 @@ valid test. <i>European Journal of Personality</i>.
 <a href="https://doi.org/10.1177/08902070241297856">doi</a> |
 <a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 <li>
-Suhay, E.& Brandt, M. J. (in press). Building community and advancing
-transparency in <i>Political Psychology</i>’s next chapter. <i>Political
-Psychology</i> <a href="https://doi.org/10.1111/pops.13074">doi</a> |
-<a href="https://osf.io/nybxm">pdf</a>
-<li>
 Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,
 Brandt, M. J., Kuppens, T., Easterbrook, M. J., Turner-Zwinkels, T.,
 Gorska, P. Marchlewska, M., & Smets, L. (in press). Affective
@@ -73,12 +68,25 @@ Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
 
 <ul>
 <li>
+Kteily, N. S.+ & Brandt, M. J.+ (2025). Ideology: Psychological
+similarities and differences across the ideological spectrum
+re-examined. <i>Annual Review of Psychology, 76</i>, 501-529. +shared
+authorship
+<a href="https://doi.org/10.1146/annurev-psych-020124-115253">doi</a> |
+<a href="https://osf.io/dghqn">pdf</a>
+<li>
 Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (2025).
 Person-specific priorities in solitude. <i>Journal of Personality,
 93</i>, 12-30. <a href="https://doi.org/10.1111/jopy.12916">doi</a> |
 <a href="https://osf.io/5qwpy">pdf</a> |
 <a href="https://osf.io/qn5zf/">code</a> |
 <a href="https://osf.io/qn5zf/">data</a>
+<li>
+Suhay, E. & Brandt, M. J. (2025). Building community and advancing
+transparency in Political Psychology’s next chapter. <i>Political
+Psychology, 46</i>, 3-5.
+<a href="https://doi.org/10.1111/pops.13074">doi</a> |
+<a href="https://osf.io/nybxm">pdf</a>
 </ul>
 
 ## 2024
