@@ -36,10 +36,6 @@ predicts expressing greater political animosity and favouritism.
 <a href="https://osf.io/9k4yw">pdf</a> |
 <a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
 <li>
-Kteily, N. S. & Brandt, M. J. (in press). Ideology: Psychological
-similarities and differences across the ideological spectrum
-re-examined. <i>Annual Review of Psychology</i>.
-<li>
 Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
 spurious effects in cross-lagged panel models: Triangulation is not a
 valid test. <i>European Journal of Personality</i>.
