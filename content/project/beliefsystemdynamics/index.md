@@ -62,27 +62,31 @@ and Social Psychology Review, 25</i>, 159-185.
 <a href="https://osf.io/q5y9c/">pdf</a> |
 <a href="https://osf.io/aswy8/">code</a>
 <li>
-Brandt, M. J. & Vallabha, S. (in press). Inter-attitude centrality does
-not appear to reduce persuasion for political attitudes. <i>European
-Journal of Social Psychology</i>. <a href="https://osf.io/cqkvt">pdf</a>
-| <a href="https://osf.io/64zad/">code</a> |
+Brandt, M. J. & Vallabha, S. (2023). Inter-attitude centrality does not
+appear to reduce persuasion for political attitudes. <i>European Journal
+of Social Psychology</i>, 53, 1342-1358.
+<a href="https://doi.org/10.1002/ejsp.2980">doi</a> |
+<a href="https://osf.io/cqkvt">pdf</a> |
+<a href="https://osf.io/64zad/">code</a> |
 <a href="https://osf.io/64zad/">data</a>
 <li>
-Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
+Turner-Zwinkels, F. M. & Brandt, M. J. (2024). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
-attitude stability. <i>Personality and Social Psychology Bulletin</i>.
+attitude stability. <i>Personality and Social Psychology Bulletin,
+51</i>, 125-138.
 <a href="https://doi.org/10.1177/01461672231189015">doi</a> |
 <a href="https://osf.io/et73p">pdf</a> |
 <a href="https://osf.io/gbvyk/?view_only=fc7b3022d9f0401cadac524c1dc44ad1">code</a>
 <li>
 Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,
 Brandt, M. J., Kuppens, T., Easterbrook, M. J., Turner-Zwinkels, T.,
-Gorska, P. Marchlewska, M., & Smets, L. (in press). Affective
-polarization and political belief systems: The role of political
-identity, and the content and structure of political beliefs.
-<i>Personality and Social Psychology Bulletin</i>.
+Gorska, P. Marchlewska, M., & Smets, L. (2025). Affective polarization
+and political belief systems: The role of political identity, and the
+content and structure of political beliefs. <i>Personality and Social
+Psychology Bulletin, 51</i>, 222-238.
 <a href="https://doi.org/10.1177/01461672231183935">doi</a> |
-<a href="https://osf.io/he2ay">pdf</a>
+<a href="https://osf.io/he2ay">pdf</a> |
+<a href="https://osf.io/stbpk/">code</a>
 <li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
 can be used to predict where to expect dynamic constraint. <i>Journal of

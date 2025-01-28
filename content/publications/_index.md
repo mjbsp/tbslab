@@ -11,14 +11,6 @@ political animosity in the United States and the Netherlands.
 <a href="https://osf.io/sefg9/">code</a> |
 <a href="https://osf.io/sefg9/">data</a>
 <li>
-Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (in press). The onset
-of the COVID-19 pandemic made people feel threatened, but had a limited
-impact on political attitudes in the United States. <i>Personality and
-Social Psychology Bulletin</i>.
-<a href="https://doi.org/10.1177/01461672231190233">doi</a> |
-<a href="https://osf.io/ahtk6">pdf</a> |
-<a href="https://osf.io/279gd/">code</a>
-<li>
 Cassario, A. L. & Brandt, M. J. (in press). Testing theories of threat,
 conservatism, and individual difference: Little evidence of personality
 based individual differences in ideological responses to threat.
@@ -42,16 +34,6 @@ valid test. <i>European Journal of Personality</i>.
 <a href="https://doi.org/10.1177/08902070241297856">doi</a> |
 <a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 <li>
-Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,
-Brandt, M. J., Kuppens, T., Easterbrook, M. J., Turner-Zwinkels, T.,
-Gorska, P. Marchlewska, M., & Smets, L. (in press). Affective
-polarization and political belief systems: The role of political
-identity, and the content and structure of political beliefs.
-<i>Personality and Social Psychology Bulletin</i>.
-<a href="https://doi.org/10.1177/01461672231183935">doi</a> |
-<a href="https://osf.io/he2ay">pdf</a> |
-<a href="https://osf.io/stbpk/">code</a>
-<li>
 Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
 Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
 structure of European belief systems: Exploring the varieties of belief
@@ -63,6 +45,14 @@ Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
 ## 2025
 
 <ul>
+<li>
+Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (2025). The onset of
+the COVID-19 pandemic made people feel threatened, but had a limited
+impact on political attitudes in the United States. <i>Personality and
+Social Psychology Bulletin, 51</i>, 284-300.
+<a href="https://doi.org/10.1177/01461672231190233">doi</a> |
+<a href="https://osf.io/ahtk6">pdf</a> |
+<a href="https://osf.io/279gd/">code</a>
 <li>
 Kteily, N. S.+ & Brandt, M. J.+ (2025). Ideology: Psychological
 similarities and differences across the ideological spectrum
@@ -83,6 +73,16 @@ transparency in Political Psychology’s next chapter. <i>Political
 Psychology, 46</i>, 3-5.
 <a href="https://doi.org/10.1111/pops.13074">doi</a> |
 <a href="https://osf.io/nybxm">pdf</a>
+<li>
+Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,
+Brandt, M. J., Kuppens, T., Easterbrook, M. J., Turner-Zwinkels, T.,
+Gorska, P. Marchlewska, M., & Smets, L. (2025). Affective polarization
+and political belief systems: The role of political identity, and the
+content and structure of political beliefs. <i>Personality and Social
+Psychology Bulletin, 51</i>, 222-238.
+<a href="https://doi.org/10.1177/01461672231183935">doi</a> |
+<a href="https://osf.io/he2ay">pdf</a> |
+<a href="https://osf.io/stbpk/">code</a>
 </ul>
 
 ## 2024

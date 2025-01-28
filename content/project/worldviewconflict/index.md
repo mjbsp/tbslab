@@ -20,15 +20,16 @@ This work is practically important because it suggests that to overcome the soci
 
 <ul>
 <li>
-Bergh, R. & Brandt, M. J. (in press). Generalized prejudice: Lessons
-about social power, ideological conflict, and levels of abstraction.
-<i>European Review of Social Psychology</i>.
+Bergh, R. & Brandt, M. J. (2023). Generalized prejudice: Lessons about
+social power, ideological conflict, and levels of abstraction.
+<i>European Review of Social Psychology, 34</i>, 92-126.
 <a href="https://doi.org/10.1080/10463283.2022.2040140">doi</a> |
 <a href="https://osf.io/nv48f/">pdf</a>
 <li>
-Bergh, R. & Brandt, M. J. (in press). Mapping principal dimensions of
+Bergh, R. & Brandt, M. J. (2022). Mapping principal dimensions of
 prejudice in the United States. <i>Journal of Personality and Social
-Psychology, 123</i>, 154–173. <a href="https://doi.org/10.1037/pspi0000360">doi</a> |
+Psychology, 123</i>, 154–173.
+<a href="https://doi.org/10.1037/pspi0000360">doi</a> |
 <a href="https://osf.io/a29my/">pdf</a>
 <li>
 Brandt, M. J. (2017). Predicting ideological prejudice. <i>Psychological
@@ -129,12 +130,13 @@ across the political spectrum, but social issues are most divisive.
 <li>
 Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,
 Brandt, M. J., Kuppens, T., Easterbrook, M. J., Turner-Zwinkels, T.,
-Gorska, P. Marchlewska, M., & Smets, L. (in press). Affective
-polarization and political belief systems: The role of political
-identity, and the content and structure of political beliefs.
-<i>Personality and Social Psychology Bulletin</i>.
+Gorska, P. Marchlewska, M., & Smets, L. (2025). Affective polarization
+and political belief systems: The role of political identity, and the
+content and structure of political beliefs. <i>Personality and Social
+Psychology Bulletin, 51</i>, 222-238.
 <a href="https://doi.org/10.1177/01461672231183935">doi</a> |
-<a href="https://osf.io/he2ay">pdf</a>
+<a href="https://osf.io/he2ay">pdf</a> |
+<a href="https://osf.io/stbpk/">code</a>
 <li>
 Voelkel, J. G., Ren, D., & Brandt, M. J. (2021). Inclusion reduces
 political prejudice. <i>Journal of Experimental Social Psychology</i>,
