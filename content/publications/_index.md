@@ -83,6 +83,13 @@ Psychology Bulletin, 51</i>, 222-238.
 <a href="https://doi.org/10.1177/01461672231183935">doi</a> |
 <a href="https://osf.io/he2ay">pdf</a> |
 <a href="https://osf.io/stbpk/">code</a>
+<li>
+Zmigrod, L., Brandt, M. J., & Arceneaux, K. (2025). The organization
+(and disorganization) of attitudes. In E. C. Busby, C. F. Karpowitz, &
+C. J. Wong (Eds.), <i>Handbook of Innovations in Political
+Psychology</i> (pp. 304-328). Edward Elgar Publishing Limited.
+<a href="https://doi.org/10.4337/9781803924830.00024">doi</a> |
+<a href="https://osf.io/7kw38">pdf</a>
 </ul>
 
 ## 2024
