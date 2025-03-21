@@ -19,15 +19,6 @@ based individual differences in ideological responses to threat.
 <a href="https://osf.io/7x2ge/">code</a> |
 <a href="https://osf.io/7x2ge/">data</a>
 <li>
-Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki,
-P., Gnall, S., Rice, S., Wetherell, G. A., & Brandt, M. J. (in press).
-Registered report: Cognitive ability, but not cognitive reflection
-predicts expressing greater political animosity and favouritism.
-<i>British Journal of Social Psychology</i>.
-<a href="https://doi.org/10.1111/bjso.12814">doi</a> |
-<a href="https://osf.io/9k4yw">pdf</a> |
-<a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
-<li>
 Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
 spurious effects in cross-lagged panel models: Triangulation is not a
 valid test. <i>European Journal of Personality</i>.
@@ -62,6 +53,15 @@ Social Psychology Bulletin, 51</i>, 284-300.
 <a href="https://doi.org/10.1177/01461672231190233">doi</a> |
 <a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
+<li>
+Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki,
+P., Gnall, S., Rice, S., Wetherell, G. A., & Brandt, M. J. (2025).
+Registered report: Cognitive ability, but not cognitive reflection
+predicts expressing greater political animosity and favouritism.
+<i>British Journal of Social Psychology, 64</i>, e12814.
+<a href="https://doi.org/10.1111/bjso.12814">doi</a> |
+<a href="https://osf.io/9k4yw">pdf</a> |
+<a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
 <li>
 Kteily, N. S.+ & Brandt, M. J.+ (2025). Ideology: Psychological
 similarities and differences across the ideological spectrum

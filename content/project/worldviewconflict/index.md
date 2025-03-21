@@ -100,10 +100,10 @@ religious fundamentalism are prejudiced towards dissimilar groups.
 <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZOIQH">data</a>
 <li>
 Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki,
-P., Gnall, S., Rice, S., Wetherell, G. A., & Brandt, M. J. (in press).
+P., Gnall, S., Rice, S., Wetherell, G. A., & Brandt, M. J. (2025).
 Registered report: Cognitive ability, but not cognitive reflection
 predicts expressing greater political animosity and favouritism.
-<i>British Journal of Social Psychology</i>.
+<i>British Journal of Social Psychology, 64</i> e12814.
 <a href="https://osf.io/9k4yw">pdf</a> |
 <a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
 <li>
