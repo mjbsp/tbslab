@@ -2,15 +2,6 @@
 
 <ul>
 <li>
-Brandt, M. J. & Vallabha, S. (in press). Intraindividual changes in
-political identity strength (but not direction) are associated with
-political animosity in the United States and the Netherlands.
-<i>Personality and Social Psychology Bulletin</i>.
-<a href="https://doi.org/10.1177/01461672231203471">doi</a> |
-<a href="https://osf.io/xr3pw">pdf</a> |
-<a href="https://osf.io/sefg9/">code</a> |
-<a href="https://osf.io/sefg9/">data</a>
-<li>
 Cassario, A. L. & Brandt, M. J. (in press). Testing theories of threat,
 conservatism, and individual difference: Little evidence of personality
 based individual differences in ideological responses to threat.
@@ -45,6 +36,15 @@ prejudice? <i>Collabra: Psychology</i>.
 ## 2025
 
 <ul>
+<li>
+Brandt, M. J. & Vallabha, S. (2025). Intraindividual changes in
+political identity strength (but not direction) are associated with
+political animosity in the United States and the Netherlands.
+<i>Personality and Social Psychology Bulletin, 51</i>, 828-844.
+<a href="https://doi.org/10.1177/01461672231203471">doi</a> |
+<a href="https://osf.io/xr3pw">pdf</a> |
+<a href="https://osf.io/sefg9/">code</a> |
+<a href="https://osf.io/sefg9/">data</a>
 <li>
 Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (2025). The onset of
 the COVID-19 pandemic made people feel threatened, but had a limited

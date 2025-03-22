@@ -82,10 +82,10 @@ Science, 23</i>, 27-34.
 <a href="https://doi.org/10.1177/0963721413510932">doi</a> |
 <a href="https://osf.io/tqdzj/">pdf</a>
 <li>
-Brandt, M. J. & Vallabha, S. (in press). Intraindividual Changes in
+Brandt, M. J. & Vallabha, S. (2025). Intraindividual Changes in
 Political Identity Strength (but not Direction) are Associated with
 Political Animosity in the United States and the Netherlands.
-<i>Personality and Social Psychology Bulletin</i>.
+<i>Personality and Social Psychology Bulletin, 51</i>, 828-844.
 <a href="https://osf.io/xr3pw">pdf</a> |
 <a href="https://osf.io/sefg9/">code</a> |
 <a href="https://osf.io/sefg9/">data</a>
