@@ -22,15 +22,6 @@ structure of European belief systems: Exploring the varieties of belief
 systems across 23 European countries. <i>European Sociological
 Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
 <a href="https://osf.io/9r84f">pdf</a>
-<li>
-Wetherell, G., Thompson, J. L., Cassario, A., Brandt, M. J., Gnall, S.,
-Rice, S., Solanki, P., Vallabha, S., & Carillo, A. (in press). Do
-mismatches between individual and target group personality predict
-prejudice? <i>Collabra: Psychology</i>.
-<a href="https://osf.io/jncps">pdf</a> |
-<a href="https://osf.io/zy7u6/?view_only=e6f82290ab014f7582a42d8dfc14051c">code</a>
-|
-<a href="https://osf.io/zy7u6/?view_only=e6f82290ab014f7582a42d8dfc14051c">data</a>
 </ul>
 
 ## 2025
@@ -99,6 +90,16 @@ C. J. Wong (Eds.), <i>Handbook of Innovations in Political
 Psychology</i> (pp. 304-328). Edward Elgar Publishing Limited.
 <a href="https://doi.org/10.4337/9781803924830.00024">doi</a> |
 <a href="https://osf.io/7kw38">pdf</a>
+<li>
+Wetherell, G., Thompson, J. L., Cassario, A., Brandt, M. J., Gnall, S.,
+Rice, S., Solanki, P., Vallabha, S., & Carillo, A. (2025). Do mismatches
+between individual and target group personality predict prejudice?
+<i>Collabra: Psychology, 11</i>, 136887. .
+<a href="https://doi.org/10.1525/collabra.136887">doi</a> |
+<a href="https://osf.io/jncps">pdf</a> |
+<a href="https://osf.io/zy7u6/?view_only=e6f82290ab014f7582a42d8dfc14051c">code</a>
+|
+<a href="https://osf.io/zy7u6/?view_only=e6f82290ab014f7582a42d8dfc14051c">data</a>
 </ul>
 
 ## 2024
