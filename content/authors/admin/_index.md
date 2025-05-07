@@ -14,7 +14,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:brandt15@msu.edu
-- icon: bluesky
+- icon: fa-bluesky
   icon_pack: fab
   link: https://twitter.com/mjbsp
 - icon: cloud-sun
