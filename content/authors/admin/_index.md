@@ -14,12 +14,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:brandt15@msu.edu
-- icon: bluesky
-  icon_pack: fab
+- icon: cloud-sun
+  icon_pack: fas
   link: https://bsky.app/profile/mjbsp.bsky.social
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/mark-brandt-4a7b30350/ 
+  link: https://www.linkedin.com/in/mark-brandt-4a7b30350/
 superuser: true
 ---
 
