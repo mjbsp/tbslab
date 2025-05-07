@@ -94,7 +94,7 @@ Psychology</i> (pp. 304-328). Edward Elgar Publishing Limited.
 Wetherell, G., Thompson, J. L., Cassario, A., Brandt, M. J., Gnall, S.,
 Rice, S., Solanki, P., Vallabha, S., & Carillo, A. (2025). Do mismatches
 between individual and target group personality predict prejudice?
-<i>Collabra: Psychology, 11</i>, 136887. .
+<i>Collabra: Psychology, 11</i>, 136887.
 <a href="https://doi.org/10.1525/collabra.136887">doi</a> |
 <a href="https://osf.io/jncps">pdf</a> |
 <a href="https://osf.io/zy7u6/?view_only=e6f82290ab014f7582a42d8dfc14051c">code</a>
