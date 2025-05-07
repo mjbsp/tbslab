@@ -16,9 +16,6 @@ social:
   link: mailto:brandt15@msu.edu
 - icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/mjbsp
-- icon: cloud-sun
-  icon_pack: fas
   link: https://bsky.app/profile/mjbsp.bsky.social
 superuser: true
 ---
