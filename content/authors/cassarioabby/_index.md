@@ -31,7 +31,7 @@ Specifically, I have substantive interests in ideology, ideological development,
 
 Before MSU, I received my BA in political science and psychology from the University of North Carolina at Asheville, and my MA in political science from the University of North Carolina at Chapel Hill.
 
-Find more at my [personal website](https://alcassario.github.io).
+Find more at my [personal website](https://abigailcassario.github.io).
 
 ## Lab Publications
 
