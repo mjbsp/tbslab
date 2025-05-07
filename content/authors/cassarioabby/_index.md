@@ -16,10 +16,10 @@ social:
   link: mailto:cassario@msu.edu
 - icon: user
   icon_pack: fas
-  link: https://alcassario.github.io
+  link: https://abigailcassario.github.io
 - icon: "cv"
   icon_pack: ai
-  link: https://alcassario.github.io/Cassario_cv_8_14.pdf 
+  link: https://abigailcassario.github.io/2025_05_5_Cassario_cv.pdf
 superuser: true
 user_groups:
 - Researchers
