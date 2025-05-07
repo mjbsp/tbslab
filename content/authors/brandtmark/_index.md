@@ -17,12 +17,12 @@ social:
 - icon: "cv"
   icon_pack: ai
   link: https://osf.io/vn6bw/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mjbsp
 - icon: cloud-sun
   icon_pack: fas
   link: https://bsky.app/profile/mjbsp.bsky.social
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mark-brandt-4a7b30350/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_qHgIbAAAAAJ&hl=en
