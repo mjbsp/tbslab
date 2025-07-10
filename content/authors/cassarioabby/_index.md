@@ -37,10 +37,11 @@ Find more at my [personal website](https://abigailcassario.github.io).
 
 <ul>
 <li>
-Cassario, A. L. & Brandt, M. J. (in press). Testing theories of threat,
+Cassario, A. L. & Brandt, M. J. (2025). Testing theories of threat,
 conservatism, and individual difference: Little evidence of personality
 based individual differences in ideological responses to threat.
-<i>Social Psychological and Personality Science</i>.
+<i>Social Psychological and Personality Science, 16</i>, 657-668.
+<a href="https://doi.org/10.1177/19485506241284688">doi</a> |
 <a href="https://osf.io/42tvs">pdf</a> |
 <a href="https://osf.io/7x2ge/">code</a> |
 <a href="https://osf.io/7x2ge/">data</a>
