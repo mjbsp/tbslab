@@ -11,6 +11,15 @@ valid test. <i>European Journal of Personality</i>.
 <a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 <li>
 
+Tunç, M. N., Brandt, M. J., & Zeelenberg, M. (in press). Are regret and
+disappointment differentially associated with norm compliant and norm
+deviant failures? Cognition and Emotion.
+<a href="https://doi.org/10.1080/02699931.2025.2524870">doi</a> |
+<a href="https://osf.io/vnuxe">pdf</a> |
+<a href="https://osf.io/7hd5t/?view_only">code</a> |
+<a href="https://osf.io/7hd5t/?view_only">data</a>
+<li>
+
 Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
 Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
 structure of European belief systems: Exploring the varieties of belief
