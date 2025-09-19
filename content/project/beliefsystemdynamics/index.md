@@ -70,6 +70,11 @@ of Social Psychology</i>, 53, 1342-1358.
 <a href="https://osf.io/64zad/">code</a> |
 <a href="https://osf.io/64zad/">data</a>
 <li>
+Hasan, K. F. A., Yustisia, W., Milla, M. N., & Brandt, M. J. (in press).
+What is the most important issue in the political belief system in
+Indonesia? A network analysis of attitude and voting behavior in 2014
+and 2019. <i>Makara Human Behavior Studies in Asia</i>.
+<li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (2024). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
 attitude stability. <i>Personality and Social Psychology Bulletin,

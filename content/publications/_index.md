@@ -4,6 +4,12 @@
 
 <li>
 
+Hasan, K. F. A., Yustisia, W., Milla, M. N., & Brandt, M. J. (in press).
+What is the most important issue in the political belief system in
+Indonesia? A network analysis of attitude and voting behavior in 2014
+and 2019. <i>Makara Human Behavior Studies in Asia</i>.
+<li>
+
 Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
 spurious effects in cross-lagged panel models: Triangulation is not a
 valid test. <i>European Journal of Personality</i>.
@@ -18,20 +24,20 @@ deviant failures? Cognition and Emotion.
 <a href="https://osf.io/vnuxe">pdf</a> |
 <a href="https://osf.io/7hd5t/?view_only">code</a> |
 <a href="https://osf.io/7hd5t/?view_only">data</a>
-<li>
-
-Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
-Easterbrook, M. J., Kuppens, T., & Spruyt, B. (in press). The nature and
-structure of European belief systems: Exploring the varieties of belief
-systems across 23 European countries. <i>European Sociological
-Review</i>. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
-<a href="https://osf.io/9r84f">pdf</a>
 </ul>
 
 ## 2025
 
 <ul>
 
+<li>
+
+Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
+Easterbrook, M. J., Kuppens, T., & Spruyt, B. (2025). The nature and
+structure of European belief systems: Exploring the varieties of belief
+systems across 23 European countries. <i>European Sociological Review,
+41</i>, 143-161. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
+<a href="https://osf.io/9r84f">pdf</a>
 <li>
 
 Brandt, M. J. & Vallabha, S. (2025). Intraindividual changes in
