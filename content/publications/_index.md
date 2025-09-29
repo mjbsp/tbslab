@@ -17,6 +17,12 @@ valid test. <i>European Journal of Personality</i>.
 <a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 <li>
 
+Thompson, J. L., Cassario, A., Vallabha, S., Rice, S., Gnall, S.,
+Carrillo, A., Solanki, P., Brandt, M. J, & Wetherell, G. A. (in press)
+Stress testing predictive models of ideological prejudice. <i>PLoS
+ONE</i>.
+<li>
+
 Tunç, M. N., Brandt, M. J., & Zeelenberg, M. (in press). Are regret and
 disappointment differentially associated with norm compliant and norm
 deviant failures? Cognition and Emotion.
