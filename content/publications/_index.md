@@ -115,7 +115,7 @@ Psychology, 46</i>, 3-5.
 Thompson, J. L., Cassario, A., Vallabha, S., Rice, S., Gnall, S.,
 Carrillo, A., Solanki, P., Brandt, M. J, & Wetherell, G. A. (2025)
 Stress testing predictive models of ideological prejudice. <i>PLoS ONE,
-20<i>, e0334152
+20</i>, e0334152
 <a href="https://doi.org/10.1371/journal.pone.0334152">doi</a> |
 <a href="https://osf.io/kztga/files/hc78a">pdf</a>
 <li>
