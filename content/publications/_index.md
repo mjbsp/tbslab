@@ -11,13 +11,6 @@ valid test. <i>European Journal of Personality</i>.
 <a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 <li>
 
-Thompson, J. L., Cassario, A., Vallabha, S., Rice, S., Gnall, S.,
-Carrillo, A., Solanki, P., Brandt, M. J, & Wetherell, G. A. (in press)
-Stress testing predictive models of ideological prejudice. <i>PLoS
-ONE</i>. <a href="https://doi.org/10.1371/journal.pone.0334152">doi</a>
-| <a href="https://osf.io/kztga/files/hc78a">pdf</a>
-<li>
-
 Tunç, M. N., Brandt, M. J., & Zeelenberg, M. (in press). Are regret and
 disappointment differentially associated with norm compliant and norm
 deviant failures? Cognition and Emotion.
@@ -80,10 +73,10 @@ predicts expressing greater political animosity and favouritism.
 <a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
 <li>
 
-Hasan, K. F. A., Yustisia, W., Milla, M. N., & Brandt, M. J. (in press).
+Hasan, K. F. A., Yustisia, W., Milla, M. N., & Brandt, M. J. (2025).
 What is the most important issue in the political belief system in
 Indonesia? A network analysis of attitude and voting behavior in 2014
-and 2019. <i>Makara Human Behavior Studies in Asia</i>.
+and 2019. <i>Makara Human Behavior Studies in Asia, 29</i>, 115-136.
 <a href="https://doi.org/10.7454/hubs.asia.v29.i2.1601">doi</a> |
 <a href="https://osf.io/kztga/files/cd9ma">pdf</a>
 <li>
@@ -117,6 +110,14 @@ transparency in Political Psychology’s next chapter. <i>Political
 Psychology, 46</i>, 3-5.
 <a href="https://doi.org/10.1111/pops.13074">doi</a> |
 <a href="https://osf.io/nybxm">pdf</a>
+<li>
+
+Thompson, J. L., Cassario, A., Vallabha, S., Rice, S., Gnall, S.,
+Carrillo, A., Solanki, P., Brandt, M. J, & Wetherell, G. A. (2025)
+Stress testing predictive models of ideological prejudice. <i>PLoS ONE,
+20<i>, e0334152
+<a href="https://doi.org/10.1371/journal.pone.0334152">doi</a> |
+<a href="https://osf.io/kztga/files/hc78a">pdf</a>
 <li>
 
 Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,

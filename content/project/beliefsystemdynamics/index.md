@@ -70,10 +70,12 @@ of Social Psychology</i>, 53, 1342-1358.
 <a href="https://osf.io/64zad/">code</a> |
 <a href="https://osf.io/64zad/">data</a>
 <li>
-Hasan, K. F. A., Yustisia, W., Milla, M. N., & Brandt, M. J. (in press).
+Hasan, K. F. A., Yustisia, W., Milla, M. N., & Brandt, M. J. (2025).
 What is the most important issue in the political belief system in
 Indonesia? A network analysis of attitude and voting behavior in 2014
-and 2019. <i>Makara Human Behavior Studies in Asia</i>.
+and 2019. <i>Makara Human Behavior Studies in Asia, 29</i>, 115-136.
+<a href="https://doi.org/10.7454/hubs.asia.v29.i2.1601">doi</a> |
+<a href="https://osf.io/kztga/files/cd9ma">pdf</a>
 <li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (2024). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
