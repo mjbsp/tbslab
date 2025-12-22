@@ -4,12 +4,6 @@
 
 <li>
 
-Hasan, K. F. A., Yustisia, W., Milla, M. N., & Brandt, M. J. (in press).
-What is the most important issue in the political belief system in
-Indonesia? A network analysis of attitude and voting behavior in 2014
-and 2019. <i>Makara Human Behavior Studies in Asia</i>.
-<li>
-
 Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
 spurious effects in cross-lagged panel models: Triangulation is not a
 valid test. <i>European Journal of Personality</i>.
@@ -20,7 +14,8 @@ valid test. <i>European Journal of Personality</i>.
 Thompson, J. L., Cassario, A., Vallabha, S., Rice, S., Gnall, S.,
 Carrillo, A., Solanki, P., Brandt, M. J, & Wetherell, G. A. (in press)
 Stress testing predictive models of ideological prejudice. <i>PLoS
-ONE</i>.
+ONE</i>. <a href="https://doi.org/10.1371/journal.pone.0334152">doi</a>
+| <a href="https://osf.io/kztga/files/hc78a">pdf</a>
 <li>
 
 Tunç, M. N., Brandt, M. J., & Zeelenberg, M. (in press). Are regret and
@@ -83,6 +78,22 @@ predicts expressing greater political animosity and favouritism.
 <a href="https://doi.org/10.1111/bjso.12814">doi</a> |
 <a href="https://osf.io/9k4yw">pdf</a> |
 <a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
+<li>
+
+Hasan, K. F. A., Yustisia, W., Milla, M. N., & Brandt, M. J. (in press).
+What is the most important issue in the political belief system in
+Indonesia? A network analysis of attitude and voting behavior in 2014
+and 2019. <i>Makara Human Behavior Studies in Asia</i>.
+<a href="https://doi.org/10.7454/hubs.asia.v29.i2.1601">doi</a> |
+<a href="https://osf.io/kztga/files/cd9ma">pdf</a>
+<li>
+
+Johnson, B. B., Brandt, M. J., Turner-Zwinkels, F., & Swedlow, B. (in
+press). How alike are universal values, moral foundations, cultural
+theory, and cultural cognition theory? A comparison of theories,
+concepts, and measures. <i>Social Science Quarterly</i>.
+<a href="http://dx.doi.org/10.1111/ssqu.70107">doi</a> |
+<a href="https://osf.io/kztga/files/zq85e">pdf</a>
 <li>
 
 Kteily, N. S.+ & Brandt, M. J.+ (2025). Ideology: Psychological
