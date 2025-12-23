@@ -18,21 +18,24 @@ user_groups:
 
 <ul>
 <li>
-Turner-Zwinkels, F. M. & Brandt, M. J. (in press). Ideology strength
+Turner-Zwinkels, F. M. & Brandt, M. J. (2024). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
-attitude stability. <i>Personality and Social Psychology Bulletin</i>.
+attitude stability. <i>Personality and Social Psychology Bulletin,
+51</i>, 125-138.
 <a href="https://doi.org/10.1177/01461672231189015">doi</a> |
 <a href="https://osf.io/et73p">pdf</a> |
 <a href="https://osf.io/gbvyk/?view_only=fc7b3022d9f0401cadac524c1dc44ad1">code</a>
 <li>
+
 Turner-Zwinkels, F. M., van Noord, J., Kesberg, R., Garcia-Sánchez, E.,
 Brandt, M. J., Kuppens, T., Easterbrook, M. J., Turner-Zwinkels, T.,
-Gorska, P. Marchlewska, M., & Smets, L. (in press). Affective
-polarization and political belief systems: The role of political
-identity, and the content and structure of political beliefs.
-<i>Personality and Social Psychology Bulletin</i>.
+Gorska, P. Marchlewska, M., & Smets, L. (2025). Affective polarization
+and political belief systems: The role of political identity, and the
+content and structure of political beliefs. <i>Personality and Social
+Psychology Bulletin, 51</i>, 222-238.
 <a href="https://doi.org/10.1177/01461672231183935">doi</a> |
-<a href="https://osf.io/he2ay">pdf</a>
+<a href="https://osf.io/he2ay">pdf</a> |
+<a href="https://osf.io/stbpk/">code</a>
 <li>
 Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
 can be used to predict where to expect dynamic constraint. <i>Journal of
@@ -46,10 +49,12 @@ Bulletin, 47</i>, 167-184.
 <a href="https://doi.org/10.1177%2F0146167220916070">doi</a> |
 <a href="https://osf.io/m4kzy/">pdf</a>
 <li>
-Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (in press). The onset
-of the COVID-19 pandemic made people feel threatened, but had a limited
+Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (2025). The onset of
+the COVID-19 pandemic made people feel threatened, but had a limited
 impact on political attitudes in the United States. <i>Personality and
-Social Psychology Bulletin</i>. <a href="https://osf.io/ahtk6">pdf</a> |
+Social Psychology Bulletin, 51</i>, 284-300.
+<a href="https://doi.org/10.1177/01461672231190233">doi</a> |
+<a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
 <li>
 Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., van Leeuwen,
@@ -78,8 +83,30 @@ that proximity to the July 4th holiday affects affective polarization.
 <a href="https://osf.io/26bua/">code</a> |
 <a href="https://osf.io/26bua/">data</a>
 <li>
+
+Johnson, B. B., Brandt, M. J., Turner-Zwinkels, F., & Swedlow, B. (in
+press). How alike are universal values, moral foundations, cultural
+theory, and cultural cognition theory? A comparison of theories,
+concepts, and measures. <i>Social Science Quarterly</i>.
+<a href="http://dx.doi.org/10.1111/ssqu.70107">doi</a> |
+<a href="https://osf.io/kztga/files/zq85e">pdf</a>
+<li>
+
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
-Turner-Zwinkels, F. (in press). Finding (dis-)advantaged system
-justifiers – A bottom-up approach to explore system justification
-theory. <i>European Journal of Social Psychology</i>.
+Turner-Zwinkels, F. (2024). Finding (dis-)advantaged system justifiers –
+A bottom-up approach to explore system justification theory. <i>European
+Journal of Social Psychology, 54</i>, 81-96.
+<a href="https://doi.org/10.1002/ejsp.2989">doi</a> |
+<a href="https://osf.io/76cx5">pdf</a> |
+<a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">code</a>
+|
+<a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
+<li>
+
+Van Noord, J., Turner-Zwinkels, F., Kesberg, R., Brandt, M. J.,
+Easterbrook, M. J., Kuppens, T., & Spruyt, B. (2025). The nature and
+structure of European belief systems: Exploring the varieties of belief
+systems across 23 European countries. <i>European Sociological Review,
+41</i>, 143-161. <a href="https://doi.org/10.1093/esr/jcae011">doi</a> |
+<a href="https://osf.io/9r84f">pdf</a>
 </ul>
