@@ -17,6 +17,7 @@ user_groups:
 
 <ul>
 <li>
+
 Kodapanakkala, R. I., Kogler, C., Brandt, M. J., & van Beest, I. (2024).
 Differences in information acquisition and justice sensitivity predict
 adoption of apps affecting own and others’ privacy. <i>Acta
