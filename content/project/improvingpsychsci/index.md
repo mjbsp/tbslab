@@ -14,6 +14,8 @@ url_video: ""
 
 Psychological science, and social psychology in particular, has faced a number of challenges over the last several years. This includes failed replications, publication bias, underspecified theories, and a science that often ignores the perspectives of underrepresented and marginalized groups. We won’t always live up to our high expectations for a solid science, but my preferred response is to try our best to do better in terms of the replicability of our results, the robustness of our methods, and the quality of our theories.
 
+The lab has contributed to these efforts in several ways. For example, we have published replications (e.g., Brandt, 2020) and developed guidelines for conducting high quality replications (Brandt et al., 2014). We have also contributed to (e.g., Klein et al., 2018) and lead (Brandt et al., 2020) a variety of large-scale projects that leverage data collection from around the world. A key part of a rigorous science is training the next generation of scientists to do rigorous work. Our contributions to CREP (e.g., Wagge et al., 2023) is one contribution to doing that.
+
 ## Key Project Publications
 
 <ul>
