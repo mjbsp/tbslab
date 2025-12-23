@@ -24,6 +24,7 @@ Future projects aim to comprehensively map how life experiences are related to c
 
 <ul>
 <li>
+
 Brandt, M. J. (2013). Do the disadvantaged legitimize the social system?
 A large-scale test of the status-legitimacy hypothesis. <i>Journal of
 Personality and Social Psychology, 104</i>, 765-785.
@@ -33,11 +34,13 @@ Personality and Social Psychology, 104</i>, 765-785.
 <a href="https://osf.io/bcnuy/">pdf</a> |
 <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/QKPDH7">code</a>
 <li>
+
 Brandt, M. J. & Bakker, B. N. (2022). The complicated but solvable
 threat–politics relationship. <i>Trends in Cognitive Sciences, 26</i>,
 368-370. <a href="https://doi.org/10.1016/j.tics.2022.02.005">doi</a> |
 <a href="https://osf.io/9anvg/">pdf</a>
 <li>
+
 Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F.,
 Babincak, P. … & Zimmerman, J. L. (2020). Subjective status and
 perceived legitimacy across countries. <i>European Journal of Social
@@ -47,6 +50,7 @@ Psychology, 50</i>, 921-942.
 <a href="https://osf.io/5uxc7/">code</a> |
 <a href="https://osf.io/5uxc7/">data</a>
 <li>
+
 Brandt, M. J. & Reyna, C. (2017). Individual differences in the
 resistance to social change and acceptance of inequality predict system
 legitimacy differently depending on the social structure. <i>European
@@ -56,6 +60,7 @@ Journal of Personality, 31</i>, 266-278.
 <a href="https://osf.io/f54qe/">code</a> |
 <a href="https://osf.io/f54qe/">data</a>
 <li>
+
 Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., van Leeuwen,
 F., Bender, M., van Osch, Y., & Adams, B. G. (2021). The association
 between threat and politics depends on the type of threat, the political
@@ -66,6 +71,7 @@ domain, and the country. <i>Personality and Social Psychology Bulletin,
 <a href="https://osf.io/8zafp/">code</a> |
 <a href="https://osf.io/8zafp/">data</a>
 <li>
+
 Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (2025). The onset of
 the COVID-19 pandemic made people feel threatened, but had a limited
 impact on political attitudes in the United States. <i>Personality and
@@ -74,6 +80,7 @@ Social Psychology Bulletin, 51</i>, 284-300.
 <a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
 <li>
+
 Brandt, M. J., Wetherell, G., & Henry, P.J. (2015). Changes in income
 predict change in social trust: A longitudinal analysis. <i>Political
 Psychology, 36</i>, 761-768.
@@ -81,6 +88,7 @@ Psychology, 36</i>, 761-768.
 <a href="https://osf.io/2jkhv/">pdf</a> |
 <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/CJHN6D">code</a>
 <li>
+
 Cassario, A. L. & Brandt, M. J. (in press). Testing theories of threat,
 conservatism, and individual difference: Little evidence of personality
 based individual differences in ideological responses to threat.
@@ -89,6 +97,7 @@ based individual differences in ideological responses to threat.
 <a href="https://osf.io/7x2ge/">code</a> |
 <a href="https://osf.io/7x2ge/">data</a>
 <li>
+
 Kesberg, R., Brandt, M. J., Easterbrook, M., Spruyt, B., &
 Turner-Zwinkels, F. (2024). Finding (dis-)advantaged system justifiers –
 A bottom-up approach to explore system justification theory. <i>European
@@ -99,11 +108,13 @@ Journal of Social Psychology, 54</i>, 81-96.
 |
 <a href="https://osf.io/gvcfx/?view_only=62031f9f7b6147af8c3c615d11340c1c">data</a>
 <li>
+
 Proulx, T. & Brandt, M. J. (2017). Beyond threat and uncertainty: The
 underpinnings of conservatism. <i>Social Cognition, 35</i>, 313-323
 <a href="https://doi.org/10.1521/soco.2017.35.4.313">doi</a> |
 <a href="https://osf.io/dt29g/">pdf</a>
 <li>
+
 Stavrova, O., Evans, A. M., & Brandt, M. J. (2021). Ecological
 dimensions explain the past, but do not predict future changes in trust.
 <i>American Psychologist, 76</i>, 983-996.
