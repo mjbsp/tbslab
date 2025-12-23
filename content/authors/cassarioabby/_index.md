@@ -56,6 +56,7 @@ predicts expressing greater political animosity and favouritism.
 <a href="https://osf.io/9k4yw">pdf</a> |
 <a href="https://osf.io/t68z4/?view_only=d49d4f006864411a9592b8e76400eed7">code</a>
 <li>
+
 Brandt, M. J. & Cassario, A. (2023). Distinguishing between worldview
 conflict and shared alliances: Commentary on Pinsof, Sears, and
 Haselton. <i>Psychological Inquiry, 34,</i> 168-174.
