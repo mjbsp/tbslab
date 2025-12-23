@@ -37,6 +37,7 @@ Find more at my [personal website](https://abigailcassario.github.io).
 
 <ul>
 <li>
+
 Cassario, A. L. & Brandt, M. J. (2025). Testing theories of threat,
 conservatism, and individual difference: Little evidence of personality
 based individual differences in ideological responses to threat.
