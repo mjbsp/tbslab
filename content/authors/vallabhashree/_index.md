@@ -24,10 +24,13 @@ historical blame. <i>Journal of Personality and Social Psychology,
 127</i>, 638–663. <a href="https://doi.org/10.1037/pspi0000452">doi</a>
 | <a href="https://osf.io/j3vp9">pdf</a>
 <li>
-Brandt, M. J. & Vallabha, S. (in press). Inter-attitude centrality does
-not appear to reduce persuasion for political attitudes. <i>European
-Journal of Social Psychology</i>. <a href="https://osf.io/cqkvt">pdf</a>
-| <a href="https://osf.io/64zad/">code</a> |
+
+Brandt, M. J. & Vallabha, S. (2023). Inter-attitude centrality does not
+appear to reduce persuasion for political attitudes. <i>European Journal
+of Social Psychology</i>, 53, 1342-1358.
+<a href="https://doi.org/10.1002/ejsp.2980">doi</a> |
+<a href="https://osf.io/cqkvt">pdf</a> |
+<a href="https://osf.io/64zad/">code</a> |
 <a href="https://osf.io/64zad/">data</a>
 <li>
 Brandt, M. J. & Vallabha, S. (2025). Intraindividual changes in
