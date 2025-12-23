@@ -18,6 +18,7 @@ user_groups:
 
 <ul>
 <li>
+
 Turner-Zwinkels, F. M. & Brandt, M. J. (2024). Ideology strength
 vs. party identity strength: Ideology strength is the key predictor of
 attitude stability. <i>Personality and Social Psychology Bulletin,

@@ -28,7 +28,7 @@ user_groups:
 - Researchers
 ---
 
-I’m a second year PhD student at Michigan State University and a member of the Beliefs Systems Lab. My research interests include social/moral decision-making and attributions to discrimination under conditions of uncertainty, impression formation, stereotyping, and intergroup relations more broadly. I’m also interested in advancing and promoting open science practices, philosophy of psychological science, and quantitative/qualitative research methods in psychology. 
+I’m a third year PhD student at Michigan State University and a member of the Beliefs Systems Lab. My research interests include social/moral decision-making and attributions to discrimination under conditions of uncertainty, impression formation, stereotyping, and intergroup relations more broadly. I’m also interested in advancing and promoting open science practices, philosophy of psychological science, and quantitative/qualitative research methods in psychology. 
 
 Before coming to MSU, I received a bachelor’s degree in Psychology at Oklahoma State in 2021, and a master’s degree in Cognitive/Affective Psychology at University of Wisconsin Oshkosh in 2023.
 

@@ -17,6 +17,7 @@ user_groups:
 
 <ul>
 <li>
+
 Tunç, M . N., Brandt, M. J., & Zeelenberg, M. (2023). Not every
 dissatisfaction is the same: The impact of electoral regret,
 disappointment, and anger on subsequent electoral behavior. <i>Emotion,

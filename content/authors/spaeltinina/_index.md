@@ -18,13 +18,6 @@ user_groups:
 
 <ul>
 <li>
-Brandt, M. J. & Spälti, A. K. (2018). Norms and explanations in social
-and political psychology. In J. T. Crawford & L. Jussim (Eds.)
-<i>Frontiers of Social Psychology Series: Politics of Social
-Psychology</i> (pp 26-43). Psychology Press.
-<a href="https://doi.org/10.4324/9781315112619-3">doi</a> |
-<a href="https://osf.io/sp6b3/">pdf</a>
-<li>
 
 Spälti, A. K., Brandt, M. J., & Zeelenberg, M. (2017). Memory retrieval
 processes help explain the incumbency advantage. <i>Judgment and
@@ -59,4 +52,12 @@ vs. previous preferences: Which cue drives consumer decision-making?
 | <a href="https://psyarxiv.com/gqv72/download">pdf</a> |
 <a href="https://osf.io/k5cq9/">code</a> |
 <a href="https://osf.io/k5cq9/">data</a>
+<li>
+
+Brandt, M. J. & Spälti, A. K. (2018). Norms and explanations in social
+and political psychology. In J. T. Crawford & L. Jussim (Eds.)
+<i>Frontiers of Social Psychology Series: Politics of Social
+Psychology</i> (pp 26-43). Psychology Press.
+<a href="https://doi.org/10.4324/9781315112619-3">doi</a> |
+<a href="https://osf.io/sp6b3/">pdf</a>
 </ul>

@@ -18,6 +18,7 @@ user_groups:
 
 <ul>
 <li>
+
 Wagemans, F. A. M., Brandt, M. J., & Zeelenberg, M. (2019). Weirdness of
 disgust sensitivity items predicts their relationship to purity moral
 judgments. <i>Personality and Individual Differences, 146</i>, 182-187.
