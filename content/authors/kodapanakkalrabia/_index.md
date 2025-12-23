@@ -17,9 +17,10 @@ user_groups:
 
 <ul>
 <li>
-Kodapanakkala, R. I., Kogler, C., Brandt, M. J., & van Beest, I. (in
-press). Differences in information acquisition and justice sensitivity
-predict adoption of apps affecting own and others’ privacy. <i>Acta
+
+Kodapanakkala, R. I., Kogler, C., Brandt, M. J., & van Beest, I. (2024).
+Differences in information acquisition and justice sensitivity predict
+adoption of apps affecting own and others’ privacy. <i>Acta
 Psychologica, 251</i>, 104589.
 <a href="https://doi.org/10.1016/j.actpsy.2024.104589">doi</a> |
 <a href="https://osf.io/pqjtv">pdf</a> |
