@@ -25,6 +25,7 @@ Psychology</i> (pp 26-43). Psychology Press.
 <a href="https://doi.org/10.4324/9781315112619-3">doi</a> |
 <a href="https://osf.io/sp6b3/">pdf</a>
 <li>
+
 Spälti, A. K., Brandt, M. J., & Zeelenberg, M. (2017). Memory retrieval
 processes help explain the incumbency advantage. <i>Judgment and
 Decision Making, 12</i>, 173-182.
@@ -33,6 +34,7 @@ Decision Making, 12</i>, 173-182.
 <a href="https://osf.io/2r93z/">code</a> |
 <a href="https://osf.io/2r93z/">data</a>
 <li>
+
 Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, November 10).
 Comparing the Effects of Decision Time and Direct Decision Processing
 Information on (Moral) Character Evaluations. <i>PsyArXiv</i>.
@@ -41,6 +43,7 @@ Information on (Moral) Character Evaluations. <i>PsyArXiv</i>.
 <a href="https://osf.io/abexc/">code</a> |
 <a href="https://osf.io/abexc/">data</a>
 <li>
+
 Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, July 12). The effects
 of decision time on perceptions of decisions and decision makers in
 (moral) trade-off scenarios. <i>PsyArXiv</i>.
@@ -49,6 +52,7 @@ of decision time on perceptions of decisions and decision makers in
 <a href="https://osf.io/wg395/">code</a> |
 <a href="https://osf.io/wg395/">data</a>
 <li>
+
 Spälti, A., Brandt, M. J., & Zeelenberg, M. (2019, July 6). Endowment
 vs. previous preferences: Which cue drives consumer decision-making?
 <i>PsyArXiv</i>. <a href="https://doi.org/10.31234/osf.io/gqv72">doi</a>

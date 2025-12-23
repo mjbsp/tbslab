@@ -37,11 +37,13 @@ Psychology Bulletin, 51</i>, 222-238.
 <a href="https://osf.io/he2ay">pdf</a> |
 <a href="https://osf.io/stbpk/">code</a>
 <li>
+
 Turner-Zwinkels, F. M. & Brandt, M. J. (2022). Belief system networks
 can be used to predict where to expect dynamic constraint. <i>Journal of
 Experimental Social Psychology, 100</i>, 104279.
 <a href="https://osf.io/s2hdc/">pdf</a>
 <li>
+
 Turner-Zwinkels, F. M., Sibley, C. G., Johnson, B. B., & Brandt, M. J.
 (2021). Conservatives moral foundations are more densely connected than
 liberals’ moral foundations. <i>Personality and Social Psychology
@@ -49,6 +51,7 @@ Bulletin, 47</i>, 167-184.
 <a href="https://doi.org/10.1177%2F0146167220916070">doi</a> |
 <a href="https://osf.io/m4kzy/">pdf</a>
 <li>
+
 Brandt, M. J., Vallabha, S., & Turner-Zwinkels, F. (2025). The onset of
 the COVID-19 pandemic made people feel threatened, but had a limited
 impact on political attitudes in the United States. <i>Personality and
@@ -57,6 +60,7 @@ Social Psychology Bulletin, 51</i>, 284-300.
 <a href="https://osf.io/ahtk6">pdf</a> |
 <a href="https://osf.io/279gd/">code</a>
 <li>
+
 Brandt, M. J., Turner-Zwinkels, F. M., Karapirinler, B., van Leeuwen,
 F., Bender, M., van Osch, Y., & Adams, B. G. (2021). The association
 between threat and politics depends on the type of threat, the political
@@ -67,6 +71,7 @@ domain, and the country. <i>Personality and Social Psychology Bulletin,
 <a href="https://osf.io/8zafp/">code</a> |
 <a href="https://osf.io/8zafp/">data</a>
 <li>
+
 Brandt, M. J., Turner-Zwinkels, F. M., & Kubin, E. (2021). Political
 psychology data from a 26-wave yearlong longitudinal study (2019-2020).
 <i>Journal of Open Psychology Data, 9</i>, 1-12
@@ -75,6 +80,7 @@ psychology data from a 26-wave yearlong longitudinal study (2019-2020).
 <a href="https://osf.io/3pwvb/">code</a> |
 <a href="https://osf.io/3pwvb/">data</a>
 <li>
+
 Brandt, M. J. & Turner-Zwinkels, F. M. (2020). No additional evidence
 that proximity to the July 4th holiday affects affective polarization.
 <i>Collabra: Psychology, 6</i>, 39.

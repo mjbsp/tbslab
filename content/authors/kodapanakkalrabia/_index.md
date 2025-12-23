@@ -17,7 +17,6 @@ user_groups:
 
 <ul>
 <li>
-
 Kodapanakkala, R. I., Kogler, C., Brandt, M. J., & van Beest, I. (2024).
 Differences in information acquisition and justice sensitivity predict
 adoption of apps affecting own and others’ privacy. <i>Acta
@@ -27,6 +26,7 @@ Psychologica, 251</i>, 104589.
 <a href="https://osf.io/ktwgd/">code</a> |
 <a href="https://osf.io/ktwgd/">data</a>
 <li>
+
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (2022).
 Moral frames are persuasive and moralize attitudes; nonmoral frames are
 persuasive and de-moralize attitudes. <i>Psychological Science, 33</i>,
@@ -36,6 +36,7 @@ persuasive and de-moralize attitudes. <i>Psychological Science, 33</i>,
 |
 <a href="https://osf.io/zt6ab/?view_only=14968af11e8641b19fa2832c4a02f477">data</a>
 <li>
+
 Kodapanakkal, R. I., Brandt, M. J., Kogler, C., & van Beest, I. (2022).
 Moral relevance varies due to inter-individual and intra-individual
 differences across big data technology domains. <i>European Journal of
@@ -46,6 +47,7 @@ Social Psychology, 52</i>, 46-70.
 |
 <a href="https://osf.io/v3j85/?view_only=43f106b0a47a4af7a15d6b2aad44d06c">data</a>
 <li>
+
 Kodapanakkal, R.I., Brandt, M.J., Kogler, C., & van Beest, I., (2020).
 Self-interest and data protection drive the adoption and moral
 acceptability of big data technologies: A conjoint analysis

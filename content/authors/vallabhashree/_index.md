@@ -33,6 +33,7 @@ of Social Psychology</i>, 53, 1342-1358.
 <a href="https://osf.io/64zad/">code</a> |
 <a href="https://osf.io/64zad/">data</a>
 <li>
+
 Brandt, M. J. & Vallabha, S. (2025). Intraindividual changes in
 political identity strength (but not direction) are associated with
 political animosity in the United States and the Netherlands.
