@@ -29,8 +29,7 @@ disappointment, and anger on subsequent electoral behavior. <i>Emotion,
 
 Tunç, M. N., Brandt, M. J., & Zeelenberg, M. (in press). Are regret and
 disappointment differentially associated with norm compliant and norm
-deviant failures? Cognition and Emotion.
-<a href="https://doi.org/10.1080/02699931.2025.2524870">doi</a> |
+deviant failures? <i>Cognition and Emotion, 40</i>, 567-583. <a href="https://doi.org/10.1080/02699931.2025.2524870">doi</a> |
 <a href="https://osf.io/vnuxe">pdf</a> |
 <a href="https://osf.io/7hd5t/?view_only">code</a> |
 <a href="https://osf.io/7hd5t/?view_only">data</a>

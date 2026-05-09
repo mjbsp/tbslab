@@ -1,19 +1,12 @@
-## In Press
+## 2026
 
 <ul>
 
 <li>
 
-Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
-spurious effects in cross-lagged panel models: Triangulation is not a
-valid test. <i>European Journal of Personality</i>.
-<a href="https://doi.org/10.1177/08902070241297856">doi</a> |
-<a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
-<li>
-
 Tunç, M. N., Brandt, M. J., & Zeelenberg, M. (in press). Are regret and
 disappointment differentially associated with norm compliant and norm
-deviant failures? Cognition and Emotion.
+deviant failures? <i>Cognition and Emotion, 40</i>, 567-583.
 <a href="https://doi.org/10.1080/02699931.2025.2524870">doi</a> |
 <a href="https://osf.io/vnuxe">pdf</a> |
 <a href="https://osf.io/7hd5t/?view_only">code</a> |
@@ -95,6 +88,13 @@ re-examined. <i>Annual Review of Psychology, 76</i>, 501-529. +shared
 authorship
 <a href="https://doi.org/10.1146/annurev-psych-020124-115253">doi</a> |
 <a href="https://osf.io/dghqn">pdf</a>
+<li>
+
+Lucas, R. E., Weidmann, R., & Brandt, M. J. (in press). Detecting
+spurious effects in cross-lagged panel models: Triangulation is not a
+valid test. <i>European Journal of Personality, 39</i>, 814-822..
+<a href="https://doi.org/10.1177/08902070241297856">doi</a> |
+<a href="https://osf.io/preprints/psyarxiv/4uwt6">pdf</a>
 <li>
 
 Ren, D., Loh W. W., Chung, J. M., & Brandt, M. J. (2025).
